@@ -1,0 +1,1729 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "mbta/92",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://cdn.mbta.com/realtime/VehiclePositions.pb",
+          "i": "http://realtime.mbta.com"
+        }
+      },
+      {
+        "id": "mbta/91",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://cdn.mbta.com/realtime/TripUpdates.pb",
+          "i": "http://realtime.mbta.com"
+        }
+      },
+      {
+        "id": "mbta/90",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://cdn.mbta.com/realtime/Alerts.pb",
+          "i": "http://realtime.mbta.com"
+        }
+      },
+      {
+        "id": "mbta/89",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Developer Resources",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "mta/88",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "MTA Developer Data",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "mta/87",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1617077966
+        },
+        "t": "Metro-North Railroad GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/86",
+        "l": {
+          "id": 120,
+          "lat": 40.789142,
+          "lng": -73.13496,
+          "n": "Long Island",
+          "pid": 91,
+          "t": "Long Island, New York, USA"
+        },
+        "latest": {
+          "ts": 1617065846
+        },
+        "t": "Long Island Rail Road GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/lirr/google_transit.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/85",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1615835486
+        },
+        "t": "NYC Bus Company GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/busco/google_transit.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/84",
+        "l": {
+          "id": 117,
+          "lat": 40.579532,
+          "lng": -74.150201,
+          "n": "Staten Island",
+          "pid": 91,
+          "t": "Staten Island, NY, USA"
+        },
+        "latest": {
+          "ts": 1615845446
+        },
+        "t": "MTA Staten Island GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_staten_island.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/83",
+        "l": {
+          "id": 118,
+          "lat": 40.728224,
+          "lng": -73.794852,
+          "n": "Queens",
+          "pid": 91,
+          "t": "Queens, NY, USA"
+        },
+        "latest": {
+          "ts": 1615844066
+        },
+        "t": "MTA Queens GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/82",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1615825528
+        },
+        "t": "MTA Manhattan GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_manhattan.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/81",
+        "l": {
+          "id": 116,
+          "lat": 40.85,
+          "lng": -73.866667,
+          "n": "Bronx",
+          "pid": 91,
+          "t": "Bronx, NY, USA"
+        },
+        "latest": {
+          "ts": 1615827686
+        },
+        "t": "MTA Bronx GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_bronx.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "mta/80",
+        "l": {
+          "id": 119,
+          "lat": 40.65,
+          "lng": -73.95,
+          "n": "Brooklyn",
+          "pid": 91,
+          "t": "Brooklyn, NY, USA"
+        },
+        "latest": {
+          "ts": 1615827928
+        },
+        "t": "MTA Brooklyn GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "transperth/2",
+        "l": {
+          "id": 6,
+          "lat": -31.953004,
+          "lng": 115.857469,
+          "n": "Perth",
+          "pid": 5,
+          "t": "Perth WA, Australia"
+        },
+        "latest": {
+          "ts": 1616908406
+        },
+        "t": "Transperth GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.transperth.wa.gov.au/TimetablePDFs/GoogleTransit/Production/google_transit.zip",
+          "i": "http://www.transperth.wa.gov.au/About/Spatial-Data-Access"
+        }
+      },
+      {
+        "id": "action-buses/3",
+        "l": {
+          "id": 8,
+          "lat": -35.282,
+          "lng": 149.128684,
+          "n": "Canberra",
+          "pid": 7,
+          "t": "Canberra ACT, Australia"
+        },
+        "latest": {
+          "ts": 1615835126
+        },
+        "t": "Action Buses GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.transport.act.gov.au/getting-around/bus-services/mobile-apps"
+        }
+      },
+      {
+        "id": "translink/4",
+        "l": {
+          "id": 11,
+          "lat": -20.26872,
+          "lng": 148.718456,
+          "n": "Airlie Beach",
+          "pid": 9,
+          "t": "Airlie Beach QLD 4802, Australia"
+        },
+        "latest": {
+          "ts": 1497039926
+        },
+        "t": "Airlie Beach GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/airlie.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/2f002735-7373-46f0-b63d-8ba3a0b28f65"
+        }
+      },
+      {
+        "id": "translink/5",
+        "l": {
+          "id": 12,
+          "lat": -20.012195,
+          "lng": 148.246291,
+          "n": "Bowen",
+          "pid": 9,
+          "t": "Bowen QLD 4805, Australia"
+        },
+        "latest": {
+          "ts": 1497126926
+        },
+        "t": "Bowen GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/bowen.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/999196bf-8815-47b5-ac90-e8caa9a7aee3"
+        }
+      },
+      {
+        "id": "translink/6",
+        "l": {
+          "id": 13,
+          "lat": -24.864963,
+          "lng": 152.348653,
+          "n": "Bundaberg",
+          "pid": 9,
+          "t": "Bundaberg QLD 4670, Australia"
+        },
+        "latest": {
+          "ts": 1497147206
+        },
+        "t": "Bundaberg GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/bundaberg.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/699184c3-8c0e-44db-8a83-7e23709aefbe"
+        }
+      },
+      {
+        "id": "translink/7",
+        "l": {
+          "id": 14,
+          "lat": -16.920334,
+          "lng": 145.77086,
+          "n": "Cairns",
+          "pid": 9,
+          "t": "Cairns QLD, Australia"
+        },
+        "latest": {
+          "ts": 1616683768
+        },
+        "t": "Cairns GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/CNS_GTFS.zip",
+          "i": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/9850f8e5-f572-4de7-97c5-84d45526f9bd"
+        }
+      },
+      {
+        "id": "translink/8",
+        "l": {
+          "id": 15,
+          "lat": -23.848708,
+          "lng": 151.2598,
+          "n": "Gladstone",
+          "pid": 9,
+          "t": "Gladstone QLD 4680, Australia"
+        },
+        "latest": {
+          "ts": 1497004286
+        },
+        "t": "Gladstone GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/gladstone.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/254f67be-ea12-4da1-8475-c5424359290e"
+        }
+      },
+      {
+        "id": "translink/9",
+        "l": {
+          "id": 16,
+          "lat": -26.190298,
+          "lng": 152.665391,
+          "n": "Gympie",
+          "pid": 9,
+          "t": "Gympie QLD 4570, Australia"
+        },
+        "latest": {
+          "ts": 1497061106
+        },
+        "t": "Gympie GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/gympie.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/e0366e86-298d-49e5-adbd-7be68c9e4b44"
+        }
+      },
+      {
+        "id": "translink/10",
+        "l": {
+          "id": 17,
+          "lat": -17.524681,
+          "lng": 146.032329,
+          "n": "Innisfail",
+          "pid": 9,
+          "t": "Innisfail QLD 4860, Australia"
+        },
+        "latest": {
+          "ts": 1497198326
+        },
+        "t": "Innisfail GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/innisfail.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/eaf2337f-368e-44ef-90e4-65858609b64e"
+        }
+      },
+      {
+        "id": "utah-transportation-authority/59",
+        "l": {
+          "id": 90,
+          "lat": 40.760779,
+          "lng": -111.891047,
+          "n": "Salt Lake City",
+          "pid": 89,
+          "t": "Salt Lake City, UT, USA"
+        },
+        "latest": {
+          "ts": 1616212347
+        },
+        "t": "UTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsfeed.rideuta.com/gtfs.zip",
+          "i": "http://developer.rideuta.com"
+        }
+      },
+      {
+        "id": "sfmta/60",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1615986206
+        },
+        "t": "Muni GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.sfmta.com/transitdata/google_transit.zip",
+          "i": "https://www.sfmta.com/about-sfmta/reports/gtfs-transit-data"
+        }
+      },
+      {
+        "id": "corpus-christi-rta/61",
+        "l": {
+          "id": 41,
+          "lat": 27.800583,
+          "lng": -97.396381,
+          "n": "Corpus Christi",
+          "pid": 35,
+          "t": "Corpus Christi, TX, USA"
+        },
+        "latest": {
+          "ts": 1555821330
+        },
+        "t": "CCRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ccrta.org/wp-content/uploads/2019/01/CCRTA-GTFS-Jan142019.zip",
+          "i": "http://www.ccrta.org/contacts/gtfs-feed/"
+        }
+      },
+      {
+        "id": "via-metropolitan-transit/62",
+        "l": {
+          "id": 39,
+          "lat": 29.424122,
+          "lng": -98.493628,
+          "n": "San Antonio",
+          "pid": 35,
+          "t": "San Antonio, TX, USA"
+        },
+        "latest": {
+          "ts": 1616447486
+        },
+        "t": "VIA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.viainfo.net/BusService/google_transit.zip",
+          "i": "http://viaprimo.com/Opportunities/DevLicense.aspx"
+        }
+      },
+      {
+        "id": "trafiklab/50",
+        "l": {
+          "id": 77,
+          "lat": 60.128161,
+          "lng": 18.643501,
+          "n": "Sweden",
+          "pid": 60,
+          "t": "Sweden"
+        },
+        "latest": {
+          "ts": 1616220929
+        },
+        "t": "TrafikLab GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.trafiklab.se/api"
+        }
+      },
+      {
+        "id": "mbta/64",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "latest": {
+          "ts": 1616917648
+        },
+        "t": "MBTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://cdn.mbta.com/MBTA_GTFS.zip"
+        }
+      },
+      {
+        "id": "marta/65",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "latest": {
+          "ts": 1607152707
+        },
+        "t": "MARTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.itsmarta.com/google_transit_feed/google_transit.zip",
+          "i": "http://www.itsmarta.com/app-developer-resources.aspx"
+        }
+      },
+      {
+        "id": "grta/66",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "latest": {
+          "ts": 1615839146
+        },
+        "t": "GRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gamobility.info/GTFS/Google_Transit.zip",
+          "i": "https://atlantaregional.org/transportation-mobility/transportation-planning/regional-transit-planning-coordination/"
+        }
+      },
+      {
+        "id": "sacramento-regional-transit/67",
+        "l": {
+          "id": 96,
+          "lat": 38.581572,
+          "lng": -121.4944,
+          "n": "Sacramento",
+          "pid": 67,
+          "t": "Sacramento, CA, USA"
+        },
+        "latest": {
+          "ts": 1615835006
+        },
+        "t": "SACRT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://iportal.sacrt.com/GTFS/SRTD/google_transit.zip"
+        }
+      },
+      {
+        "id": "valley-metro/68",
+        "l": {
+          "id": 98,
+          "lat": 33.448377,
+          "lng": -112.074037,
+          "n": "Phoenix",
+          "pid": 97,
+          "t": "Phoenix, AZ, USA"
+        },
+        "latest": {
+          "ts": 1616834606
+        },
+        "t": "Valley Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip",
+          "i": "https://phoenixopendata.com/dataset/valley-metro-bus-schedule/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7"
+        }
+      },
+      {
+        "id": "mexico-city-federal-district-government/70",
+        "l": {
+          "id": 104,
+          "lat": 19.432608,
+          "lng": -99.133208,
+          "n": "Mexico City",
+          "pid": 103,
+          "t": "Mexico City, Federal District, Mexico"
+        },
+        "latest": {
+          "ts": 1600160966
+        },
+        "t": "Mexico City GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://datos.cdmx.gob.mx/api/datasets/1.0/gtfs-general-transit-feed-specifications-actualizado-de-la-ciudad-de-mexico/alternative_exports/gtfs_zip/"
+        }
+      },
+      {
+        "id": "philippines/71",
+        "l": {
+          "id": 110,
+          "lat": 12.879721,
+          "lng": 121.774017,
+          "n": "Philippines",
+          "pid": 255,
+          "t": "Philippines"
+        },
+        "latest": {
+          "ts": 1418711299
+        },
+        "t": "Philippines GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip",
+          "i": "http://www.dotc.gov.ph/index.php/2014-09-02-05-02-46/transit-data"
+        }
+      },
+      {
+        "id": "adelaide-metro/72",
+        "l": {
+          "id": 4,
+          "lat": -34.928621,
+          "lng": 138.599959,
+          "n": "Adelaide",
+          "pid": 3,
+          "t": "Adelaide SA, Australia"
+        },
+        "t": "Adelaide Metro Developer Group",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "king-county-metro/73",
+        "l": {
+          "id": 66,
+          "lat": 47.606209,
+          "lng": -122.332071,
+          "n": "Seattle",
+          "pid": 65,
+          "t": "Seattle, WA, USA"
+        },
+        "latest": {
+          "ts": 1616755946
+        },
+        "t": "King County Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://metro.kingcounty.gov/GTFS/google_transit.zip",
+          "i": "http://www.kingcounty.gov/transportation/kcdot/MetroTransit/Developers.aspx"
+        }
+      },
+      {
+        "id": "wmata/75",
+        "l": {
+          "id": 112,
+          "lat": 38.907231,
+          "lng": -77.036464,
+          "n": "Washington",
+          "pid": 111,
+          "t": "Washington, DC, USA"
+        },
+        "latest": {
+          "ts": 1587047966
+        },
+        "t": "WMATA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+          "i": "https://developer.wmata.com/"
+        }
+      },
+      {
+        "id": "adelaide-metro/77",
+        "l": {
+          "id": 4,
+          "lat": -34.928621,
+          "lng": 138.599959,
+          "n": "Adelaide",
+          "pid": 3,
+          "t": "Adelaide SA, Australia"
+        },
+        "t": "Adelaide Metro Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "translink/78",
+        "l": {
+          "id": 10,
+          "lat": -27.471011,
+          "lng": 153.023449,
+          "n": "Brisbane",
+          "pid": 9,
+          "t": "Brisbane QLD, Australia"
+        },
+        "t": "TransLink Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "broward-county-transit/49",
+        "l": {
+          "id": 182,
+          "lat": 26.122308,
+          "lng": -80.143379,
+          "n": "Fort Lauderdale",
+          "pid": 74,
+          "t": "Fort Lauderdale, FL, USA"
+        },
+        "latest": {
+          "ts": 1616449406
+        },
+        "t": "Broward County Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.broward.org/bct/documents/google_transit.zip"
+        }
+      },
+      {
+        "id": "kolumbus/54",
+        "l": {
+          "id": 188,
+          "lat": 59.148954,
+          "lng": 6.014343,
+          "n": "Rogaland",
+          "pid": 83,
+          "t": "Rogaland, Norway"
+        },
+        "latest": {
+          "ts": 1616528366
+        },
+        "t": "Kolumbus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.rkt.no/gt/google_transit.zip"
+        }
+      },
+      {
+        "id": "york-regional-transit/34",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "latest": {
+          "ts": 1615835067
+        },
+        "t": "YRT/Viva GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.yrt.ca/google/google_transit.zip"
+        }
+      },
+      {
+        "id": "translink/74",
+        "l": {
+          "id": 10,
+          "lat": -27.471011,
+          "lng": 153.023449,
+          "n": "Brisbane",
+          "pid": 9,
+          "t": "Brisbane QLD, Australia"
+        },
+        "t": "TransLink SEQ Vehicle Positions & Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://gtfsrt.api.translink.com.au/"
+        }
+      },
+      {
+        "id": "translink/21",
+        "l": {
+          "id": 10,
+          "lat": -27.471011,
+          "lng": 153.023449,
+          "n": "Brisbane",
+          "pid": 9,
+          "t": "Brisbane QLD, Australia"
+        },
+        "latest": {
+          "ts": 1616681846
+        },
+        "t": "TransLink SEQ GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/SEQ_GTFS.zip",
+          "i": "https://translink.com.au/about-translink/open-data"
+        }
+      },
+      {
+        "id": "adelaide-metro/1",
+        "l": {
+          "id": 4,
+          "lat": -34.928621,
+          "lng": 138.599959,
+          "n": "Adelaide",
+          "pid": 3,
+          "t": "Adelaide SA, Australia"
+        },
+        "latest": {
+          "ts": 1616532806
+        },
+        "t": "Adelaide Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://adelaidemetro.com.au/GTFS/google_transit.zip",
+          "i": "http://www.adelaidemetro.com.au/Developer-Information"
+        }
+      },
+      {
+        "id": "thebus-honolulu/57",
+        "l": {
+          "id": 88,
+          "lat": 21.306944,
+          "lng": -157.858333,
+          "n": "Honolulu",
+          "pid": 87,
+          "t": "Honolulu, HI, USA"
+        },
+        "latest": {
+          "ts": 1617077786
+        },
+        "t": "TheBus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://webapps.thebus.org/transitdata/Production/google_transit.zip"
+        }
+      },
+      {
+        "id": "fort-worth-transportation-authority/56",
+        "l": {
+          "id": 86,
+          "lat": 32.725409,
+          "lng": -97.32085,
+          "n": "Fort Worth",
+          "pid": 35,
+          "t": "Fort Worth, TX, USA"
+        },
+        "latest": {
+          "ts": 1615840527
+        },
+        "t": "FWTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "ftp://ftp.fwta.org/fwtatransitdata.zip",
+          "i": "http://www.fwta.org/TransitDataGTFS.aspx"
+        }
+      },
+      {
+        "id": "cdta/55",
+        "l": {
+          "id": 85,
+          "lat": 42.652579,
+          "lng": -73.756232,
+          "n": "Albany",
+          "pid": 84,
+          "t": "Albany, NY, USA"
+        },
+        "latest": {
+          "ts": 1615847367
+        },
+        "t": "CDTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.cdta.org/schedules/google_transit.zip",
+          "i": "http://www.cdta.org/developer-tools-and-resources/174"
+        }
+      },
+      {
+        "id": "bkk/42",
+        "l": {
+          "id": 62,
+          "lat": 47.497912,
+          "lng": 19.040235,
+          "n": "Budapest",
+          "pid": 617,
+          "t": "Budapest, Hungary"
+        },
+        "latest": {
+          "ts": 1617070887
+        },
+        "t": "BKK GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.bkk.hu/gtfs/budapest_gtfs.zip"
+        }
+      },
+      {
+        "id": "reseau-de-transport-de-longueuil/37",
+        "l": {
+          "id": 57,
+          "lat": 45.536944,
+          "lng": -73.510713,
+          "n": "Longueuil",
+          "pid": 54,
+          "t": "Longueuil, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616920406
+        },
+        "t": "RTL GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.rtl-longueuil.qc.ca/transit/latestfeed/RTL.zip",
+          "i": "http://www.rtl-longueuil.qc.ca/en-CA/open-data/gtfs-files/"
+        }
+      },
+      {
+        "id": "guelph-transit/53",
+        "l": {
+          "id": 82,
+          "lat": 43.544805,
+          "lng": -80.248167,
+          "n": "Guelph",
+          "pid": 46,
+          "t": "Guelph, ON, Canada"
+        },
+        "latest": {
+          "ts": 1607386046
+        },
+        "t": "Guelph Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://guelph.ca/uploads/google/google_transit.zip"
+        }
+      },
+      {
+        "id": "abq-ride/52",
+        "l": {
+          "id": 81,
+          "lat": 35.110703,
+          "lng": -106.609991,
+          "n": "Albuquerque",
+          "pid": 80,
+          "t": "Albuquerque, NM, USA"
+        },
+        "latest": {
+          "ts": 1615839331
+        },
+        "t": "ABQ Ride GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.cabq.gov/transit/gtfs/google_transit.zip",
+          "i": "http://example.com"
+        }
+      },
+      {
+        "id": "mta/79",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1615845089
+        },
+        "t": "NYC Subway GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://web.mta.info/developers/data/nyct/subway/google_transit.zip",
+          "i": "http://mta.info/developers/download.html"
+        }
+      },
+      {
+        "id": "gruppo-torinese-trasporti/51",
+        "l": {
+          "id": 79,
+          "lat": 45.070982,
+          "lng": 7.685676,
+          "n": "Turin",
+          "pid": 522,
+          "t": "Turin, Italy"
+        },
+        "latest": {
+          "ts": 1616754926
+        },
+        "t": "Gruppo Torinese Trasporti GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.gtt.to.it/open_data/gtt_gtfs.zip"
+        }
+      },
+      {
+        "id": "miami-dade-county-transit/48",
+        "l": {
+          "id": 75,
+          "lat": 25.788969,
+          "lng": -80.226439,
+          "n": "Miami",
+          "pid": 74,
+          "t": "Miami, FL, USA"
+        },
+        "latest": {
+          "ts": 1615828228
+        },
+        "t": "MDC Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.miamidade.gov/transit/googletransit/current/google_transit.zip"
+        }
+      },
+      {
+        "id": "rtc-southern-nevada/47",
+        "l": {
+          "id": 73,
+          "lat": 36.114646,
+          "lng": -115.172816,
+          "n": "Las Vegas",
+          "pid": 71,
+          "t": "Las Vegas, NV, USA"
+        },
+        "latest": {
+          "ts": 1615830090
+        },
+        "t": "RTC Southern Nevada GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://rtcws.rtcsnv.com/g/google_transit.zip"
+        }
+      },
+      {
+        "id": "rtc-washoe/46",
+        "l": {
+          "id": 72,
+          "lat": 39.529633,
+          "lng": -119.813803,
+          "n": "Reno",
+          "pid": 71,
+          "t": "Reno, NV, USA"
+        },
+        "latest": {
+          "ts": 1615835846
+        },
+        "t": "RTC Washoe GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/rtc-nv-us/rtc-nv-us.zip",
+          "i": "https://www.rtcwashoe.com/public-transportation/resources-and-reports/"
+        }
+      },
+      {
+        "id": "vta/45",
+        "l": {
+          "id": 70,
+          "lat": 37.339386,
+          "lng": -121.894955,
+          "n": "San Jose",
+          "pid": 67,
+          "t": "San Jose, CA, USA"
+        },
+        "latest": {
+          "ts": 1615846887
+        },
+        "t": "VTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfs.vta.org/gtfs_vta.zip",
+          "i": "https://gtfs.vta.org"
+        }
+      },
+      {
+        "id": "sound-transit/44",
+        "l": {
+          "id": 66,
+          "lat": 47.606209,
+          "lng": -122.332071,
+          "n": "Seattle",
+          "pid": 65,
+          "t": "Seattle, WA, USA"
+        },
+        "latest": {
+          "ts": 1616759846
+        },
+        "t": "Sound Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://developer.onebusaway.org/tmp/sound/gtfs/modified/40_gtfs.zip",
+          "i": "http://www.soundtransit.org/Developer-resources/Data-downloads"
+        }
+      },
+      {
+        "id": "trimet/43",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "latest": {
+          "ts": 1616057846
+        },
+        "t": "TriMet GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://developer.trimet.org/schedule/gtfs.zip",
+          "i": "http://developer.trimet.org/GTFS.shtml"
+        }
+      },
+      {
+        "id": "christchurch-metro/41",
+        "l": {
+          "id": 59,
+          "lat": -43.532054,
+          "lng": 172.636225,
+          "n": "Christchurch",
+          "pid": 28,
+          "t": "Christchurch, New Zealand"
+        },
+        "latest": {
+          "ts": 1617071846
+        },
+        "t": "Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+        }
+      },
+      {
+        "id": "reseau-de-transport-de-la-capitale/40",
+        "l": {
+          "id": 55,
+          "lat": 46.803283,
+          "lng": -71.242796,
+          "n": "Quebec",
+          "pid": 54,
+          "t": "Quebec City, QC, Canada"
+        },
+        "latest": {
+          "ts": 1611101486
+        },
+        "t": "RTC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://cdn.rtcquebec.ca/Site_Internet/DonneesOuvertes/googletransit.zip",
+          "i": "https://www.rtcquebec.ca/donnees-ouvertes"
+        }
+      },
+      {
+        "id": "societe-de-transport-de-montreal/39",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615834046
+        },
+        "t": "STM GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip",
+          "i": "http://www.stm.info/en/about/developers"
+        }
+      },
+      {
+        "id": "societe-de-transport-de-laval/38",
+        "l": {
+          "id": 58,
+          "lat": 45.606649,
+          "lng": -73.712409,
+          "n": "Laval",
+          "pid": 54,
+          "t": "Laval, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616061688
+        },
+        "t": "STL GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.stl.laval.qc.ca/opendata/GTF_STL.zip"
+        }
+      },
+      {
+        "id": "metrotransit/36",
+        "l": {
+          "id": 53,
+          "lat": 44.648862,
+          "lng": -63.57532,
+          "n": "Halifax",
+          "pid": 52,
+          "t": "Halifax, NS, Canada"
+        },
+        "latest": {
+          "ts": 1613624676
+        },
+        "t": "MetroTransit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.halifax.ca/static/google_transit.zip",
+          "i": "http://www.halifax.ca/opendata/transit.php"
+        }
+      },
+      {
+        "id": "brampton-transit/35",
+        "l": {
+          "id": 51,
+          "lat": 43.683333,
+          "lng": -79.766667,
+          "n": "Brampton",
+          "pid": 46,
+          "t": "Brampton, ON, Canada"
+        },
+        "latest": {
+          "ts": 1612012346
+        },
+        "t": "Brampton Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Documents/Google_Transit.zip"
+        }
+      },
+      {
+        "id": "ttc/33",
+        "l": {
+          "id": 49,
+          "lat": 43.653226,
+          "lng": -79.383184,
+          "n": "Toronto",
+          "pid": 46,
+          "t": "Toronto, ON, Canada"
+        },
+        "latest": {
+          "ts": 1601557286
+        },
+        "t": "TTC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opendata.toronto.ca/TTC/routes/OpenData_TTC_Schedules.zip",
+          "i": "https://open.toronto.ca/dataset/ttc-routes-and-schedules/"
+        }
+      },
+      {
+        "id": "go-transit/32",
+        "l": {
+          "id": 49,
+          "lat": 43.653226,
+          "lng": -79.383184,
+          "n": "Toronto",
+          "pid": 46,
+          "t": "Toronto, ON, Canada"
+        },
+        "latest": {
+          "ts": 1616683887
+        },
+        "t": "GO Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.gotransit.com/static_files/gotransit/assets/Files/GO_GTFS.zip",
+          "i": "https://www.gotransit.com/en/information-resources/software-developers"
+        }
+      },
+      {
+        "id": "hamilton-street-railway/31",
+        "l": {
+          "id": 48,
+          "lat": 43.250021,
+          "lng": -79.866091,
+          "n": "Hamilton",
+          "pid": 46,
+          "t": "Hamilton, ON, Canada"
+        },
+        "latest": {
+          "ts": 1613625960
+        },
+        "t": "Hamilton Street Railway GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://googlehsrdocs.hamilton.ca/",
+          "i": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data"
+        }
+      },
+      {
+        "id": "oc-transpo/30",
+        "l": {
+          "id": 47,
+          "lat": 45.42153,
+          "lng": -75.697193,
+          "n": "Ottawa",
+          "pid": 46,
+          "t": "Ottawa, ON, Canada"
+        },
+        "latest": {
+          "ts": 1613625981
+        },
+        "t": "OC Transpo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.octranspo1.com/files/google_transit.zip"
+        }
+      },
+      {
+        "id": "translink-vancouver/29",
+        "l": {
+          "id": 45,
+          "lat": 49.261226,
+          "lng": -123.113927,
+          "n": "Vancouver",
+          "pid": 44,
+          "t": "Vancouver, BC, Canada"
+        },
+        "latest": {
+          "ts": 1616842046
+        },
+        "t": "TransLink GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://developer.translink.ca/ServicesGtfs/GtfsData"
+        }
+      },
+      {
+        "id": "bc-transit/28",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "latest": {
+          "ts": 1463613121
+        },
+        "t": "BC Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://bctransit.com/servlet/bctransit/data/GTFS.zip",
+          "i": "http://bctransit.com/*/footer/open-data"
+        }
+      },
+      {
+        "id": "edmonton-transit-system/27",
+        "l": {
+          "id": 43,
+          "lat": 53.544389,
+          "lng": -113.490927,
+          "n": "Edmonton",
+          "pid": 42,
+          "t": "Edmonton, AB, Canada"
+        },
+        "latest": {
+          "ts": 1617074247
+        },
+        "t": "ETS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/gtfs.zip",
+          "i": "https://data.edmonton.ca/Transit/ETS-Bus-Schedule-GTFS-Data-Schedules-zipped-files/urjq-fvmq"
+        }
+      },
+      {
+        "id": "dart/26",
+        "l": {
+          "id": 38,
+          "lat": 32.78014,
+          "lng": -96.800451,
+          "n": "Dallas",
+          "pid": 35,
+          "t": "Dallas, TX, USA"
+        },
+        "latest": {
+          "ts": 1615983807
+        },
+        "t": "DART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.dart.org/transitdata/latest/google_transit.zip"
+        }
+      },
+      {
+        "id": "metro/25",
+        "l": {
+          "id": 40,
+          "lat": 29.760193,
+          "lng": -95.36939,
+          "n": "Houston",
+          "pid": 35,
+          "t": "Houston, TX, USA"
+        },
+        "latest": {
+          "ts": 1615842867
+        },
+        "t": "METRO Houston GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ridemetro.org/Downloads/google_transit.zip",
+          "i": "http://www.ridemetro.org/Pages/NewsDownloads.aspx"
+        }
+      },
+      {
+        "id": "capital-metro/24",
+        "l": {
+          "id": 37,
+          "lat": 30.267153,
+          "lng": -97.743061,
+          "n": "Austin",
+          "pid": 35,
+          "t": "Austin, TX, USA"
+        },
+        "latest": {
+          "ts": 1615830806
+        },
+        "t": "Capital Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://data.texas.gov/download/r4v4-vz24/application/zip",
+          "i": "https://www.capmetro.org/metrolabs/"
+        }
+      },
+      {
+        "id": "winnipeg-transit/23",
+        "l": {
+          "id": 34,
+          "lat": 49.899754,
+          "lng": -97.137494,
+          "n": "Winnipeg",
+          "pid": 33,
+          "t": "Winnipeg, MB, Canada"
+        },
+        "latest": {
+          "ts": 1617075686
+        },
+        "t": "Winnipeg Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+          "i": "http://api.winnipegtransit.com/"
+        }
+      },
+      {
+        "id": "metlink/22",
+        "l": {
+          "id": 29,
+          "lat": -41.28646,
+          "lng": 174.776236,
+          "n": "Wellington",
+          "pid": 28,
+          "t": "Wellington, New Zealand"
+        },
+        "latest": {
+          "ts": 1611732206
+        },
+        "t": "Metlink GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.metlink.org.nz/assets/Google_Transit/google-transit.zip",
+          "i": "http://www.metlink.org.nz/customer-services/general-transit-feed-specification/"
+        }
+      },
+      {
+        "id": "translink/20",
+        "l": {
+          "id": 26,
+          "lat": -23.127888,
+          "lng": 150.745366,
+          "n": "Yeppoon",
+          "pid": 9,
+          "t": "Yeppoon QLD 4703, Australia"
+        },
+        "latest": {
+          "ts": 1497206366
+        },
+        "t": "Yeppoon GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/yeppoon.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/63dec6b1-bb77-470f-bb34-54fa0db3d6a7"
+        }
+      },
+      {
+        "id": "translink/19",
+        "l": {
+          "id": 25,
+          "lat": -28.214373,
+          "lng": 152.035145,
+          "n": "Warwick",
+          "pid": 9,
+          "t": "Warwick QLD 4370, Australia"
+        },
+        "latest": {
+          "ts": 1497062246
+        },
+        "t": "Warwick GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/warwick.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/4b6cc276-0d70-4c9c-adac-0b8cb384268a"
+        }
+      },
+      {
+        "id": "translink/18",
+        "l": {
+          "id": 27,
+          "lat": -19.257627,
+          "lng": 146.817871,
+          "n": "Townsville",
+          "pid": 9,
+          "t": "Townsville QLD, Australia"
+        },
+        "latest": {
+          "ts": 1497047486
+        },
+        "t": "Townsville GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/townsville.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/52000300-84cf-4a16-b85f-66c9debdb6b6"
+        }
+      },
+      {
+        "id": "translink/17",
+        "l": {
+          "id": 24,
+          "lat": -27.56433,
+          "lng": 151.953987,
+          "n": "Toowoomba",
+          "pid": 9,
+          "t": "Toowoomba QLD, Australia"
+        },
+        "latest": {
+          "ts": 1503599186
+        },
+        "t": "Toowoomba GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/toowoomba.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/48501fd9-148b-4b96-a9fa-b412d768048c"
+        }
+      },
+      {
+        "id": "translink/16",
+        "l": {
+          "id": 23,
+          "lat": -23.322212,
+          "lng": 150.512433,
+          "n": "Rockhampton",
+          "pid": 9,
+          "t": "Rockhampton QLD, Australia"
+        },
+        "latest": {
+          "ts": 1497072026
+        },
+        "t": "Rockhampton GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/rockhampton.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/ac8aa7e0-0153-43b8-bb3d-5848eefb5ac0"
+        }
+      },
+      {
+        "id": "translink/15",
+        "l": {
+          "id": 22,
+          "lat": -25.537122,
+          "lng": 152.701553,
+          "n": "Maryborough",
+          "pid": 9,
+          "t": "Maryborough QLD 4650, Australia"
+        },
+        "latest": {
+          "ts": 1497090626
+        },
+        "t": "Maryborough / Harvey Bay GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/maryborough-herveybay.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/ee40c2d4-f170-426d-9719-3cc3e32c567c"
+        }
+      },
+      {
+        "id": "translink/14",
+        "l": {
+          "id": 21,
+          "lat": -26.758137,
+          "lng": 152.852074,
+          "n": "Maleny",
+          "pid": 9,
+          "t": "Maleny QLD 4552, Australia"
+        },
+        "latest": {
+          "ts": 1497221366
+        },
+        "t": "Maleny / Landsborough GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/maleny-landsborough.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/f1e2c86e-eac3-4852-b2c6-f5fc150645a5"
+        }
+      },
+      {
+        "id": "translink/13",
+        "l": {
+          "id": 20,
+          "lat": -19.135865,
+          "lng": 146.842356,
+          "n": "Magnetic Island",
+          "pid": 9,
+          "t": "Magnetic Island, Queensland, Australia"
+        },
+        "latest": {
+          "ts": 1497163646
+        },
+        "t": "Magnetic Island GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/magnetic-island.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/81030a70-b1e1-4cb1-b7ae-67051d1368e5"
+        }
+      },
+      {
+        "id": "translink/12",
+        "l": {
+          "id": 19,
+          "lat": -21.14121,
+          "lng": 149.185625,
+          "n": "Mackay",
+          "pid": 9,
+          "t": "Mackay QLD 4740, Australia"
+        },
+        "latest": {
+          "ts": 1497213566
+        },
+        "t": "Mackay GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/mackay.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/03426b3e-1ea6-4878-bd9b-cfaef7ca2b1d"
+        }
+      },
+      {
+        "id": "translink/11",
+        "l": {
+          "id": 18,
+          "lat": -26.942995,
+          "lng": 152.565245,
+          "n": "Kilcoy",
+          "pid": 9,
+          "t": "Kilcoy QLD 4515, Australia"
+        },
+        "latest": {
+          "ts": 1497082166
+        },
+        "t": "Kilcoy GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/kilcoy.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/81202b71-e93b-4707-a991-4a03c4c0d3bb"
+        }
+      },
+      {
+        "id": "bart/58",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1615825591
+        },
+        "t": "BART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.bart.gov/dev/schedules/google_transit.zip",
+          "i": "http://www.bart.gov/schedules/developers"
+        }
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 13,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078102
+}

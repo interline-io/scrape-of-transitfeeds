@@ -1,0 +1,1766 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "lane-transit-district/314",
+        "l": {
+          "id": 225,
+          "lat": 44.052069,
+          "lng": -123.086754,
+          "n": "Eugene",
+          "pid": 63,
+          "t": "Eugene, OR, USA"
+        },
+        "latest": {
+          "ts": 1611463766
+        },
+        "t": "LTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+        }
+      },
+      {
+        "id": "metrotas/313",
+        "l": {
+          "id": 224,
+          "lat": -41.052465,
+          "lng": 145.906851,
+          "n": "Burnie",
+          "pid": 221,
+          "t": "Burnie TAS 7320, Australia"
+        },
+        "latest": {
+          "ts": 1616368526
+        },
+        "t": "MetroTas Burnie GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.metrotas.com.au/wp-content/uploads/transit/Burnie/google_transit.zip",
+          "i": "http://www.metrotas.com.au/community/gtfs/"
+        }
+      },
+      {
+        "id": "metrotas/312",
+        "l": {
+          "id": 223,
+          "lat": -41.426181,
+          "lng": 147.112468,
+          "n": "Launceston",
+          "pid": 221,
+          "t": "Launceston TAS, Australia"
+        },
+        "latest": {
+          "ts": 1616141248
+        },
+        "t": "MetroTas Launceston GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.metrotas.com.au/wp-content/uploads/transit/Launceston/google_transit.zip",
+          "i": "http://www.metrotas.com.au/community/gtfs/"
+        }
+      },
+      {
+        "id": "metrotas/311",
+        "l": {
+          "id": 222,
+          "lat": -42.881903,
+          "lng": 147.323815,
+          "n": "Hobart",
+          "pid": 221,
+          "t": "Hobart TAS, Australia"
+        },
+        "latest": {
+          "ts": 1616137526
+        },
+        "t": "MetroTas Hobart GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.metrotas.com.au/wp-content/uploads/transit/Hobart/google_transit.zip",
+          "i": "http://www.metrotas.com.au/community/gtfs/"
+        }
+      },
+      {
+        "id": "omnitrans/304",
+        "l": {
+          "id": 220,
+          "lat": 34.108345,
+          "lng": -117.289765,
+          "n": "San Bernardino",
+          "pid": 67,
+          "t": "San Bernardino, CA, USA"
+        },
+        "latest": {
+          "ts": 1609334608
+        },
+        "t": "OmniTrans GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.omnitrans.org/google/google_transit.zip"
+        }
+      },
+      {
+        "id": "ladot-transit-services/303",
+        "l": {
+          "id": 154,
+          "lat": 34.052234,
+          "lng": -118.243685,
+          "n": "Los Angeles",
+          "pid": 67,
+          "t": "Los Angeles, CA, USA"
+        },
+        "latest": {
+          "ts": 1576805606
+        },
+        "t": "LADOT GTFS Feed",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://ladotbus.com/gtfs",
+          "i": "https://www.ladottransit.com/dla.html"
+        }
+      },
+      {
+        "id": "transit-authority-of-northern-kentucky/302",
+        "l": {
+          "id": 219,
+          "lat": 39.051156,
+          "lng": -84.535029,
+          "n": "Fort Wright",
+          "pid": 198,
+          "t": "Fort Wright, KY, USA"
+        },
+        "latest": {
+          "ts": 1611830617
+        },
+        "t": "TANK GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.tankbus.org/Portals/tankbus/gtfs/tank-google-transit.zip"
+        }
+      },
+      {
+        "id": "unitrans/301",
+        "l": {
+          "id": 218,
+          "lat": 38.544907,
+          "lng": -121.740517,
+          "n": "Davis",
+          "pid": 67,
+          "t": "Davis, CA, USA"
+        },
+        "latest": {
+          "ts": 1534894646
+        },
+        "t": "Unitrans GTFS Feed",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://iportal.sacrt.com/GTFS/Unitrans/google_transit.zip"
+        }
+      },
+      {
+        "id": "nassau-inter-county-express/300",
+        "l": {
+          "id": 200,
+          "lat": 40.654615,
+          "lng": -73.559413,
+          "n": "Nassau",
+          "pid": 84,
+          "t": "Nassau, NY, USA"
+        },
+        "t": "NICE Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://nicebus.com/downloads/gtfs/NYC_NICE.proto",
+          "i": "http://www.nicebus.com/Passenger-Information/App-Developers.aspx"
+        }
+      },
+      {
+        "id": "detroit-department-of-transportation/299",
+        "l": {
+          "id": 217,
+          "lat": 42.331427,
+          "lng": -83.045754,
+          "n": "Detroit",
+          "pid": 135,
+          "t": "Detroit, MI, USA"
+        },
+        "latest": {
+          "ts": 1613625445
+        },
+        "t": "Detroit DOT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip",
+          "i": "https://data.detroitmi.gov/datasets/ddot-gtfs-file"
+        }
+      },
+      {
+        "id": "athens-public-transit/298",
+        "l": {
+          "id": 216,
+          "lat": 39.32924,
+          "lng": -82.101255,
+          "n": "Athens",
+          "pid": 170,
+          "t": "Athens, OH 45701, USA"
+        },
+        "latest": {
+          "ts": 1474920926
+        },
+        "t": "Athens Public Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.athenstransit.org/code/wp-content/athenstransit-athens-oh-us/google_transit.zip"
+        }
+      },
+      {
+        "id": "kitsap-transit/296",
+        "l": {
+          "id": 214,
+          "lat": 47.56732,
+          "lng": -122.632936,
+          "n": "Bremerton",
+          "pid": 65,
+          "t": "Bremerton, WA, USA"
+        },
+        "latest": {
+          "ts": 1616455466
+        },
+        "t": "Kitsap Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://apps.kitsaptransit.com/google/latest/google_transit.zip",
+          "i": "http://www.kitsaptransit.org/DeveloperUserAgreement.html"
+        }
+      },
+      {
+        "id": "fairfax-connector/295",
+        "l": {
+          "id": 213,
+          "lat": 38.846224,
+          "lng": -77.306373,
+          "n": "Fairfax",
+          "pid": 138,
+          "t": "Fairfax, VA, USA"
+        },
+        "latest": {
+          "ts": 1609934606
+        },
+        "t": "Fairfax Connector GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip",
+          "i": "https://www.fairfaxcounty.gov/connector/bustracker/data"
+        }
+      },
+      {
+        "id": "burlington-transit/294",
+        "l": {
+          "id": 212,
+          "lat": 43.32552,
+          "lng": -79.799032,
+          "n": "Burlington",
+          "pid": 46,
+          "t": "Burlington, ON, Canada"
+        },
+        "latest": {
+          "ts": 1617067167
+        },
+        "t": "BURT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip",
+          "i": "http://cob.burlington.opendata.arcgis.com/"
+        }
+      },
+      {
+        "id": "metrobus-transit/293",
+        "l": {
+          "id": 211,
+          "lat": 47.560541,
+          "lng": -52.712832,
+          "n": "St. John's",
+          "pid": 210,
+          "t": "St. John's, NL, Canada"
+        },
+        "latest": {
+          "ts": 1616676686
+        },
+        "t": "Metrobus Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.metrobustransit.ca/google/google_transit.zip",
+          "i": "http://www.metrobustransit.ca/insidepages.asp"
+        }
+      },
+      {
+        "id": "translink/292",
+        "l": {
+          "id": 14,
+          "lat": -16.920334,
+          "lng": 145.77086,
+          "n": "Cairns",
+          "pid": 9,
+          "t": "Cairns QLD, Australia"
+        },
+        "t": "Cairns Vehicle Positions & Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/Feed/MCS",
+          "i": "https://gtfsrt.api.translink.com.au/"
+        }
+      },
+      {
+        "id": "bart/287",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "t": "BART Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://api.bart.gov/gtfsrt/tripupdate.aspx",
+          "i": "http://www.bart.gov/schedules/developers"
+        }
+      },
+      {
+        "id": "bart/286",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "t": "BART Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://api.bart.gov/gtfsrt/alerts.aspx",
+          "i": "http://www.bart.gov/schedules/developers"
+        }
+      },
+      {
+        "id": "mta/285",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "NYC Subway Real-Time Estimates (L Train)",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://datamine.mta.info/"
+        }
+      },
+      {
+        "id": "association-of-train-operating-companies/284",
+        "l": {
+          "id": 177,
+          "lat": 55.378051,
+          "lng": -3.435973,
+          "n": "United Kingdom",
+          "pid": 60,
+          "t": "United Kingdom"
+        },
+        "latest": {
+          "ts": 1617070526
+        },
+        "t": "ATOC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://s3.eu-west-2.amazonaws.com/feeds.planar.network/gb-rail-latest.zip",
+          "i": "https://feeds.planar.network/"
+        }
+      },
+      {
+        "id": "c-tran/283",
+        "l": {
+          "id": 209,
+          "lat": 45.638728,
+          "lng": -122.661486,
+          "n": "Vancouver",
+          "pid": 65,
+          "t": "Vancouver, WA, USA"
+        },
+        "t": "C-TRAN Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "c-tran/282",
+        "l": {
+          "id": 209,
+          "lat": 45.638728,
+          "lng": -122.661486,
+          "n": "Vancouver",
+          "pid": 65,
+          "t": "Vancouver, WA, USA"
+        },
+        "latest": {
+          "ts": 1610585489
+        },
+        "t": "C-TRAN GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.c-tran.com/gtfs/gtfs_agreement_form.html"
+        }
+      },
+      {
+        "id": "nyc-dot/281",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1597424067
+        },
+        "t": "Staten Island Ferry GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.nyc.gov/html/dot/downloads/misc/siferry-gtfs.zip",
+          "i": "http://www.nyc.gov/html/dot/html/about/datafeeds.shtml"
+        }
+      },
+      {
+        "id": "cherriots/280",
+        "l": {
+          "id": 208,
+          "lat": 44.942898,
+          "lng": -123.035096,
+          "n": "Salem",
+          "pid": 63,
+          "t": "Salem, OR, USA"
+        },
+        "t": "Cherriots Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "cherriots/279",
+        "l": {
+          "id": 208,
+          "lat": 44.942898,
+          "lng": -123.035096,
+          "n": "Salem",
+          "pid": 63,
+          "t": "Salem, OR, USA"
+        },
+        "latest": {
+          "ts": 1609905749
+        },
+        "t": "Cherriots GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cherriots.org/media/doc/salem-or-us.zip",
+          "i": "https://www.cherriots.org/data/"
+        }
+      },
+      {
+        "id": "rtd-denver/278",
+        "l": {
+          "id": 108,
+          "lat": 39.737567,
+          "lng": -104.984718,
+          "n": "Denver",
+          "pid": 107,
+          "t": "Denver, CO, USA"
+        },
+        "t": "RTD Denver Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "lextran/277",
+        "l": {
+          "id": 207,
+          "lat": 38.040584,
+          "lng": -84.503716,
+          "n": "Lexington",
+          "pid": 198,
+          "t": "Lexington, KY, USA"
+        },
+        "t": "Lextran Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "lextran/276",
+        "l": {
+          "id": 207,
+          "lat": 38.040584,
+          "lng": -84.503716,
+          "n": "Lexington",
+          "pid": 198,
+          "t": "Lexington, KY, USA"
+        },
+        "latest": {
+          "ts": 1584648206
+        },
+        "t": "Lextran GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.lextran.com/wp-content/uploads/2019/12/GTFSFeed.zip",
+          "i": "http://www.lextran.com/gtfs"
+        }
+      },
+      {
+        "id": "port-authority-of-allegheny-county/275",
+        "l": {
+          "id": 206,
+          "lat": 40.440625,
+          "lng": -79.995886,
+          "n": "Pittsburgh",
+          "pid": 105,
+          "t": "Pittsburgh, PA, USA"
+        },
+        "t": "Port Authority Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "port-authority-of-allegheny-county/274",
+        "l": {
+          "id": 206,
+          "lat": 40.440625,
+          "lng": -79.995886,
+          "n": "Pittsburgh",
+          "pid": 105,
+          "t": "Pittsburgh, PA, USA"
+        },
+        "latest": {
+          "ts": 1583348846
+        },
+        "t": "Port Authority GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.portauthority.org/developerresources/",
+          "i": "https://www.portauthority.org/business-center/developer-resources/"
+        }
+      },
+      {
+        "id": "nassau-inter-county-express/268",
+        "l": {
+          "id": 200,
+          "lat": 40.654615,
+          "lng": -73.559413,
+          "n": "Nassau",
+          "pid": 84,
+          "t": "Nassau, NY, USA"
+        },
+        "latest": {
+          "ts": 1484719856
+        },
+        "t": "NICE GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip",
+          "i": "https://www.nicebus.com/Passenger-Information/App-showcase"
+        }
+      },
+      {
+        "id": "edmonton-transit-system/266",
+        "l": {
+          "id": 43,
+          "lat": 53.544389,
+          "lng": -113.490927,
+          "n": "Edmonton",
+          "pid": 42,
+          "t": "Edmonton, AB, Canada"
+        },
+        "t": "ETS Alerts",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "transit-authority-of-river-city/265",
+        "l": {
+          "id": 199,
+          "lat": 38.252665,
+          "lng": -85.758456,
+          "n": "Louisville",
+          "pid": 198,
+          "t": "Louisville, KY, USA"
+        },
+        "latest": {
+          "ts": 1611628106
+        },
+        "t": "TARC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://googletransit.ridetarc.org/feed/",
+          "i": "http://googletransit.ridetarc.org/feed/"
+        }
+      },
+      {
+        "id": "city-of-saskatoon/264",
+        "l": {
+          "id": 197,
+          "lat": 52.13437,
+          "lng": -106.647656,
+          "n": "Saskatoon",
+          "pid": 196,
+          "t": "Saskatoon, SK, Canada"
+        },
+        "latest": {
+          "ts": 1615989090
+        },
+        "t": "Saskatoon Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://apps2.saskatoon.ca/app/data/google_transit.zip",
+          "i": "http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/TransitAgency"
+        }
+      },
+      {
+        "id": "septa/263",
+        "l": {
+          "id": 106,
+          "lat": 39.952335,
+          "lng": -75.163789,
+          "n": "Philadelphia",
+          "pid": 105,
+          "t": "Philadelphia, PA, USA"
+        },
+        "latest": {
+          "ts": 1616136086
+        },
+        "t": "SEPTA Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://github.com/septadev/GTFS/releases"
+        }
+      },
+      {
+        "id": "septa/262",
+        "l": {
+          "id": 106,
+          "lat": 39.952335,
+          "lng": -75.163789,
+          "n": "Philadelphia",
+          "pid": 105,
+          "t": "Philadelphia, PA, USA"
+        },
+        "latest": {
+          "ts": 1615900947
+        },
+        "t": "SEPTA Rail GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://github.com/septadev/GTFS/releases",
+          "i": "https://github.com/septadev/GTFS/releases"
+        }
+      },
+      {
+        "id": "city-of-santa-monica/261",
+        "l": {
+          "id": 195,
+          "lat": 34.019454,
+          "lng": -118.491191,
+          "n": "Santa Monica",
+          "pid": 67,
+          "t": "Santa Monica, CA, USA"
+        },
+        "t": "Big Blue Bus Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "city-of-santa-monica/260",
+        "l": {
+          "id": 195,
+          "lat": 34.019454,
+          "lng": -118.491191,
+          "n": "Santa Monica",
+          "pid": 67,
+          "t": "Santa Monica, CA, USA"
+        },
+        "latest": {
+          "ts": 1616448566
+        },
+        "t": "Big Blue Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.bigbluebus.com/current.zip",
+          "i": "http://gtfs.bigbluebus.com/"
+        }
+      },
+      {
+        "id": "hillsborough-area-regional-transit/259",
+        "l": {
+          "id": 181,
+          "lat": 27.950575,
+          "lng": -82.457178,
+          "n": "Tampa",
+          "pid": 74,
+          "t": "Tampa, FL, USA"
+        },
+        "t": "HART OneBusAway API",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "hillsborough-area-regional-transit/258",
+        "l": {
+          "id": 181,
+          "lat": 27.950575,
+          "lng": -82.457178,
+          "n": "Tampa",
+          "pid": 74,
+          "t": "Tampa, FL, USA"
+        },
+        "t": "HART Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://api.tampa.onebusaway.org:8088/vehicle-positions",
+          "i": "https://github.com/Hillsborough-Transit-Authority/onebusaway-application-modules/wiki/Tampa---Third-Party-App-Interfaces"
+        }
+      },
+      {
+        "id": "hillsborough-area-regional-transit/257",
+        "l": {
+          "id": 181,
+          "lat": 27.950575,
+          "lng": -82.457178,
+          "n": "Tampa",
+          "pid": 74,
+          "t": "Tampa, FL, USA"
+        },
+        "t": "HART Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://api.tampa.onebusaway.org:8088/trip-updates",
+          "i": "https://github.com/Hillsborough-Transit-Authority/onebusaway-application-modules/wiki/Tampa---Third-Party-App-Interfaces"
+        }
+      },
+      {
+        "id": "virginia-railway-express/254",
+        "l": {
+          "id": 138,
+          "lat": 37.431573,
+          "lng": -78.656894,
+          "n": "Virginia",
+          "pid": 31,
+          "t": "Virginia, USA"
+        },
+        "t": "VRE Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "virginia-railway-express/253",
+        "l": {
+          "id": 138,
+          "lat": 37.431573,
+          "lng": -78.656894,
+          "n": "Virginia",
+          "pid": 31,
+          "t": "Virginia, USA"
+        },
+        "t": "VRE App Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "virginia-railway-express/252",
+        "l": {
+          "id": 138,
+          "lat": 37.431573,
+          "lng": -78.656894,
+          "n": "Virginia",
+          "pid": 31,
+          "t": "Virginia, USA"
+        },
+        "t": "VRE Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://www.vre.org/gtfs-realtime/TripUpdateFeed",
+          "i": "http://www.vre.org/programs/developer.html"
+        }
+      },
+      {
+        "id": "virginia-railway-express/251",
+        "l": {
+          "id": 138,
+          "lat": 37.431573,
+          "lng": -78.656894,
+          "n": "Virginia",
+          "pid": 31,
+          "t": "Virginia, USA"
+        },
+        "t": "VRE Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://www.vre.org/gtfs-realtime/VehiclePositionFeed",
+          "i": "http://www.vre.org/programs/developer.html"
+        }
+      },
+      {
+        "id": "virginia-railway-express/250",
+        "l": {
+          "id": 138,
+          "lat": 37.431573,
+          "lng": -78.656894,
+          "n": "Virginia",
+          "pid": 31,
+          "t": "Virginia, USA"
+        },
+        "latest": {
+          "ts": 1617069455
+        },
+        "t": "VRE GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.vre.org/gtfs/google_transit.zip",
+          "i": "http://www.vre.org/programs/developer.html"
+        }
+      },
+      {
+        "id": "mta-maryland/248",
+        "l": {
+          "id": 133,
+          "lat": 39.045755,
+          "lng": -76.641271,
+          "n": "Maryland",
+          "pid": 31,
+          "t": "Maryland, USA"
+        },
+        "t": "MTA Maryland Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "capital-metro/246",
+        "l": {
+          "id": 37,
+          "lat": 30.267153,
+          "lng": -97.743061,
+          "n": "Austin",
+          "pid": 35,
+          "t": "Austin, TX, USA"
+        },
+        "t": "Capital Metro Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "verde-lynx/245",
+        "l": {
+          "id": 190,
+          "lat": 34.739188,
+          "lng": -112.009879,
+          "n": "Cottonwood",
+          "pid": 97,
+          "t": "Cottonwood, AZ, USA"
+        },
+        "latest": {
+          "ts": 1471417946
+        },
+        "t": "Verde Lynx GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/verdelynx-az-us/verdelynx-az-us.zip"
+        }
+      },
+      {
+        "id": "sedona-roadrunner/244",
+        "l": {
+          "id": 192,
+          "lat": 34.86974,
+          "lng": -111.76099,
+          "n": "Sedona",
+          "pid": 97,
+          "t": "Sedona, AZ, USA"
+        },
+        "latest": {
+          "ts": 1462961999
+        },
+        "t": "RoadRunner GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/naipta-az-us/naipta-az-us.zip"
+        }
+      },
+      {
+        "id": "mountain-line/243",
+        "l": {
+          "id": 191,
+          "lat": 35.201352,
+          "lng": -111.639249,
+          "n": "Flagstaff",
+          "pid": 97,
+          "t": "Flagstaff, AZ, USA"
+        },
+        "latest": {
+          "ts": 1613625047
+        },
+        "t": "Mountain Line GTFS",
+        "ty": "gtfs",
+        "u": []
+      },
+      {
+        "id": "cottonwood-area-transit/242",
+        "l": {
+          "id": 190,
+          "lat": 34.739188,
+          "lng": -112.009879,
+          "n": "Cottonwood",
+          "pid": 97,
+          "t": "Cottonwood, AZ, USA"
+        },
+        "latest": {
+          "ts": 1609268726
+        },
+        "t": "CAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/cottonwood-az-us/cottonwood-az-us.zip"
+        }
+      },
+      {
+        "id": "ruter/241",
+        "l": {
+          "id": 189,
+          "lat": 59.913869,
+          "lng": 10.752245,
+          "n": "Oslo",
+          "pid": 83,
+          "t": "Oslo, Norway"
+        },
+        "t": "Ruter Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "ruter/240",
+        "l": {
+          "id": 189,
+          "lat": 59.913869,
+          "lng": 10.752245,
+          "n": "Oslo",
+          "pid": 83,
+          "t": "Oslo, Norway"
+        },
+        "latest": {
+          "ts": 1497686366
+        },
+        "t": "Ruter GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://reis.ruter.no/gtfs/gtfs.zip"
+        }
+      },
+      {
+        "id": "tuvisa-euskotran/239",
+        "l": {
+          "id": 187,
+          "lat": 42.859166,
+          "lng": -2.681792,
+          "n": "Vitoria-Gasteiz",
+          "pid": 166,
+          "t": "Vitoria-Gasteiz, Álava, Spain"
+        },
+        "latest": {
+          "ts": 1615905569
+        },
+        "t": "Tuvisa-EuskoTran GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.vitoria-gasteiz.org/we001/http/vgTransit/google_transit.zip"
+        }
+      },
+      {
+        "id": "calgary-transit/238",
+        "l": {
+          "id": 186,
+          "lat": 51.045325,
+          "lng": -114.058101,
+          "n": "Calgary",
+          "pid": 42,
+          "t": "Calgary, AB, Canada"
+        },
+        "latest": {
+          "ts": 1615832128
+        },
+        "t": "Calgary Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.calgary.ca/stories/s/u45n-7awa/"
+        }
+      },
+      {
+        "id": "transport-for-nsw/237",
+        "l": {
+          "id": 113,
+          "lat": -31.253218,
+          "lng": 146.921099,
+          "n": "New South Wales",
+          "pid": 2,
+          "t": "New South Wales, Australia"
+        },
+        "latest": {
+          "ts": 1552927886
+        },
+        "t": "Greater Sydney GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opendata.transport.nsw.gov.au/api/download/9ca31d18-5efa-43ec-870d-258ee3388614",
+          "i": "https://opendata.transport.nsw.gov.au/dataset/timetables-complete-gtfs"
+        }
+      },
+      {
+        "id": "montgomery-county-department-of-transportation/235",
+        "l": {
+          "id": 185,
+          "lat": 39.154743,
+          "lng": -77.240515,
+          "n": "Montgomery",
+          "pid": 133,
+          "t": "Montgomery, MD, USA"
+        },
+        "latest": {
+          "ts": 1613624982
+        },
+        "t": "Ride On GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.montgomerycountymd.gov/DOT-Transit/Resources/Files/GTFS/RideOnGTFS.zip",
+          "i": "http://www.montgomerycountymd.gov/DOT-Transit/GTFS/GTFSfiles.html"
+        }
+      },
+      {
+        "id": "mta/234",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "NYC Subway Real-Time Estimates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://datamine.mta.info/"
+        }
+      },
+      {
+        "id": "rochester-genesee-regional-transportation-authority/233",
+        "l": {
+          "id": 184,
+          "lat": 43.16103,
+          "lng": -77.610922,
+          "n": "Rochester",
+          "pid": 84,
+          "t": "Rochester, NY, USA"
+        },
+        "t": "RGRTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "rochester-genesee-regional-transportation-authority/232",
+        "l": {
+          "id": 184,
+          "lat": 43.16103,
+          "lng": -77.610922,
+          "n": "Rochester",
+          "pid": 84,
+          "t": "Rochester, NY, USA"
+        },
+        "t": "RGRTA Developer API",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "rochester-genesee-regional-transportation-authority/231",
+        "l": {
+          "id": 184,
+          "lat": 43.16103,
+          "lng": -77.610922,
+          "n": "Rochester",
+          "pid": 84,
+          "t": "Rochester, NY, USA"
+        },
+        "latest": {
+          "ts": 1616686466
+        },
+        "t": "RGRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://scheduledata.rgrta.com/google_transit.zip"
+        }
+      },
+      {
+        "id": "niagara-frontier-transportation-authority/230",
+        "l": {
+          "id": 183,
+          "lat": 42.886447,
+          "lng": -78.878369,
+          "n": "Buffalo",
+          "pid": 84,
+          "t": "Buffalo, NY, USA"
+        },
+        "latest": {
+          "ts": 1616142328
+        },
+        "t": "NFTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.nfta.com/metro/__googletransit/google_transit.zip"
+        }
+      },
+      {
+        "id": "hillsborough-area-regional-transit/229",
+        "l": {
+          "id": 181,
+          "lat": 27.950575,
+          "lng": -82.457178,
+          "n": "Tampa",
+          "pid": 74,
+          "t": "Tampa, FL, USA"
+        },
+        "t": "HART Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "hillsborough-area-regional-transit/228",
+        "l": {
+          "id": 181,
+          "lat": 27.950575,
+          "lng": -82.457178,
+          "n": "Tampa",
+          "pid": 74,
+          "t": "Tampa, FL, USA"
+        },
+        "latest": {
+          "ts": 1611309806
+        },
+        "t": "HART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.gohart.org/google/google_transit.zip"
+        }
+      },
+      {
+        "id": "psta/227",
+        "l": {
+          "id": 180,
+          "lat": 27.876394,
+          "lng": -82.777858,
+          "n": "Pinellas",
+          "pid": 74,
+          "t": "Pinellas, FL, USA"
+        },
+        "t": "PSTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "psta/226",
+        "l": {
+          "id": 180,
+          "lat": 27.876394,
+          "lng": -82.777858,
+          "n": "Pinellas",
+          "pid": 74,
+          "t": "Pinellas, FL, USA"
+        },
+        "t": "PSTA Real-Time API",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "psta/225",
+        "l": {
+          "id": 180,
+          "lat": 27.876394,
+          "lng": -82.777858,
+          "n": "Pinellas",
+          "pid": 74,
+          "t": "Pinellas, FL, USA"
+        },
+        "latest": {
+          "ts": 1611966986
+        },
+        "t": "PSTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.psta.net/Latest/google_transit.zip",
+          "i": "http://www.psta.net/developers/index.php"
+        }
+      },
+      {
+        "id": "transport-for-greater-manchester/224",
+        "l": {
+          "id": 179,
+          "lat": 53.479324,
+          "lng": -2.248485,
+          "n": "Manchester",
+          "pid": 178,
+          "t": "Manchester, UK"
+        },
+        "latest": {
+          "ts": 1608730286
+        },
+        "t": "Transport for Greater Manchester GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://odata.tfgm.com/opendata/downloads/TfGMgtfs.zip",
+          "i": "http://data.gov.uk/dataset/public-transport-schedules-gtfs"
+        }
+      },
+      {
+        "id": "county-connection/223",
+        "l": {
+          "id": 176,
+          "lat": 37.977978,
+          "lng": -122.031073,
+          "n": "Concord",
+          "pid": 67,
+          "t": "Concord, CA, USA"
+        },
+        "t": "CCCTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "county-connection/222",
+        "l": {
+          "id": 176,
+          "lat": 37.977978,
+          "lng": -122.031073,
+          "n": "Concord",
+          "pid": 67,
+          "t": "Concord, CA, USA"
+        },
+        "latest": {
+          "ts": 1615831228
+        },
+        "t": "CCCTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://cccta.org/GTFS/google_transit.zip"
+        }
+      },
+      {
+        "id": "nashville-mta/221",
+        "l": {
+          "id": 175,
+          "lat": 36.166667,
+          "lng": -86.783333,
+          "n": "Nashville",
+          "pid": 174,
+          "t": "Nashville, TN, USA"
+        },
+        "t": "Nashville MTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "nashville-mta/220",
+        "l": {
+          "id": 175,
+          "lat": 36.166667,
+          "lng": -86.783333,
+          "n": "Nashville",
+          "pid": 174,
+          "t": "Nashville, TN, USA"
+        },
+        "latest": {
+          "ts": 1605677126
+        },
+        "t": "Nashville MTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.nashvillemta.org/GoogleExport/google_transit.zip"
+        }
+      },
+      {
+        "id": "cincinnati-metro/219",
+        "l": {
+          "id": 173,
+          "lat": 39.103118,
+          "lng": -84.51202,
+          "n": "Cincinnati",
+          "pid": 170,
+          "t": "Cincinnati, OH, USA"
+        },
+        "t": "Cincinnati Metro Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "cincinnati-metro/218",
+        "l": {
+          "id": 173,
+          "lat": 39.103118,
+          "lng": -84.51202,
+          "n": "Cincinnati",
+          "pid": 170,
+          "t": "Cincinnati, OH, USA"
+        },
+        "latest": {
+          "ts": 1615825296
+        },
+        "t": "Cincinnati Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.go-metro.com/uploads/GTFS/google_transit_info.zip",
+          "i": "http://www.go-metro.com/about-metro/developer-data"
+        }
+      },
+      {
+        "id": "central-ohio-transit-authority/217",
+        "l": {
+          "id": 172,
+          "lat": 39.961176,
+          "lng": -82.998794,
+          "n": "Columbus",
+          "pid": 170,
+          "t": "Columbus, OH, USA"
+        },
+        "t": "COTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "central-ohio-transit-authority/216",
+        "l": {
+          "id": 172,
+          "lat": 39.961176,
+          "lng": -82.998794,
+          "n": "Columbus",
+          "pid": 170,
+          "t": "Columbus, OH, USA"
+        },
+        "latest": {
+          "ts": 1613624970
+        },
+        "t": "COTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cota.com/COTA/media/COTAContent/OpenGTFSData.zip",
+          "i": "http://www.cota.com/Auxiliary/Data.aspx"
+        }
+      },
+      {
+        "id": "greater-cleveland-regional-transit-authority/215",
+        "l": {
+          "id": 171,
+          "lat": 41.499495,
+          "lng": -81.695409,
+          "n": "Cleveland",
+          "pid": 170,
+          "t": "Cleveland, OH, USA"
+        },
+        "t": "GCRTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "greater-cleveland-regional-transit-authority/214",
+        "l": {
+          "id": 171,
+          "lat": 41.499495,
+          "lng": -81.695409,
+          "n": "Cleveland",
+          "pid": 170,
+          "t": "Cleveland, OH, USA"
+        },
+        "latest": {
+          "ts": 1615839386
+        },
+        "t": "GCRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip"
+        }
+      },
+      {
+        "id": "verkehrsverbund-berlin-brandenburg/213",
+        "l": {
+          "id": 169,
+          "lat": 52.519171,
+          "lng": 13.406091,
+          "n": "Berlin",
+          "pid": 168,
+          "t": "Berlin, Germany"
+        },
+        "latest": {
+          "ts": 1616838326
+        },
+        "t": "VBB GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.vbb.de/media/download/2029",
+          "i": "https://www.vbb.de/unsere-themen/vbbdigital/api-entwicklerinfos/datensaetze"
+        }
+      },
+      {
+        "id": "emt-madrid/212",
+        "l": {
+          "id": 167,
+          "lat": 40.416775,
+          "lng": -3.70379,
+          "n": "Madrid",
+          "pid": 166,
+          "t": "Madrid, Spain"
+        },
+        "latest": {
+          "ts": 1616057366
+        },
+        "t": "EMT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://servicios.emtmadrid.es:8443/gtfs/transitemt.zip"
+        }
+      },
+      {
+        "id": "indygo/211",
+        "l": {
+          "id": 165,
+          "lat": 39.768403,
+          "lng": -86.158068,
+          "n": "Indianapolis",
+          "pid": 164,
+          "t": "Indianapolis, IN, USA"
+        },
+        "t": "IndyGo Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "indygo/210",
+        "l": {
+          "id": 165,
+          "lat": 39.768403,
+          "lng": -86.158068,
+          "n": "Indianapolis",
+          "pid": 164,
+          "t": "Indianapolis, IN, USA"
+        },
+        "latest": {
+          "ts": 1613625448
+        },
+        "t": "IndyGo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.indygo.net/wp-content/plugins/wp-gtfs/feed/gtfs.zip",
+          "i": "http://www.indygo.net/business/indygo-developer-content-area"
+        }
+      },
+      {
+        "id": "dart-first-state/209",
+        "l": {
+          "id": 163,
+          "lat": 38.910832,
+          "lng": -75.52767,
+          "n": "Delaware",
+          "pid": 31,
+          "t": "Delaware, USA"
+        },
+        "latest": {
+          "ts": 1615829968
+        },
+        "t": "DART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dartfirststate.com/information/routes/gtfs_data/dartfirststate_de_us.zip",
+          "i": "http://www.delaware.gov/data/"
+        }
+      },
+      {
+        "id": "star/208",
+        "l": {
+          "id": 162,
+          "lat": 48.856614,
+          "lng": 2.352222,
+          "n": "Paris",
+          "pid": 161,
+          "t": "Paris, France"
+        },
+        "latest": {
+          "ts": 1476313286
+        },
+        "t": "STAR GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.explore.star.fr/explore/dataset/tco-busmetro-horaires-gtfs-versions-td/information/"
+        }
+      },
+      {
+        "id": "transilien-sncf/207",
+        "l": {
+          "id": 162,
+          "lat": 48.856614,
+          "lng": 2.352222,
+          "n": "Paris",
+          "pid": 161,
+          "t": "Paris, France"
+        },
+        "latest": {
+          "ts": 1567842867
+        },
+        "t": "Transilien SNCF GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://files.transilien.com/horaires/gtfs/export-TN-GTFS-LAST.zip"
+        }
+      },
+      {
+        "id": "mendocino-transit-authority/206",
+        "l": {
+          "id": 160,
+          "lat": 39.307674,
+          "lng": -123.799459,
+          "n": "Mendocino",
+          "pid": 67,
+          "t": "Mendocino, CA, USA"
+        },
+        "t": "Mendocino Transit Authority App Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "mendocino-transit-authority/205",
+        "l": {
+          "id": 160,
+          "lat": 39.307674,
+          "lng": -123.799459,
+          "n": "Mendocino",
+          "pid": 67,
+          "t": "Mendocino, CA, USA"
+        },
+        "latest": {
+          "ts": 1610744847
+        },
+        "t": "Mendocino Transit Authority GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/mendocino-ca-us/mendocino-ca-us.zip",
+          "i": "http://www.mendocinotransit.org/developer/"
+        }
+      },
+      {
+        "id": "grand-river-transit/204",
+        "l": {
+          "id": 159,
+          "lat": 43.464258,
+          "lng": -80.52041,
+          "n": "Waterloo",
+          "pid": 46,
+          "t": "Waterloo, ON, Canada"
+        },
+        "t": "GRT Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "grand-river-transit/203",
+        "l": {
+          "id": 159,
+          "lat": 43.464258,
+          "lng": -80.52041,
+          "n": "Waterloo",
+          "pid": 46,
+          "t": "Waterloo, ON, Canada"
+        },
+        "latest": {
+          "ts": 1617067526
+        },
+        "t": "GRT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.regionofwaterloo.ca/opendatadownloads/GRT_GTFS.zip",
+          "i": "http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp"
+        }
+      },
+      {
+        "id": "thunder-bay-transit/202",
+        "l": {
+          "id": 158,
+          "lat": 48.380895,
+          "lng": -89.247682,
+          "n": "Thunder Bay",
+          "pid": 46,
+          "t": "Thunder Bay, ON, Canada"
+        },
+        "t": "Thunder Bay Transit Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "thunder-bay-transit/201",
+        "l": {
+          "id": 158,
+          "lat": 48.380895,
+          "lng": -89.247682,
+          "n": "Thunder Bay",
+          "pid": 46,
+          "t": "Thunder Bay, ON, Canada"
+        },
+        "latest": {
+          "ts": 1615829730
+        },
+        "t": "Thunder Bay Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://api.nextlift.ca/gtfs.zip"
+        }
+      },
+      {
+        "id": "spokane-transit-authority/200",
+        "l": {
+          "id": 157,
+          "lat": 47.65878,
+          "lng": -117.426047,
+          "n": "Spokane",
+          "pid": 65,
+          "t": "Spokane, WA, USA"
+        },
+        "t": "Spokane Transit Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "spokane-transit-authority/199",
+        "l": {
+          "id": 157,
+          "lat": 47.65878,
+          "lng": -117.426047,
+          "n": "Spokane",
+          "pid": 65,
+          "t": "Spokane, WA, USA"
+        },
+        "latest": {
+          "ts": 1615825049
+        },
+        "t": "STA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.spokanetransit.com/gtfs"
+        }
+      },
+      {
+        "id": "orange-county-transportation-authority/198",
+        "l": {
+          "id": 156,
+          "lat": 33.717471,
+          "lng": -117.831143,
+          "n": "Orange County",
+          "pid": 67,
+          "t": "Orange County, CA, USA"
+        },
+        "t": "OCTA App Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "orange-county-transportation-authority/197",
+        "l": {
+          "id": 156,
+          "lat": 33.717471,
+          "lng": -117.831143,
+          "n": "Orange County",
+          "pid": 67,
+          "t": "Orange County, CA, USA"
+        },
+        "latest": {
+          "ts": 1613625471
+        },
+        "t": "OCTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://octa.net/current/google_transit.zip",
+          "i": "http://www.octa.net/About/Google-Transit-Feed/"
+        }
+      },
+      {
+        "id": "san-diego-mts/196",
+        "l": {
+          "id": 155,
+          "lat": 32.715329,
+          "lng": -117.157255,
+          "n": "San Diego",
+          "pid": 67,
+          "t": "San Diego, CA, USA"
+        },
+        "t": "SDMTS Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "san-diego-mts/195",
+        "l": {
+          "id": 155,
+          "lat": 32.715329,
+          "lng": -117.157255,
+          "n": "San Diego",
+          "pid": 67,
+          "t": "San Diego, CA, USA"
+        },
+        "latest": {
+          "ts": 1616444066
+        },
+        "t": "SDMTS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.sdmts.com/google_transit_files/google_transit.zip",
+          "i": "http://www.sdmts.com/Planning/Developers.asp"
+        }
+      },
+      {
+        "id": "nctd/194",
+        "l": {
+          "id": 155,
+          "lat": 32.715329,
+          "lng": -117.157255,
+          "n": "San Diego",
+          "pid": 67,
+          "t": "San Diego, CA, USA"
+        },
+        "latest": {
+          "ts": 1615836328
+        },
+        "t": "NCTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.gonctd.com/google_transit.zip"
+        }
+      },
+      {
+        "id": "nctd/193",
+        "l": {
+          "id": 155,
+          "lat": 32.715329,
+          "lng": -117.157255,
+          "n": "San Diego",
+          "pid": 67,
+          "t": "San Diego, CA, USA"
+        },
+        "t": "NCTD Twitter",
+        "ty": "twitter",
+        "u": []
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 11,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078102
+}

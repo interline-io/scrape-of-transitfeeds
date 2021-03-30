@@ -1,0 +1,2616 @@
+{
+  "results": {
+    "limit": 100,
+    "numPages": 1160,
+    "page": 1121,
+    "total": 115910,
+    "versions": [
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1408058427",
+        "size": 288210,
+        "ts": 1408058427,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1408058427/download"
+      },
+      {
+        "d": {
+          "f": "20141208",
+          "s": "20140712"
+        },
+        "f": {
+          "id": "transilien-sncf/207",
+          "l": {
+            "id": 162,
+            "lat": 48.856614,
+            "lng": 2.352222,
+            "n": "Paris",
+            "pid": 161,
+            "t": "Paris, France"
+          },
+          "t": "Transilien SNCF GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://files.transilien.com/horaires/gtfs/export-TN-GTFS-LAST.zip"
+          }
+        },
+        "id": "transilien-sncf/207/1408058427",
+        "size": 2157348,
+        "ts": 1408058427,
+        "url": "https://transitfeeds.com/p/transilien-sncf/207/1408058427/download"
+      },
+      {
+        "d": {
+          "f": "20141221",
+          "s": "20140616"
+        },
+        "f": {
+          "id": "county-connection/222",
+          "l": {
+            "id": 176,
+            "lat": 37.977978,
+            "lng": -122.031073,
+            "n": "Concord",
+            "pid": 67,
+            "t": "Concord, CA, USA"
+          },
+          "t": "CCCTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://cccta.org/GTFS/google_transit.zip"
+          }
+        },
+        "id": "county-connection/222/1408058027",
+        "size": 1185878,
+        "ts": 1408058027,
+        "url": "https://transitfeeds.com/p/county-connection/222/1408058027/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1408057996",
+        "size": 23653575,
+        "ts": 1408057996,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1408057996/download"
+      },
+      {
+        "d": {
+          "f": "20141206",
+          "s": "20140801"
+        },
+        "f": {
+          "id": "thebus-honolulu/57",
+          "l": {
+            "id": 88,
+            "lat": 21.306944,
+            "lng": -157.858333,
+            "n": "Honolulu",
+            "pid": 87,
+            "t": "Honolulu, HI, USA"
+          },
+          "t": "TheBus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://webapps.thebus.org/transitdata/Production/google_transit.zip"
+          }
+        },
+        "id": "thebus-honolulu/57/1408057952",
+        "size": 12956862,
+        "ts": 1408057952,
+        "url": "https://transitfeeds.com/p/thebus-honolulu/57/1408057952/download"
+      },
+      {
+        "d": {
+          "f": "20200109",
+          "s": "20140623"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/136",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "CIT Roussillon GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/citrous/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/136/1408057951",
+        "size": 129810,
+        "ts": 1408057951,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/136/1408057951/download"
+      },
+      {
+        "f": {
+          "id": "valley-metro/68",
+          "l": {
+            "id": 98,
+            "lat": 33.448377,
+            "lng": -112.074037,
+            "n": "Phoenix",
+            "pid": 97,
+            "t": "Phoenix, AZ, USA"
+          },
+          "t": "Valley Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip",
+            "i": "https://phoenixopendata.com/dataset/valley-metro-bus-schedule/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7"
+          }
+        },
+        "id": "valley-metro/68/1408057945",
+        "size": 9285276,
+        "ts": 1408057945,
+        "url": "https://transitfeeds.com/p/valley-metro/68/1408057945/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1408057880",
+        "size": 20208918,
+        "ts": 1408057880,
+        "url": "https://transitfeeds.com/p/wmata/75/1408057880/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1408057865",
+        "size": 3233795,
+        "ts": 1408057865,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1408057865/download"
+      },
+      {
+        "d": {
+          "f": "20141213",
+          "s": "20140810"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/132",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "CIT des Laurentides GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://exo.quebec/xdata/citla/google_transit.zip",
+            "i": "https://exo.quebec/fr/a-propos/donnees-ouvertes"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/132/1408049103",
+        "size": 814986,
+        "ts": 1408049103,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/132/1408049103/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1408014625",
+        "size": 6730974,
+        "ts": 1408014625,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1408014625/download"
+      },
+      {
+        "d": {
+          "f": "20141231",
+          "s": "20140101"
+        },
+        "f": {
+          "id": "tuvisa-euskotran/239",
+          "l": {
+            "id": 187,
+            "lat": 42.859166,
+            "lng": -2.681792,
+            "n": "Vitoria-Gasteiz",
+            "pid": 166,
+            "t": "Vitoria-Gasteiz, Álava, Spain"
+          },
+          "t": "Tuvisa-EuskoTran GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vitoria-gasteiz.org/we001/http/vgTransit/google_transit.zip"
+          }
+        },
+        "id": "tuvisa-euskotran/239/1408014622",
+        "size": 930401,
+        "ts": 1408014622,
+        "url": "https://transitfeeds.com/p/tuvisa-euskotran/239/1408014622/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1408014619",
+        "size": 288210,
+        "ts": 1408014619,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1408014619/download"
+      },
+      {
+        "d": {
+          "f": "20141112",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1408014318",
+        "size": 22830,
+        "ts": 1408014318,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1408014318/download"
+      },
+      {
+        "d": {
+          "f": "20150511",
+          "s": "20140512"
+        },
+        "f": {
+          "id": "yosemite-area-regional-transportation-system/155",
+          "l": {
+            "id": 144,
+            "lat": 37.74557,
+            "lng": -119.593604,
+            "n": "Yosemite Valley",
+            "pid": 67,
+            "t": "Yosemite Valley, CA, USA"
+          },
+          "t": "YARTS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip"
+          }
+        },
+        "id": "yosemite-area-regional-transportation-system/155/1408014293",
+        "size": 456200,
+        "ts": 1408014293,
+        "url": "https://transitfeeds.com/p/yosemite-area-regional-transportation-system/155/1408014293/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1408014173",
+        "size": 24978233,
+        "ts": 1408014173,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1408014173/download"
+      },
+      {
+        "d": {
+          "f": "20150701",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "arcata-mad-river-transit-system/148",
+          "l": {
+            "id": 137,
+            "lat": 40.745005,
+            "lng": -123.869509,
+            "n": "Humboldt County",
+            "pid": 67,
+            "t": "Humboldt County, CA, USA"
+          },
+          "t": "Humboldt County GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/humboldtcounty-ca-us/humboldtcounty-ca-us.zip"
+          }
+        },
+        "id": "arcata-mad-river-transit-system/148/1408014171",
+        "size": 621286,
+        "ts": 1408014171,
+        "url": "https://transitfeeds.com/p/arcata-mad-river-transit-system/148/1408014171/download"
+      },
+      {
+        "d": {
+          "f": "20141212",
+          "s": "20140816"
+        },
+        "f": {
+          "id": "metro-transit/179",
+          "l": {
+            "id": 150,
+            "lat": 44.983334,
+            "lng": -93.26667,
+            "n": "Minneapolis",
+            "pid": 148,
+            "t": "Minneapolis, MN, USA"
+          },
+          "t": "Metro Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://svc.metrotransit.org/mtgtfs/gtfs.zip",
+            "i": "https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-schedule-google-fd"
+          }
+        },
+        "id": "metro-transit/179/1408014085",
+        "size": 32535777,
+        "ts": 1408014085,
+        "url": "https://transitfeeds.com/p/metro-transit/179/1408014085/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1408014068",
+        "size": 3233795,
+        "ts": 1408014068,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1408014068/download"
+      },
+      {
+        "d": {
+          "f": "20141221",
+          "s": "20140901"
+        },
+        "f": {
+          "id": "action-buses/3",
+          "l": {
+            "id": 8,
+            "lat": -35.282,
+            "lng": 149.128684,
+            "n": "Canberra",
+            "pid": 7,
+            "t": "Canberra ACT, Australia"
+          },
+          "t": "Action Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.transport.act.gov.au/getting-around/bus-services/mobile-apps"
+          }
+        },
+        "id": "action-buses/3/1408014036",
+        "size": 4289604,
+        "ts": 1408014036,
+        "url": "https://transitfeeds.com/p/action-buses/3/1408014036/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1408013863",
+        "size": 1128928,
+        "ts": 1408013863,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1408013863/download"
+      },
+      {
+        "f": {
+          "id": "niagara-frontier-transportation-authority/230",
+          "l": {
+            "id": 183,
+            "lat": 42.886447,
+            "lng": -78.878369,
+            "n": "Buffalo",
+            "pid": 84,
+            "t": "Buffalo, NY, USA"
+          },
+          "t": "NFTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.nfta.com/metro/__googletransit/google_transit.zip"
+          }
+        },
+        "id": "niagara-frontier-transportation-authority/230/1407971133",
+        "size": 3127025,
+        "ts": 1407971133,
+        "url": "https://transitfeeds.com/p/niagara-frontier-transportation-authority/230/1407971133/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407971121",
+        "size": 288210,
+        "ts": 1407971121,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407971121/download"
+      },
+      {
+        "d": {
+          "f": "20141221",
+          "s": "20140616"
+        },
+        "f": {
+          "id": "county-connection/222",
+          "l": {
+            "id": 176,
+            "lat": 37.977978,
+            "lng": -122.031073,
+            "n": "Concord",
+            "pid": 67,
+            "t": "Concord, CA, USA"
+          },
+          "t": "CCCTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://cccta.org/GTFS/google_transit.zip"
+          }
+        },
+        "id": "county-connection/222/1407970656",
+        "size": 1185863,
+        "ts": 1407970656,
+        "url": "https://transitfeeds.com/p/county-connection/222/1407970656/download"
+      },
+      {
+        "d": {
+          "f": "20150102",
+          "s": "20140621"
+        },
+        "f": {
+          "id": "societe-de-transport-de-laval/38",
+          "l": {
+            "id": 58,
+            "lat": 45.606649,
+            "lng": -73.712409,
+            "n": "Laval",
+            "pid": 54,
+            "t": "Laval, QC, Canada"
+          },
+          "t": "STL GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.stl.laval.qc.ca/opendata/GTF_STL.zip"
+          }
+        },
+        "id": "societe-de-transport-de-laval/38/1407970629",
+        "size": 4484803,
+        "ts": 1407970629,
+        "url": "https://transitfeeds.com/p/societe-de-transport-de-laval/38/1407970629/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407970615",
+        "size": 23397383,
+        "ts": 1407970615,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407970615/download"
+      },
+      {
+        "d": {
+          "f": "20150224",
+          "s": "20140812"
+        },
+        "f": {
+          "id": "transit-authority-of-river-city/265",
+          "l": {
+            "id": 199,
+            "lat": 38.252665,
+            "lng": -85.758456,
+            "n": "Louisville",
+            "pid": 198,
+            "t": "Louisville, KY, USA"
+          },
+          "t": "TARC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://googletransit.ridetarc.org/feed/",
+            "i": "http://googletransit.ridetarc.org/feed/"
+          }
+        },
+        "id": "transit-authority-of-river-city/265/1407970565",
+        "size": 6324561,
+        "ts": 1407970565,
+        "url": "https://transitfeeds.com/p/transit-authority-of-river-city/265/1407970565/download"
+      },
+      {
+        "f": {
+          "id": "valley-metro/68",
+          "l": {
+            "id": 98,
+            "lat": 33.448377,
+            "lng": -112.074037,
+            "n": "Phoenix",
+            "pid": 97,
+            "t": "Phoenix, AZ, USA"
+          },
+          "t": "Valley Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip",
+            "i": "https://phoenixopendata.com/dataset/valley-metro-bus-schedule/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7"
+          }
+        },
+        "id": "valley-metro/68/1407970542",
+        "size": 9284722,
+        "ts": 1407970542,
+        "url": "https://transitfeeds.com/p/valley-metro/68/1407970542/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407970501",
+        "size": 20208932,
+        "ts": 1407970501,
+        "url": "https://transitfeeds.com/p/wmata/75/1407970501/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407970278",
+        "size": 3233795,
+        "ts": 1407970278,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407970278/download"
+      },
+      {
+        "d": {
+          "f": "20200101",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/137",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "CIT Sorel-Varennes GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/citsv/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/137/1407970239",
+        "size": 229823,
+        "ts": 1407970239,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/137/1407970239/download"
+      },
+      {
+        "d": {
+          "f": "20141220",
+          "s": "20140813"
+        },
+        "f": {
+          "id": "oc-transpo/30",
+          "l": {
+            "id": 47,
+            "lat": 45.42153,
+            "lng": -75.697193,
+            "n": "Ottawa",
+            "pid": 46,
+            "t": "Ottawa, ON, Canada"
+          },
+          "t": "OC Transpo GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.octranspo1.com/files/google_transit.zip"
+          }
+        },
+        "id": "oc-transpo/30/1407970211",
+        "size": 13902122,
+        "ts": 1407970211,
+        "url": "https://transitfeeds.com/p/oc-transpo/30/1407970211/download"
+      },
+      {
+        "d": {
+          "f": "20150131",
+          "s": "20140201"
+        },
+        "f": {
+          "id": "kitsap-transit/296",
+          "l": {
+            "id": 214,
+            "lat": 47.56732,
+            "lng": -122.632936,
+            "n": "Bremerton",
+            "pid": 65,
+            "t": "Bremerton, WA, USA"
+          },
+          "t": "Kitsap Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://apps.kitsaptransit.com/google/latest/google_transit.zip",
+            "i": "http://www.kitsaptransit.org/DeveloperUserAgreement.html"
+          }
+        },
+        "id": "kitsap-transit/296/1407927639",
+        "size": 358681,
+        "ts": 1407927639,
+        "url": "https://transitfeeds.com/p/kitsap-transit/296/1407927639/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407927618",
+        "size": 6730974,
+        "ts": 1407927618,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407927618/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407927615",
+        "size": 288210,
+        "ts": 1407927615,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407927615/download"
+      },
+      {
+        "d": {
+          "f": "20141111",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407927196",
+        "size": 22828,
+        "ts": 1407927196,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407927196/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407926466",
+        "size": 3233859,
+        "ts": 1407926466,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407926466/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1407926236",
+        "size": 1128306,
+        "ts": 1407926236,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1407926236/download"
+      },
+      {
+        "d": {
+          "f": "20150131",
+          "s": "20140608"
+        },
+        "f": {
+          "id": "nctd/194",
+          "l": {
+            "id": 155,
+            "lat": 32.715329,
+            "lng": -117.157255,
+            "n": "San Diego",
+            "pid": 67,
+            "t": "San Diego, CA, USA"
+          },
+          "t": "NCTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.gonctd.com/google_transit.zip"
+          }
+        },
+        "id": "nctd/194/1407884166",
+        "size": 3824697,
+        "ts": 1407884166,
+        "url": "https://transitfeeds.com/p/nctd/194/1407884166/download"
+      },
+      {
+        "d": {
+          "f": "20201223",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/142",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "MRC les Moulins GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/mrclm/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/142/1407883731",
+        "size": 839815,
+        "ts": 1407883731,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/142/1407883731/download"
+      },
+      {
+        "d": {
+          "f": "20150511",
+          "s": "20140512"
+        },
+        "f": {
+          "id": "yosemite-area-regional-transportation-system/155",
+          "l": {
+            "id": 144,
+            "lat": 37.74557,
+            "lng": -119.593604,
+            "n": "Yosemite Valley",
+            "pid": 67,
+            "t": "Yosemite Valley, CA, USA"
+          },
+          "t": "YARTS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip"
+          }
+        },
+        "id": "yosemite-area-regional-transportation-system/155/1407883715",
+        "size": 463126,
+        "ts": 1407883715,
+        "url": "https://transitfeeds.com/p/yosemite-area-regional-transportation-system/155/1407883715/download"
+      },
+      {
+        "d": {
+          "f": "20141205",
+          "s": "20140628"
+        },
+        "f": {
+          "id": "go-transit/32",
+          "l": {
+            "id": 49,
+            "lat": 43.653226,
+            "lng": -79.383184,
+            "n": "Toronto",
+            "pid": 46,
+            "t": "Toronto, ON, Canada"
+          },
+          "t": "GO Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.gotransit.com/static_files/gotransit/assets/Files/GO_GTFS.zip",
+            "i": "https://www.gotransit.com/en/information-resources/software-developers"
+          }
+        },
+        "id": "go-transit/32/1407883592",
+        "size": 3955187,
+        "ts": 1407883592,
+        "url": "https://transitfeeds.com/p/go-transit/32/1407883592/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407883501",
+        "size": 20208943,
+        "ts": 1407883501,
+        "url": "https://transitfeeds.com/p/wmata/75/1407883501/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407882673",
+        "size": 3233859,
+        "ts": 1407882673,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407882673/download"
+      },
+      {
+        "d": {
+          "f": "20150131",
+          "s": "20140817"
+        },
+        "f": {
+          "id": "miami-dade-county-transit/48",
+          "l": {
+            "id": 75,
+            "lat": 25.788969,
+            "lng": -80.226439,
+            "n": "Miami",
+            "pid": 74,
+            "t": "Miami, FL, USA"
+          },
+          "t": "MDC Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.miamidade.gov/transit/googletransit/current/google_transit.zip"
+          }
+        },
+        "id": "miami-dade-county-transit/48/1407882629",
+        "size": 9072881,
+        "ts": 1407882629,
+        "url": "https://transitfeeds.com/p/miami-dade-county-transit/48/1407882629/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407840644",
+        "size": 6730974,
+        "ts": 1407840644,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407840644/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407840639",
+        "size": 288210,
+        "ts": 1407840639,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407840639/download"
+      },
+      {
+        "d": {
+          "f": "20141110",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407840105",
+        "size": 22828,
+        "ts": 1407840105,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407840105/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407839972",
+        "size": 21187837,
+        "ts": 1407839972,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407839972/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407839173",
+        "size": 3233859,
+        "ts": 1407839173,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407839173/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1407838646",
+        "size": 1128996,
+        "ts": 1407838646,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1407838646/download"
+      },
+      {
+        "d": {
+          "f": "20140816",
+          "s": "20140518"
+        },
+        "f": {
+          "id": "champaign-urbana-mass-transit-district/162",
+          "l": {
+            "id": 147,
+            "lat": 40.11642,
+            "lng": -88.243383,
+            "n": "Champaign",
+            "pid": 145,
+            "t": "Champaign, IL, USA"
+          },
+          "t": "Champaign-Urbana MTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://developer.cumtd.com/gtfs/google_transit.zip",
+            "i": "http://developer.cumtd.com/"
+          }
+        },
+        "id": "champaign-urbana-mass-transit-district/162/1407796154",
+        "size": 24636612,
+        "ts": 1407796154,
+        "url": "https://transitfeeds.com/p/champaign-urbana-mass-transit-district/162/1407796154/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140601"
+        },
+        "f": {
+          "id": "metro/25",
+          "l": {
+            "id": 40,
+            "lat": 29.760193,
+            "lng": -95.36939,
+            "n": "Houston",
+            "pid": 35,
+            "t": "Houston, TX, USA"
+          },
+          "t": "METRO Houston GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ridemetro.org/Downloads/google_transit.zip",
+            "i": "http://www.ridemetro.org/Pages/NewsDownloads.aspx"
+          }
+        },
+        "id": "metro/25/1407796060",
+        "size": 13196080,
+        "ts": 1407796060,
+        "url": "https://transitfeeds.com/p/metro/25/1407796060/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407796033",
+        "size": 21187743,
+        "ts": 1407796033,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407796033/download"
+      },
+      {
+        "d": {
+          "f": "20201030",
+          "s": "20140623"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/129",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "AMT Express GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/express/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/129/1407795986",
+        "size": 19701,
+        "ts": 1407795986,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/129/1407795986/download"
+      },
+      {
+        "d": {
+          "f": "20141026",
+          "s": "20140623"
+        },
+        "f": {
+          "id": "brampton-transit/35",
+          "l": {
+            "id": 51,
+            "lat": 43.683333,
+            "lng": -79.766667,
+            "n": "Brampton",
+            "pid": 46,
+            "t": "Brampton, ON, Canada"
+          },
+          "t": "Brampton Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Documents/Google_Transit.zip"
+          }
+        },
+        "id": "brampton-transit/35/1407795974",
+        "size": 7721801,
+        "ts": 1407795974,
+        "url": "https://transitfeeds.com/p/brampton-transit/35/1407795974/download"
+      },
+      {
+        "d": {
+          "f": "20200109",
+          "s": "20140623"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/136",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "CIT Roussillon GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/citrous/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/136/1407795971",
+        "size": 129551,
+        "ts": 1407795971,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/136/1407795971/download"
+      },
+      {
+        "f": {
+          "id": "valley-metro/68",
+          "l": {
+            "id": 98,
+            "lat": 33.448377,
+            "lng": -112.074037,
+            "n": "Phoenix",
+            "pid": 97,
+            "t": "Phoenix, AZ, USA"
+          },
+          "t": "Valley Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip",
+            "i": "https://phoenixopendata.com/dataset/valley-metro-bus-schedule/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7"
+          }
+        },
+        "id": "valley-metro/68/1407795965",
+        "size": 9283619,
+        "ts": 1407795965,
+        "url": "https://transitfeeds.com/p/valley-metro/68/1407795965/download"
+      },
+      {
+        "d": {
+          "f": "20140816",
+          "s": "20140511"
+        },
+        "f": {
+          "id": "rtd-denver/188",
+          "l": {
+            "id": 108,
+            "lat": 39.737567,
+            "lng": -104.984718,
+            "n": "Denver",
+            "pid": 107,
+            "t": "Denver, CO, USA"
+          },
+          "t": "RTD Denver GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://rtd-denver.com/files/gtfs/google_transit.zip",
+            "i": "https://www.rtd-denver.com/business-center/open-data/gtfs-developer-guide"
+          }
+        },
+        "id": "rtd-denver/188/1407795933",
+        "size": 16072541,
+        "ts": 1407795933,
+        "url": "https://transitfeeds.com/p/rtd-denver/188/1407795933/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407795883",
+        "size": 20208952,
+        "ts": 1407795883,
+        "url": "https://transitfeeds.com/p/wmata/75/1407795883/download"
+      },
+      {
+        "d": {
+          "f": "20150104",
+          "s": "20140609"
+        },
+        "f": {
+          "id": "via-metropolitan-transit/62",
+          "l": {
+            "id": 39,
+            "lat": 29.424122,
+            "lng": -98.493628,
+            "n": "San Antonio",
+            "pid": 35,
+            "t": "San Antonio, TX, USA"
+          },
+          "t": "VIA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.viainfo.net/BusService/google_transit.zip",
+            "i": "http://viaprimo.com/Opportunities/DevLicense.aspx"
+          }
+        },
+        "id": "via-metropolitan-transit/62/1407795072",
+        "size": 83694525,
+        "ts": 1407795072,
+        "url": "https://transitfeeds.com/p/via-metropolitan-transit/62/1407795072/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407795061",
+        "size": 3233859,
+        "ts": 1407795061,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407795061/download"
+      },
+      {
+        "d": {
+          "f": "20200831",
+          "s": "20140708"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/143",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "Ville de Sainte-Julie GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.amt.qc.ca/xdata/omitsju/google_transit.zip",
+            "i": "http://amt.qc.ca/developers/"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/143/1407795017",
+        "size": 133773,
+        "ts": 1407795017,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/143/1407795017/download"
+      },
+      {
+        "d": {
+          "f": "20141213",
+          "s": "20140810"
+        },
+        "f": {
+          "id": "agence-metropolitaine-de-transport/132",
+          "l": {
+            "id": 56,
+            "lat": 45.50867,
+            "lng": -73.553992,
+            "n": "Montreal",
+            "pid": 54,
+            "t": "Montreal, QC, Canada"
+          },
+          "t": "CIT des Laurentides GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://exo.quebec/xdata/citla/google_transit.zip",
+            "i": "https://exo.quebec/fr/a-propos/donnees-ouvertes"
+          }
+        },
+        "id": "agence-metropolitaine-de-transport/132/1407788105",
+        "size": 814742,
+        "ts": 1407788105,
+        "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/132/1407788105/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407751479",
+        "size": 6730974,
+        "ts": 1407751479,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407751479/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407751475",
+        "size": 288210,
+        "ts": 1407751475,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407751475/download"
+      },
+      {
+        "d": {
+          "f": "20141109",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407751429",
+        "size": 22828,
+        "ts": 1407751429,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407751429/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407751313",
+        "size": 18628521,
+        "ts": 1407751313,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407751313/download"
+      },
+      {
+        "d": {
+          "f": "20141213",
+          "s": "20140804"
+        },
+        "f": {
+          "id": "trafiklab/50",
+          "l": {
+            "id": 77,
+            "lat": 60.128161,
+            "lng": 18.643501,
+            "n": "Sweden",
+            "pid": 60,
+            "t": "Sweden"
+          },
+          "t": "TrafikLab GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.trafiklab.se/api"
+          }
+        },
+        "id": "trafiklab/50/1407751299",
+        "size": 49931303,
+        "ts": 1407751299,
+        "url": "https://transitfeeds.com/p/trafiklab/50/1407751299/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1407751106",
+        "size": 1128479,
+        "ts": 1407751106,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1407751106/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407707485",
+        "size": 18623648,
+        "ts": 1407707485,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407707485/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407707320",
+        "size": 3233859,
+        "ts": 1407707320,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407707320/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407663929",
+        "size": 6730974,
+        "ts": 1407663929,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407663929/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407663925",
+        "size": 288210,
+        "ts": 1407663925,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407663925/download"
+      },
+      {
+        "d": {
+          "f": "20141108",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407663794",
+        "size": 22827,
+        "ts": 1407663794,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407663794/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407663636",
+        "size": 20208945,
+        "ts": 1407663636,
+        "url": "https://transitfeeds.com/p/wmata/75/1407663636/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1407663428",
+        "size": 1128380,
+        "ts": 1407663428,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1407663428/download"
+      },
+      {
+        "d": {
+          "f": "20141130",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/1407620250",
+        "size": 27344722,
+        "ts": 1407620250,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/1407620250/download"
+      },
+      {
+        "d": {
+          "f": "20141205",
+          "s": "20140628"
+        },
+        "f": {
+          "id": "go-transit/32",
+          "l": {
+            "id": 49,
+            "lat": 43.653226,
+            "lng": -79.383184,
+            "n": "Toronto",
+            "pid": 46,
+            "t": "Toronto, ON, Canada"
+          },
+          "t": "GO Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.gotransit.com/static_files/gotransit/assets/Files/GO_GTFS.zip",
+            "i": "https://www.gotransit.com/en/information-resources/software-developers"
+          }
+        },
+        "id": "go-transit/32/1407620225",
+        "size": 3955141,
+        "ts": 1407620225,
+        "url": "https://transitfeeds.com/p/go-transit/32/1407620225/download"
+      },
+      {
+        "d": {
+          "f": "20150301",
+          "s": "20140802"
+        },
+        "f": {
+          "id": "transit-authority-of-northern-kentucky/302",
+          "l": {
+            "id": 219,
+            "lat": 39.051156,
+            "lng": -84.535029,
+            "n": "Fort Wright",
+            "pid": 198,
+            "t": "Fort Wright, KY, USA"
+          },
+          "t": "TANK GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.tankbus.org/Portals/tankbus/gtfs/tank-google-transit.zip"
+          }
+        },
+        "id": "transit-authority-of-northern-kentucky/302/1407620192",
+        "size": 1036434,
+        "ts": 1407620192,
+        "url": "https://transitfeeds.com/p/transit-authority-of-northern-kentucky/302/1407620192/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407620136",
+        "size": 20208942,
+        "ts": 1407620136,
+        "url": "https://transitfeeds.com/p/wmata/75/1407620136/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407619768",
+        "size": 3233859,
+        "ts": 1407619768,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407619768/download"
+      },
+      {
+        "d": {
+          "f": "20141213",
+          "s": "20140804"
+        },
+        "f": {
+          "id": "association-of-train-operating-companies/284",
+          "l": {
+            "id": 177,
+            "lat": 55.378051,
+            "lng": -3.435973,
+            "n": "United Kingdom",
+            "pid": 60,
+            "t": "United Kingdom"
+          },
+          "t": "ATOC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://s3.eu-west-2.amazonaws.com/feeds.planar.network/gb-rail-latest.zip",
+            "i": "https://feeds.planar.network/"
+          }
+        },
+        "id": "association-of-train-operating-companies/284/1407619630",
+        "size": 33540076,
+        "ts": 1407619630,
+        "url": "https://transitfeeds.com/p/association-of-train-operating-companies/284/1407619630/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407576495",
+        "size": 6730974,
+        "ts": 1407576495,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407576495/download"
+      },
+      {
+        "d": {
+          "f": "20141107",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407576489",
+        "size": 22828,
+        "ts": 1407576489,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407576489/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407576467",
+        "size": 288210,
+        "ts": 1407576467,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407576467/download"
+      },
+      {
+        "d": {
+          "f": "20150124",
+          "s": "20140701"
+        },
+        "f": {
+          "id": "cdta/55",
+          "l": {
+            "id": 85,
+            "lat": 42.652579,
+            "lng": -73.756232,
+            "n": "Albany",
+            "pid": 84,
+            "t": "Albany, NY, USA"
+          },
+          "t": "CDTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.cdta.org/schedules/google_transit.zip",
+            "i": "http://www.cdta.org/developer-tools-and-resources/174"
+          }
+        },
+        "id": "cdta/55/1407576403",
+        "size": 5950199,
+        "ts": 1407576403,
+        "url": "https://transitfeeds.com/p/cdta/55/1407576403/download"
+      },
+      {
+        "d": {
+          "f": "20140920",
+          "s": "20140615"
+        },
+        "f": {
+          "id": "lane-transit-district/314",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "LTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ltd.org/googletripplanning/20060917/google_transit.zip"
+          }
+        },
+        "id": "lane-transit-district/314/1407575898",
+        "size": 1128757,
+        "ts": 1407575898,
+        "url": "https://transitfeeds.com/p/lane-transit-district/314/1407575898/download"
+      },
+      {
+        "d": {
+          "f": "20141206",
+          "s": "20140525"
+        },
+        "f": {
+          "id": "metro-transit-madison/181",
+          "l": {
+            "id": 152,
+            "lat": 43.073052,
+            "lng": -89.40123,
+            "n": "Madison",
+            "pid": 151,
+            "t": "Madison, WI, USA"
+          },
+          "t": "Metro Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip",
+            "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+          }
+        },
+        "id": "metro-transit-madison/181/1407532808",
+        "size": 5806120,
+        "ts": 1407532808,
+        "url": "https://transitfeeds.com/p/metro-transit-madison/181/1407532808/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140713"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/1407532769",
+        "size": 288210,
+        "ts": 1407532769,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/1407532769/download"
+      },
+      {
+        "d": {
+          "f": "20141220",
+          "s": "20140816"
+        },
+        "f": {
+          "id": "ac-transit/121",
+          "l": {
+            "id": 69,
+            "lat": 37.804364,
+            "lng": -122.271114,
+            "n": "Oakland",
+            "pid": 67,
+            "t": "Oakland, CA, USA"
+          },
+          "t": "AC Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.actransit.org/planning-focus/data-resource-center/"
+          }
+        },
+        "id": "ac-transit/121/1407532763",
+        "size": 5299454,
+        "ts": 1407532763,
+        "url": "https://transitfeeds.com/p/ac-transit/121/1407532763/download"
+      },
+      {
+        "d": {
+          "f": "20141129",
+          "s": "20140803"
+        },
+        "f": {
+          "id": "pace/171",
+          "l": {
+            "id": 146,
+            "lat": 41.878114,
+            "lng": -87.629798,
+            "n": "Chicago",
+            "pid": 145,
+            "t": "Chicago, IL, USA"
+          },
+          "t": "Pace Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.pacebus.com/gtfs/gtfs.zip",
+            "i": "http://www.pacebus.com/sub/about/data_services.asp"
+          }
+        },
+        "id": "pace/171/1407532751",
+        "size": 3978009,
+        "ts": 1407532751,
+        "url": "https://transitfeeds.com/p/pace/171/1407532751/download"
+      },
+      {
+        "f": {
+          "id": "valley-metro/68",
+          "l": {
+            "id": 98,
+            "lat": 33.448377,
+            "lng": -112.074037,
+            "n": "Phoenix",
+            "pid": 97,
+            "t": "Phoenix, AZ, USA"
+          },
+          "t": "Valley Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip",
+            "i": "https://phoenixopendata.com/dataset/valley-metro-bus-schedule/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7"
+          }
+        },
+        "id": "valley-metro/68/1407532566",
+        "size": 9282945,
+        "ts": 1407532566,
+        "url": "https://transitfeeds.com/p/valley-metro/68/1407532566/download"
+      },
+      {
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/1407532260",
+        "size": 20256665,
+        "ts": 1407532260,
+        "url": "https://transitfeeds.com/p/wmata/75/1407532260/download"
+      },
+      {
+        "d": {
+          "f": "20141206",
+          "s": "20140720"
+        },
+        "f": {
+          "id": "hillsborough-area-regional-transit/228",
+          "l": {
+            "id": 181,
+            "lat": 27.950575,
+            "lng": -82.457178,
+            "n": "Tampa",
+            "pid": 74,
+            "t": "Tampa, FL, USA"
+          },
+          "t": "HART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.gohart.org/google/google_transit.zip"
+          }
+        },
+        "id": "hillsborough-area-regional-transit/228/1407531996",
+        "size": 3497308,
+        "ts": 1407531996,
+        "url": "https://transitfeeds.com/p/hillsborough-area-regional-transit/228/1407531996/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20140310"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/1407531986",
+        "size": 3233859,
+        "ts": 1407531986,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/1407531986/download"
+      },
+      {
+        "d": {
+          "f": "20141102",
+          "s": "20140825"
+        },
+        "f": {
+          "id": "reseau-de-transport-de-longueuil/37",
+          "l": {
+            "id": 57,
+            "lat": 45.536944,
+            "lng": -73.510713,
+            "n": "Longueuil",
+            "pid": 54,
+            "t": "Longueuil, QC, Canada"
+          },
+          "t": "RTL GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.rtl-longueuil.qc.ca/transit/latestfeed/RTL.zip",
+            "i": "http://www.rtl-longueuil.qc.ca/en-CA/open-data/gtfs-files/"
+          }
+        },
+        "id": "reseau-de-transport-de-longueuil/37/1407531946",
+        "size": 5334329,
+        "ts": 1407531946,
+        "url": "https://transitfeeds.com/p/reseau-de-transport-de-longueuil/37/1407531946/download"
+      },
+      {
+        "f": {
+          "id": "ruter/240",
+          "l": {
+            "id": 189,
+            "lat": 59.913869,
+            "lng": 10.752245,
+            "n": "Oslo",
+            "pid": 83,
+            "t": "Oslo, Norway"
+          },
+          "t": "Ruter GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://reis.ruter.no/gtfs/gtfs.zip"
+          }
+        },
+        "id": "ruter/240/1407531904",
+        "size": 13198309,
+        "ts": 1407531904,
+        "url": "https://transitfeeds.com/p/ruter/240/1407531904/download"
+      },
+      {
+        "d": {
+          "f": "20140830",
+          "s": "20140622"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/1407485773",
+        "size": 6730974,
+        "ts": 1407485773,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/1407485773/download"
+      },
+      {
+        "d": {
+          "f": "20141106",
+          "s": "20101108"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/1407485768",
+        "size": 22828,
+        "ts": 1407485768,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/1407485768/download"
+      }
+    ]
+  },
+  "status": "OK",
+  "ts": 1617078738
+}

@@ -1,0 +1,1921 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "city-of-racine/832",
+        "l": {
+          "id": 601,
+          "lat": 42.726131,
+          "lng": -87.782852,
+          "n": "Racine",
+          "pid": 151,
+          "t": "Racine, WI, USA"
+        },
+        "latest": {
+          "ts": 1613623880
+        },
+        "t": "Belle Urban System GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/racine-wi-us/racine-wi-us.zip"
+        }
+      },
+      {
+        "id": "london-transit-commission/831",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "latest": {
+          "ts": 1616447128
+        },
+        "t": "LTC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ltconline.ca/gtfsfeed/google_transit.zip",
+          "i": "https://www.london.ca/city-hall/open-data/Pages/OpenData-TermsofUse.aspx"
+        }
+      },
+      {
+        "id": "the-city-of-regina/830",
+        "l": {
+          "id": 599,
+          "lat": 50.445211,
+          "lng": -104.618894,
+          "n": "Regina",
+          "pid": 196,
+          "t": "Regina, SK, Canada"
+        },
+        "latest": {
+          "ts": 1611124526
+        },
+        "t": "The City of Regina GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opengis.regina.ca/reginagtfs/google_transit.zip",
+          "i": "http://open.regina.ca/dataset/transit-network"
+        }
+      },
+      {
+        "id": "codiac-transpo/829",
+        "l": {
+          "id": 598,
+          "lat": 46.087817,
+          "lng": -64.778231,
+          "n": "Moncton",
+          "pid": 597,
+          "t": "Moncton, NB, Canada"
+        },
+        "latest": {
+          "ts": 1615830635
+        },
+        "t": "Codiac Transpo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www7.moncton.ca/opendata/google_transit.zip",
+          "i": "https://catalogue-moncton.opendata.arcgis.com/datasets/transit-files-gtfs"
+        }
+      },
+      {
+        "id": "societe-de-transport-de-loutaouais/828",
+        "l": {
+          "id": 596,
+          "lat": 45.476545,
+          "lng": -75.701272,
+          "n": "Gatineau",
+          "pid": 54,
+          "t": "Gatineau, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616991089
+        },
+        "t": "STO GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.contenu.sto.ca/GTFS/GTFS.zip",
+          "i": "http://www.sto.ca/index.php?id=596&L=en"
+        }
+      },
+      {
+        "id": "societe-de-transport-de-sherbrooke/827",
+        "l": {
+          "id": 595,
+          "lat": 45.400993,
+          "lng": -71.882429,
+          "n": "Sherbrooke",
+          "pid": 54,
+          "t": "Sherbrooke, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616998167
+        },
+        "t": "Société de Transport de Sherbrooke GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.donneesquebec.ca/recherche/dataset/e82b9141-09d8-4f85-af37-d84937bc2503/resource/b7f43b2a-2557-4e3b-ba12-5a5c6d4de5b1/download/gtfssherbrooke.zip",
+          "i": "https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts"
+        }
+      },
+      {
+        "id": "saint-petersburg/826",
+        "l": {
+          "id": 594,
+          "lat": 59.93428,
+          "lng": 30.335099,
+          "n": "Saint Petersburg",
+          "pid": 593,
+          "t": "St Petersburg, Russia"
+        },
+        "latest": {
+          "ts": 1617071006
+        },
+        "t": "Saint Petersburg GTFS",
+        "ty": "gtfs",
+        "u": []
+      },
+      {
+        "id": "capitol-corridor/825",
+        "l": {
+          "id": 69,
+          "lat": 37.804364,
+          "lng": -122.271114,
+          "n": "Oakland",
+          "pid": 67,
+          "t": "Oakland, CA, USA"
+        },
+        "latest": {
+          "ts": 1617078086
+        },
+        "t": "Capitol Corridor GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.capitolcorridor.org/googletransit/google_transit.zip",
+          "i": "https://www.capitolcorridor.org/developer_resources/"
+        }
+      },
+      {
+        "id": "blue-gold-fleet/824",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1616997926
+        },
+        "t": "Blue & Gold Fleet GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://511.org/developers/list/data/"
+        }
+      },
+      {
+        "id": "altamont-corridor-express/823",
+        "l": {
+          "id": 252,
+          "lat": 37.957702,
+          "lng": -121.29078,
+          "n": "Stockton",
+          "pid": 67,
+          "t": "Stockton, CA, USA"
+        },
+        "latest": {
+          "ts": 1617072267
+        },
+        "t": "Altamont Corridor Express GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://511.org/developers/list/data/"
+        }
+      },
+      {
+        "id": "stif/822",
+        "l": {
+          "id": 162,
+          "lat": 48.856614,
+          "lng": 2.352222,
+          "n": "Paris",
+          "pid": 161,
+          "t": "Paris, France"
+        },
+        "latest": {
+          "ts": 1616760326
+        },
+        "t": "STIF GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://stif.info"
+        }
+      },
+      {
+        "id": "ministry-of-transport-and-road-safety/820",
+        "l": {
+          "id": 529,
+          "lat": 31.046051,
+          "lng": 34.851612,
+          "n": "Israel",
+          "pid": 255,
+          "t": "Israel"
+        },
+        "latest": {
+          "ts": 1617077606
+        },
+        "t": "Israel GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.callkav.gov.il"
+        }
+      },
+      {
+        "id": "capital-trailways/819",
+        "l": {
+          "id": 237,
+          "lat": 32.318231,
+          "lng": -86.902298,
+          "n": "Alabama",
+          "pid": 31,
+          "t": "Alabama, USA"
+        },
+        "latest": {
+          "ts": 1489554386
+        },
+        "t": "Capital Trailways GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://webstore.capitaltrailways.com/gtfs/capital.zip"
+        }
+      },
+      {
+        "id": "ov/818",
+        "l": {
+          "id": 194,
+          "lat": 52.132633,
+          "lng": 5.291266,
+          "n": "The Netherlands",
+          "pid": 60,
+          "t": "The Netherlands"
+        },
+        "t": "OVapi Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.ovapi.nl/nl/vehiclePositions.pb",
+          "i": "https://datahub.io/dataset/gtfs-nl"
+        }
+      },
+      {
+        "id": "ov/817",
+        "l": {
+          "id": 194,
+          "lat": 52.132633,
+          "lng": 5.291266,
+          "n": "The Netherlands",
+          "pid": 60,
+          "t": "The Netherlands"
+        },
+        "t": "OVapi Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.ovapi.nl/nl/tripUpdates.pb",
+          "i": "https://datahub.io/dataset/gtfs-nl"
+        }
+      },
+      {
+        "id": "ov/816",
+        "l": {
+          "id": 194,
+          "lat": 52.132633,
+          "lng": 5.291266,
+          "n": "The Netherlands",
+          "pid": 60,
+          "t": "The Netherlands"
+        },
+        "t": "OVapi Train Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.ovapi.nl/nl/trainUpdates.pb",
+          "i": "https://datahub.io/dataset/gtfs-nl"
+        }
+      },
+      {
+        "id": "ov/815",
+        "l": {
+          "id": 194,
+          "lat": 52.132633,
+          "lng": 5.291266,
+          "n": "The Netherlands",
+          "pid": 60,
+          "t": "The Netherlands"
+        },
+        "t": "OVapi Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.ovapi.nl/nl/alerts.pb",
+          "i": "https://datahub.io/dataset/gtfs-nl"
+        }
+      },
+      {
+        "id": "ov/814",
+        "l": {
+          "id": 194,
+          "lat": 52.132633,
+          "lng": 5.291266,
+          "n": "The Netherlands",
+          "pid": 60,
+          "t": "The Netherlands"
+        },
+        "latest": {
+          "ts": 1616529326
+        },
+        "t": "OVapi GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.ovapi.nl/gtfs-nl.zip",
+          "i": "https://datahub.io/dataset/gtfs-nl"
+        }
+      },
+      {
+        "id": "yamanashi/813",
+        "l": {
+          "id": 592,
+          "lat": 35.664158,
+          "lng": 138.568449,
+          "n": "Yamanashi Prefecture",
+          "pid": 256,
+          "t": "Yamanashi Prefecture, Japan"
+        },
+        "latest": {
+          "ts": 1617068846
+        },
+        "t": "Yamanashi GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opendata.busmaps.jp/yamanashi.zip"
+        }
+      },
+      {
+        "id": "bean-shuttle/812",
+        "l": {
+          "id": 588,
+          "lat": 50.075538,
+          "lng": 14.4378,
+          "n": "Prague",
+          "pid": 587,
+          "t": "Prague, Czechia"
+        },
+        "latest": {
+          "ts": 1489552622
+        },
+        "t": "Bean Shuttle GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.beanshuttle.com/google_transit.zip"
+        }
+      },
+      {
+        "id": "metrotransit/811",
+        "l": {
+          "id": 53,
+          "lat": 44.648862,
+          "lng": -63.57532,
+          "n": "Halifax",
+          "pid": 52,
+          "t": "Halifax, NS, Canada"
+        },
+        "t": "MetroTransit Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.halifax.ca/realtime/Alert/Alerts.pb",
+          "i": "http://www.halifax.ca/opendata/transit.php"
+        }
+      },
+      {
+        "id": "metrotransit/810",
+        "l": {
+          "id": 53,
+          "lat": 44.648862,
+          "lng": -63.57532,
+          "n": "Halifax",
+          "pid": 52,
+          "t": "Halifax, NS, Canada"
+        },
+        "t": "MetroTransit Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.halifax.ca/realtime/TripUpdate/TripUpdates.pb",
+          "i": "http://www.halifax.ca/opendata/transit.php"
+        }
+      },
+      {
+        "id": "metrotransit/809",
+        "l": {
+          "id": 53,
+          "lat": 44.648862,
+          "lng": -63.57532,
+          "n": "Halifax",
+          "pid": 52,
+          "t": "Halifax, NS, Canada"
+        },
+        "t": "MetroTransit Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb",
+          "i": "http://www.halifax.ca/opendata/transit.php"
+        }
+      },
+      {
+        "id": "miway/808",
+        "l": {
+          "id": 482,
+          "lat": 43.589045,
+          "lng": -79.64412,
+          "n": "Mississauga",
+          "pid": 46,
+          "t": "Mississauga, ON, Canada"
+        },
+        "t": "MiWay Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb",
+          "i": "http://www.mississauga.ca/portal/miway/developerdownload"
+        }
+      },
+      {
+        "id": "openov/807",
+        "l": {
+          "id": 465,
+          "lat": 49.815273,
+          "lng": 6.129583,
+          "n": "Luxembourg",
+          "pid": 60,
+          "t": "Luxembourg"
+        },
+        "t": "Luxembourg Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://openov.lu/gtfs-rt/tripUpdates.pb"
+        }
+      },
+      {
+        "id": "mornington-railway/806",
+        "l": {
+          "id": 591,
+          "lat": -38.285405,
+          "lng": 145.093449,
+          "n": "Mornington Peninsula Shire",
+          "pid": 322,
+          "t": "Mornington Peninsula, VIC, Australia"
+        },
+        "latest": {
+          "ts": 1515536246
+        },
+        "t": "Mornington Railway GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.morningtonrailway.org.au/"
+        }
+      },
+      {
+        "id": "mar-chiquita-srl/805",
+        "l": {
+          "id": 590,
+          "lat": -31.420083,
+          "lng": -64.188776,
+          "n": "Córdoba",
+          "pid": 400,
+          "t": "Córdoba, Cordoba, Argentina"
+        },
+        "latest": {
+          "ts": 1489108407
+        },
+        "t": "Mar Chiquita GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://adco.tk"
+        }
+      },
+      {
+        "id": "votran/804",
+        "l": {
+          "id": 589,
+          "lat": 29.210815,
+          "lng": -81.022833,
+          "n": "Daytona Beach",
+          "pid": 74,
+          "t": "Daytona Beach, FL, USA"
+        },
+        "t": "Votran Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://realtimevotran.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate",
+          "i": "http://www.votran.org/about-us/data.stml"
+        }
+      },
+      {
+        "id": "votran/803",
+        "l": {
+          "id": 589,
+          "lat": 29.210815,
+          "lng": -81.022833,
+          "n": "Daytona Beach",
+          "pid": 74,
+          "t": "Daytona Beach, FL, USA"
+        },
+        "t": "Votran Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://realtimevotran.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=VehiclePosition",
+          "i": "http://www.votran.org/about-us/data.stml"
+        }
+      },
+      {
+        "id": "votran/802",
+        "l": {
+          "id": 589,
+          "lat": 29.210815,
+          "lng": -81.022833,
+          "n": "Daytona Beach",
+          "pid": 74,
+          "t": "Daytona Beach, FL, USA"
+        },
+        "latest": {
+          "ts": 1551301167
+        },
+        "t": "Votran GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.votran.org/core/fileparse.php/6120/urlt/Votran_General_Transit_Feed.zip",
+          "i": "http://www.votran.org/about-us/data.stml"
+        }
+      },
+      {
+        "id": "praha/801",
+        "l": {
+          "id": 588,
+          "lat": 50.075538,
+          "lng": 14.4378,
+          "n": "Prague",
+          "pid": 587,
+          "t": "Prague, Czechia"
+        },
+        "latest": {
+          "ts": 1616995166
+        },
+        "t": "Praha GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opendata.iprpraha.cz/DPP/JR/jrdata.zip",
+          "i": "http://opendata.praha.eu/dataset/dpp-jizdni-rady"
+        }
+      },
+      {
+        "id": "the-victoria-clipper/800",
+        "l": {
+          "id": 66,
+          "lat": 47.606209,
+          "lng": -122.332071,
+          "n": "Seattle",
+          "pid": 65,
+          "t": "Seattle, WA, USA"
+        },
+        "latest": {
+          "ts": 1526932886
+        },
+        "t": "The Victoria Clipper GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://github.com/zacs/victoriaclipper-gtfs/raw/master/build/clipper.zip",
+          "i": "https://github.com/zacs/victoriaclipper-gtfs/"
+        }
+      },
+      {
+        "id": "coopthai-nct/799",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520763206
+        },
+        "t": "Western Chiang Mai GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/East/east_route.zip"
+        }
+      },
+      {
+        "id": "coopthai-nct/798",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520789726
+        },
+        "t": "Western Chiang Mai GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/West/west_route.zip"
+        }
+      },
+      {
+        "id": "northern-chiang-mai/797",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520813546
+        },
+        "t": "Northern Chiang Mai GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/North/north_route.zip"
+        }
+      },
+      {
+        "id": "lampoon-pattana-transport/796",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1521008486
+        },
+        "t": "LPT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/South/south_route2.zip"
+        }
+      },
+      {
+        "id": "flixbus/795",
+        "l": {
+          "id": 60,
+          "lat": 54.525961,
+          "lng": 15.255119,
+          "n": "Europe",
+          "pid": 0,
+          "t": "Europe"
+        },
+        "latest": {
+          "ts": 1610097447
+        },
+        "t": "FlixBus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.ndovloket.nl/flixbus/flixbus-eu.zip",
+          "i": "http://data.ndovloket.nl/flixbus/"
+        }
+      },
+      {
+        "id": "translink/794",
+        "l": {
+          "id": 20,
+          "lat": -19.135865,
+          "lng": 146.842356,
+          "n": "Magnetic Island",
+          "pid": 9,
+          "t": "Magnetic Island, Queensland, Australia"
+        },
+        "latest": {
+          "ts": 1497148586
+        },
+        "t": "Magnetic Island Ferry GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsrt.api.translink.com.au/GTFS/sealink.zip",
+          "i": "https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/a7a3282c-ce87-4b4e-8b7b-70a4cc081ed6"
+        }
+      },
+      {
+        "id": "sbb-cff-ffs/793",
+        "l": {
+          "id": 371,
+          "lat": 46.818188,
+          "lng": 8.227512,
+          "n": "Switzerland",
+          "pid": 60,
+          "t": "Switzerland"
+        },
+        "latest": {
+          "ts": 1616607446
+        },
+        "t": "SBB CFF FFS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opentransportdata.swiss/de/dataset/timetable-2021-gtfs2020/permalink",
+          "i": "https://opentransportdata.swiss/de/dataset/timetable-2020-gtfs"
+        }
+      },
+      {
+        "id": "ventura-county-transportation-commission/792",
+        "l": {
+          "id": 585,
+          "lat": 34.370488,
+          "lng": -119.139064,
+          "n": "Ventura County",
+          "pid": 67,
+          "t": "Ventura County, CA, USA"
+        },
+        "latest": {
+          "ts": 1613623479
+        },
+        "t": "Ventura County Transportation Commission GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/vctc-ca-us/vctc-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/vctc-ca-us/vctc-ca-us.zip"
+        }
+      },
+      {
+        "id": "norsk-reiseinformasjon-as/791",
+        "l": {
+          "id": 83,
+          "lat": 60.472024,
+          "lng": 8.468946,
+          "n": "Norway",
+          "pid": 60,
+          "t": "Norway"
+        },
+        "latest": {
+          "ts": 1617073646
+        },
+        "t": "Norway GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip",
+          "i": "http://www.entur.org/dev/rutedata/"
+        }
+      },
+      {
+        "id": "koleje-mazowieckie/789",
+        "l": {
+          "id": 518,
+          "lat": 52.229676,
+          "lng": 21.012229,
+          "n": "Warsaw",
+          "pid": 434,
+          "t": "Warsaw, Poland"
+        },
+        "latest": {
+          "ts": 1615826426
+        },
+        "t": "Koleje Mazowieckie GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://przyjazdy.pl/latest/km.zip",
+          "i": "http://gtfs.pl/"
+        }
+      },
+      {
+        "id": "chiang-mai-university/788",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520792246
+        },
+        "t": "CMU GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/CMU/cmu_transit.zip"
+        }
+      },
+      {
+        "id": "coopthai-nct/787",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520781206
+        },
+        "t": "Coopthai GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/South/south_route.zip"
+        }
+      },
+      {
+        "id": "whitebus/786",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520797226
+        },
+        "t": "WhiteBus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/WhiteBus/whitebus_transit.zip"
+        }
+      },
+      {
+        "id": "kwanwiang-transport/785",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1520785286
+        },
+        "t": "Kwanwian Transport GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/KwanWiang/kwanwiang_transit.zip"
+        }
+      },
+      {
+        "id": "greenbus-thailand/784",
+        "l": {
+          "id": 584,
+          "lat": 18.706064,
+          "lng": 98.981716,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "latest": {
+          "ts": 1521072506
+        },
+        "t": "GreenBus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.thaitransit.org/CM/GreenBus/greenbus_transit.zip"
+        }
+      },
+      {
+        "id": "pacific-transit/783",
+        "l": {
+          "id": 580,
+          "lat": 46.518082,
+          "lng": -123.826451,
+          "n": "Pacific County",
+          "pid": 65,
+          "t": "Pacific County, WA, USA"
+        },
+        "latest": {
+          "ts": 1615988968
+        },
+        "t": "Pacific Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://mjcaction.com/MJC_GTFS_Public/pacific_google_transit.zip",
+          "i": "http://mjcaction.com/MJC_GTFS_Public/pacific_google_transit.zip"
+        }
+      },
+      {
+        "id": "transport-for-ireland/782",
+        "l": {
+          "id": 579,
+          "lat": 53.349805,
+          "lng": -6.26031,
+          "n": "Dublin",
+          "pid": 578,
+          "t": "Dublin, Ireland"
+        },
+        "latest": {
+          "ts": 1616136206
+        },
+        "t": "Dublin Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.transportforireland.ie/transitData/google_transit_dublinbus.zip"
+        }
+      },
+      {
+        "id": "startran/781",
+        "l": {
+          "id": 577,
+          "lat": 40.825763,
+          "lng": -96.685198,
+          "n": "Lincoln",
+          "pid": 576,
+          "t": "Lincoln, NE, USA"
+        },
+        "latest": {
+          "ts": 1601929406
+        },
+        "t": "StarTran GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://lincoln.ne.gov/city/pworks/startran/feed/gtfs.zip"
+        }
+      },
+      {
+        "id": "citylink/780",
+        "l": {
+          "id": 575,
+          "lat": 40.693649,
+          "lng": -89.588986,
+          "n": "Peoria",
+          "pid": 145,
+          "t": "Peoria, IL, USA"
+        },
+        "latest": {
+          "ts": 1616532206
+        },
+        "t": "CityLink GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ridecitylink-il-us/ridecitylink-il-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/ridecitylink-il-us/ridecitylink-il-us.zip"
+        }
+      },
+      {
+        "id": "city-of-kingston/779",
+        "l": {
+          "id": 574,
+          "lat": 44.231172,
+          "lng": -76.485954,
+          "n": "Kingston",
+          "pid": 46,
+          "t": "Kingston, ON, Canada"
+        },
+        "latest": {
+          "ts": 1611674966
+        },
+        "t": "Kingston Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://api.cityofkingston.ca/gtfs/gtfs.zip",
+          "i": "https://www.cityofkingston.ca/documents/10180/144997/GIS_OpenDataLicense.pdf/72f5a9ac-afbc-4fe3-959d-9111c9393bfa"
+        }
+      },
+      {
+        "id": "city-of-windsor/778",
+        "l": {
+          "id": 573,
+          "lat": 42.314937,
+          "lng": -83.036363,
+          "n": "Windsor",
+          "pid": 46,
+          "t": "Windsor, ON, Canada"
+        },
+        "latest": {
+          "ts": 1615835252
+        },
+        "t": "Transit Windsor GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opendata.citywindsor.ca/Uploads/google_transit.zip",
+          "i": "https://opendata.citywindsor.ca/opendata/details/218"
+        }
+      },
+      {
+        "id": "prefeitura-de-bage/777",
+        "l": {
+          "id": 572,
+          "lat": -31.330142,
+          "lng": -54.100462,
+          "n": "Bagé",
+          "pid": 388,
+          "t": "Bagé, RS, Brazil"
+        },
+        "latest": {
+          "ts": 1478523386
+        },
+        "t": "Prefeitura de Bage GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://github.com/rodrigowindows/GTFS/raw/master/GTFS_Bage.zip"
+        }
+      },
+      {
+        "id": "miway/776",
+        "l": {
+          "id": 482,
+          "lat": 43.589045,
+          "lng": -79.64412,
+          "n": "Mississauga",
+          "pid": 46,
+          "t": "Mississauga, ON, Canada"
+        },
+        "t": "MiWay Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://www.miapp.ca/GTFS_RT/TripUpdate/TripUpdates.pb",
+          "i": "http://www.mississauga.ca/portal/miway/developerdownload"
+        }
+      },
+      {
+        "id": "ketchikan-gateway-borough/775",
+        "l": {
+          "id": 570,
+          "lat": 55.342222,
+          "lng": -131.646111,
+          "n": "Ketchikan",
+          "pid": 276,
+          "t": "Ketchikan, AK 99901, USA"
+        },
+        "t": "Ketchikan Gateway Borough GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ketchikan-ak-us/ketchikan-ak-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/ketchikan-ak-us/ketchikan-ak-us.zip"
+        }
+      },
+      {
+        "id": "rochester-city-lines/774",
+        "l": {
+          "id": 569,
+          "lat": 44.012122,
+          "lng": -92.480199,
+          "n": "Rochester",
+          "pid": 148,
+          "t": "Rochester, MN, USA"
+        },
+        "latest": {
+          "ts": 1477775786
+        },
+        "t": "Rochester City Lines GTFS",
+        "ty": "gtfs",
+        "u": []
+      },
+      {
+        "id": "airport-valet-express/773",
+        "l": {
+          "id": 246,
+          "lat": 35.373292,
+          "lng": -119.018713,
+          "n": "Bakersfield",
+          "pid": 67,
+          "t": "Bakersfield, CA, USA"
+        },
+        "latest": {
+          "ts": 1593703047
+        },
+        "t": "Airport Valet Express GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/airportvaletexpress-ca-us/airportvaletexpress-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/airportvaletexpress-ca-us/airportvaletexpress-ca-us.zip"
+        }
+      },
+      {
+        "id": "city-2-city-shuttle/772",
+        "l": {
+          "id": 225,
+          "lat": 44.052069,
+          "lng": -123.086754,
+          "n": "Eugene",
+          "pid": 63,
+          "t": "Eugene, OR, USA"
+        },
+        "latest": {
+          "ts": 1532509886
+        },
+        "t": "City 2 City Shuttle GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://oregon-gtfs.com/gtfs_data/citytocityshuttle-or-us/citytocityshuttle-or-us.zip",
+          "i": "http://oregon-gtfs.com/gtfs_data/citytocityshuttle-or-us/citytocityshuttle-or-us.zip"
+        }
+      },
+      {
+        "id": "central-oregon-breeze/771",
+        "l": {
+          "id": 331,
+          "lat": 44.058173,
+          "lng": -121.31531,
+          "n": "Bend",
+          "pid": 63,
+          "t": "Bend, OR, USA"
+        },
+        "latest": {
+          "ts": 1606322306
+        },
+        "t": "Central Oregon Breeze GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://oregon-gtfs.com/gtfs_data/cobreeze-or-us/cobreeze-or-us.zip",
+          "i": "http://oregon-gtfs.com/gtfs_data/cobreeze-or-us/cobreeze-or-us.zip"
+        }
+      },
+      {
+        "id": "bustang/770",
+        "l": {
+          "id": 108,
+          "lat": 39.737567,
+          "lng": -104.984718,
+          "n": "Denver",
+          "pid": 107,
+          "t": "Denver, CO, USA"
+        },
+        "latest": {
+          "ts": 1613624609
+        },
+        "t": "Bustang GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/bustang-co-us/bustang-co-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/bustang-co-us/bustang-co-us.zip"
+        }
+      },
+      {
+        "id": "emery-go-round/769",
+        "l": {
+          "id": 568,
+          "lat": 37.831316,
+          "lng": -122.285247,
+          "n": "Emeryville",
+          "pid": 67,
+          "t": "Emeryville, CA, USA"
+        },
+        "latest": {
+          "ts": 1616602706
+        },
+        "t": "Emery Go-Round GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/emerygoround-ca-us/emerygoround-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/emerygoround-ca-us/emerygoround-ca-us.zip"
+        }
+      },
+      {
+        "id": "rider-transit/768",
+        "l": {
+          "id": 567,
+          "lat": 35.416812,
+          "lng": -80.58828,
+          "n": "Cabarrus County",
+          "pid": 140,
+          "t": "Cabarrus County, NC, USA"
+        },
+        "latest": {
+          "ts": 1608660986
+        },
+        "t": "Rider Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ckrider-nc-us/ckrider-nc-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/ckrider-nc-us/ckrider-nc-us.zip"
+        }
+      },
+      {
+        "id": "quail-trail-public-transit/767",
+        "l": {
+          "id": 344,
+          "lat": 42.224867,
+          "lng": -121.78167,
+          "n": "Klamath Falls",
+          "pid": 63,
+          "t": "Klamath Falls, OR, USA"
+        },
+        "latest": {
+          "ts": 1481745146
+        },
+        "t": "Quail Trail Public Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://oregon-gtfs.com/gtfs_data/klamathtribes-or-us/klamathtribes-or-us.zip",
+          "i": "http://oregon-gtfs.com/gtfs_data/klamathtribes-or-us/klamathtribes-or-us.zip"
+        }
+      },
+      {
+        "id": "red-apple-transit/766",
+        "l": {
+          "id": 566,
+          "lat": 36.728058,
+          "lng": -108.218686,
+          "n": "Farmington",
+          "pid": 80,
+          "t": "Farmington, NM, USA"
+        },
+        "latest": {
+          "ts": 1608685347
+        },
+        "t": "Red Apple Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/redappletransit-nm-us/redappletransit-nm-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/redappletransit-nm-us/redappletransit-nm-us.zip"
+        }
+      },
+      {
+        "id": "mountain-line-missoula/765",
+        "l": {
+          "id": 565,
+          "lat": 46.878718,
+          "lng": -113.996586,
+          "n": "Missoula",
+          "pid": 301,
+          "t": "Missoula, MT, USA"
+        },
+        "latest": {
+          "ts": 1615825353
+        },
+        "t": "Mountain Line GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.mountainline.com/files/MUTD_GTFS.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/missoula-mt-us/missoula-mt-us.zip"
+        }
+      },
+      {
+        "id": "udash/764",
+        "l": {
+          "id": 565,
+          "lat": 46.878718,
+          "lng": -113.996586,
+          "n": "Missoula",
+          "pid": 301,
+          "t": "Missoula, MT, USA"
+        },
+        "latest": {
+          "ts": 1589538566
+        },
+        "t": "UDASH GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/udash-mt-us/udash-mt-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/udash-mt-us/udash-mt-us.zip"
+        }
+      },
+      {
+        "id": "128-business-council/763",
+        "l": {
+          "id": 564,
+          "lat": 42.376485,
+          "lng": -71.235611,
+          "n": "Waltham",
+          "pid": 92,
+          "t": "Waltham, MA, USA"
+        },
+        "latest": {
+          "ts": 1508827166
+        },
+        "t": "128 Business Council GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/route128corridor-ma-us/route128corridor-ma-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/route128corridor-ma-us/route128corridor-ma-us.zip"
+        }
+      },
+      {
+        "id": "beloit-transit/762",
+        "l": {
+          "id": 563,
+          "lat": 42.508348,
+          "lng": -89.031776,
+          "n": "Beloit",
+          "pid": 151,
+          "t": "Beloit, WI 53511, USA"
+        },
+        "latest": {
+          "ts": 1616448087
+        },
+        "t": "Beloit Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/beloittransit-wi-us/beloittransit-wi-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/beloittransit-wi-us/beloittransit-wi-us.zip"
+        }
+      },
+      {
+        "id": "south-clackamas-transportation-district/761",
+        "l": {
+          "id": 490,
+          "lat": 45.202385,
+          "lng": -122.118894,
+          "n": "Clackamas County",
+          "pid": 63,
+          "t": "Clackamas County, OR, USA"
+        },
+        "latest": {
+          "ts": 1602922106
+        },
+        "t": "South Clackamas Transportation District GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://oregon-gtfs.com/gtfs_data/sctd-or-us/sctd-or-us.zip",
+          "i": "http://oregon-gtfs.com/gtfs_data/sctd-or-us/sctd-or-us.zip"
+        }
+      },
+      {
+        "id": "santa-maria-area-transit/760",
+        "l": {
+          "id": 562,
+          "lat": 34.953034,
+          "lng": -120.435719,
+          "n": "Santa Maria",
+          "pid": 67,
+          "t": "Santa Maria, CA, USA"
+        },
+        "latest": {
+          "ts": 1606398026
+        },
+        "t": "Santa Maria Area Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/smat-ca-us/smat-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/smat-ca-us/smat-ca-us.zip"
+        }
+      },
+      {
+        "id": "duarte-transit/759",
+        "l": {
+          "id": 561,
+          "lat": 34.139451,
+          "lng": -117.977287,
+          "n": "Duarte",
+          "pid": 67,
+          "t": "Duarte, CA, USA"
+        },
+        "latest": {
+          "ts": 1544561966
+        },
+        "t": "Duarte Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/duartetransit-ca-us/duartetransit-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/duartetransit-ca-us/duartetransit-ca-us.zip"
+        }
+      },
+      {
+        "id": "washington-park-shuttle/758",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "latest": {
+          "ts": 1615831829
+        },
+        "t": "Washington Park Shuttle GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://oregon-gtfs.com/gtfs_data/washingtonparkshuttle-or-us/washingtonparkshuttle-or-us.zip",
+          "i": "http://oregon-gtfs.com/gtfs_data/washingtonparkshuttle-or-us/washingtonparkshuttle-or-us.zip"
+        }
+      },
+      {
+        "id": "spirit-bus/757",
+        "l": {
+          "id": 560,
+          "lat": 34.062511,
+          "lng": -118.122848,
+          "n": "Monterey Park",
+          "pid": 67,
+          "t": "Monterey Park, CA, USA"
+        },
+        "latest": {
+          "ts": 1608886286
+        },
+        "t": "Spirit Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/montereypark-ca-us/montereypark-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/montereypark-ca-us/montereypark-ca-us.zip"
+        }
+      },
+      {
+        "id": "tideline-water-taxi/756",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1615834946
+        },
+        "t": "Tideline Water Taxi GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://trilliumtransit.com/transit_feeds/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip",
+          "i": "http://trilliumtransit.com/transit_feeds/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip"
+        }
+      },
+      {
+        "id": "lakes-region-explorer/755",
+        "l": {
+          "id": 559,
+          "lat": 43.813298,
+          "lng": -70.387059,
+          "n": "Cumberland County",
+          "pid": 558,
+          "t": "Cumberland County, ME, USA"
+        },
+        "latest": {
+          "ts": 1596037286
+        },
+        "t": "Lakes Region Explorer GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/rtp-me-us/rtp-me-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/rtp-me-us/rtp-me-us.zip"
+        }
+      },
+      {
+        "id": "mvgo/754",
+        "l": {
+          "id": 556,
+          "lat": 37.386052,
+          "lng": -122.083851,
+          "n": "Mountain View",
+          "pid": 67,
+          "t": "Mountain View, CA, USA"
+        },
+        "latest": {
+          "ts": 1609963586
+        },
+        "t": "MVgo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/mountainview-ca-us/mountainview-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/mountainview-ca-us/mountainview-ca-us.zip"
+        }
+      },
+      {
+        "id": "eco-transit/753",
+        "l": {
+          "id": 555,
+          "lat": 39.576406,
+          "lng": -106.723464,
+          "n": "Eagle County",
+          "pid": 107,
+          "t": "Eagle County, CO, USA"
+        },
+        "latest": {
+          "ts": 1616839046
+        },
+        "t": "ECO Transit",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ecotransit-co-us/ecotransit-co-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/ecotransit-co-us/ecotransit-co-us.zip"
+        }
+      },
+      {
+        "id": "9-town-transit/752",
+        "l": {
+          "id": 554,
+          "lat": 41.469851,
+          "lng": -72.473153,
+          "n": "Middlesex County",
+          "pid": 227,
+          "t": "Middlesex County, CT, USA"
+        },
+        "latest": {
+          "ts": 1607018607
+        },
+        "t": "9 Town Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ninetown-connecticut-us/ninetown-connecticut-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/ninetown-connecticut-us/ninetown-connecticut-us.zip"
+        }
+      },
+      {
+        "id": "tar-river-transit/751",
+        "l": {
+          "id": 553,
+          "lat": 35.93821,
+          "lng": -77.790534,
+          "n": "Rocky Mount",
+          "pid": 140,
+          "t": "Rocky Mount, NC, USA"
+        },
+        "latest": {
+          "ts": 1615843409
+        },
+        "t": "Tar River Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/tarriver-nc-us/tarriver-nc-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/tarriver-nc-us/tarriver-nc-us.zip"
+        }
+      },
+      {
+        "id": "autolinee-mugello-valdisieve/750",
+        "l": {
+          "id": 549,
+          "lat": 43.950026,
+          "lng": 11.399986,
+          "n": "Mugello",
+          "pid": 542,
+          "t": "Mugello, 50032 Borgo San Lorenzo FI, Italy"
+        },
+        "latest": {
+          "ts": 1477355906
+        },
+        "t": "AMV GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/d2e112e1-1669-480f-bb9b-fa25bd13a2db/download/amvbus.gtfs"
+        }
+      },
+      {
+        "id": "gold-country-stage/749",
+        "l": {
+          "id": 548,
+          "lat": 39.134667,
+          "lng": -121.171039,
+          "n": "Nevada County",
+          "pid": 67,
+          "t": "Nevada County, CA, USA"
+        },
+        "latest": {
+          "ts": 1545983366
+        },
+        "t": "Gold Country Stage GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/goldcountrystage-ca-us"
+        }
+      },
+      {
+        "id": "metro-transit-madison/748",
+        "l": {
+          "id": 152,
+          "lat": 43.073052,
+          "lng": -89.40123,
+          "n": "Madison",
+          "pid": 151,
+          "t": "Madison, WI, USA"
+        },
+        "t": "Metro Transit Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitdata.cityofmadison.com/Vehicle/VehiclePositions.pb",
+          "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+        }
+      },
+      {
+        "id": "metro-transit-madison/747",
+        "l": {
+          "id": 152,
+          "lat": 43.073052,
+          "lng": -89.40123,
+          "n": "Madison",
+          "pid": 151,
+          "t": "Madison, WI, USA"
+        },
+        "t": "Metro Transit Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitdata.cityofmadison.com/TripUpdate/TripUpdates.pb",
+          "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+        }
+      },
+      {
+        "id": "metro-transit-madison/746",
+        "l": {
+          "id": 152,
+          "lat": 43.073052,
+          "lng": -89.40123,
+          "n": "Madison",
+          "pid": 151,
+          "t": "Madison, WI, USA"
+        },
+        "t": "Metro Transit Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitdata.cityofmadison.com/Alert/Alerts.pb",
+          "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+        }
+      },
+      {
+        "id": "star-transit/745",
+        "l": {
+          "id": 547,
+          "lat": 32.802468,
+          "lng": -96.8351,
+          "n": "Dallas County",
+          "pid": 35,
+          "t": "Dallas County, TX, USA"
+        },
+        "latest": {
+          "ts": 1613624430
+        },
+        "t": "STAR Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/startransit-tx-us/startransit-tx-us.zip"
+        }
+      },
+      {
+        "id": "intercity-group/744",
+        "l": {
+          "id": 28,
+          "lat": -40.900557,
+          "lng": 174.885971,
+          "n": "New Zealand",
+          "pid": 1,
+          "t": "New Zealand"
+        },
+        "latest": {
+          "ts": 1563266066
+        },
+        "t": "InterCity GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.intercitygroup.co.nz/transit/gtfs_base.zip"
+        }
+      },
+      {
+        "id": "consorcio-regional-de-transportes-de-madrid/743",
+        "l": {
+          "id": 167,
+          "lat": 40.416775,
+          "lng": -3.70379,
+          "n": "Madrid",
+          "pid": 166,
+          "t": "Madrid, Spain"
+        },
+        "latest": {
+          "ts": 1615824866
+        },
+        "t": "Metro Ligero de Madrid GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196"
+        }
+      },
+      {
+        "id": "consorcio-regional-de-transportes-de-madrid/742",
+        "l": {
+          "id": 167,
+          "lat": 40.416775,
+          "lng": -3.70379,
+          "n": "Madrid",
+          "pid": 166,
+          "t": "Madrid, Spain"
+        },
+        "latest": {
+          "ts": 1615830093
+        },
+        "t": "Metro de Madrid GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246"
+        }
+      },
+      {
+        "id": "regional-municipality-of-niagara/741",
+        "l": {
+          "id": 546,
+          "lat": 43.058164,
+          "lng": -79.290213,
+          "n": "Niagara Regional Municipality",
+          "pid": 46,
+          "t": "Niagara Regional Municipality, ON, Canada"
+        },
+        "latest": {
+          "ts": 1615828406
+        },
+        "t": "Niagara GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://maps.niagararegion.ca/googletransit/NiagaraRegionTransit.zip",
+          "i": "https://niagaraopendata.ca/pages/open-government-license-2-0-niagara-region"
+        }
+      },
+      {
+        "id": "region-marche/740",
+        "l": {
+          "id": 544,
+          "lat": 43.505874,
+          "lng": 12.989615,
+          "n": "Marche",
+          "pid": 78,
+          "t": "Marche, Italy"
+        },
+        "latest": {
+          "ts": 1476235586
+        },
+        "t": "Marche GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.trasporti.marche.it/downloads/opendata/GTFS_TRASPORTI_UNIFICATO_13-07-2016.zip"
+        }
+      },
+      {
+        "id": "azienda-trasporti-dellarea-fiorentina/739",
+        "l": {
+          "id": 543,
+          "lat": 43.76956,
+          "lng": 11.255814,
+          "n": "Florence",
+          "pid": 542,
+          "t": "Florence, Italy"
+        },
+        "latest": {
+          "ts": 1476234895
+        },
+        "t": "ATAF GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/a53a10ae-4d08-4f41-a9d0-0b99826ff00c/download/ataflinea.gtfs"
+        }
+      },
+      {
+        "id": "lignes-dazur/738",
+        "l": {
+          "id": 541,
+          "lat": 43.710173,
+          "lng": 7.261953,
+          "n": "Nice",
+          "pid": 161,
+          "t": "Nice, France"
+        },
+        "latest": {
+          "ts": 1616911526
+        },
+        "t": "Lignes d'Azur GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur/resource/aacb4eea-d008-4b13-b17a-848b8ced7e03/download",
+          "i": "http://opendata.nicecotedazur.org/data/dataset/export-au-format-gtfs-du-reseau-de-transport-lignes-d-azur"
+        }
+      },
+      {
+        "id": "byron-easybus/737",
+        "l": {
+          "id": 540,
+          "lat": -28.647367,
+          "lng": 153.601977,
+          "n": "Byron Bay",
+          "pid": 113,
+          "t": "Byron Bay NSW 2481, Australia"
+        },
+        "latest": {
+          "ts": 1576107686
+        },
+        "t": "Byron Easybus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://addtransit.com/gtfsfile/54743/ByronEasybus.zip"
+        }
+      },
+      {
+        "id": "stanford-marguerite-shuttle/736",
+        "l": {
+          "id": 539,
+          "lat": 37.424106,
+          "lng": -122.166076,
+          "n": "Stanford",
+          "pid": 67,
+          "t": "Stanford, CA, USA"
+        },
+        "latest": {
+          "ts": 1616214326
+        },
+        "t": "SMS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://transportation-forms.stanford.edu/google/google_transit.zip"
+        }
+      },
+      {
+        "id": "helsinki-regional-transport/735",
+        "l": {
+          "id": 538,
+          "lat": 60.169856,
+          "lng": 24.938379,
+          "n": "Helsinki",
+          "pid": 530,
+          "t": "Helsinki, Finland"
+        },
+        "latest": {
+          "ts": 1617070046
+        },
+        "t": "HSL GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dev.hsl.fi/gtfs/hsl.zip"
+        }
+      },
+      {
+        "id": "ferries/734",
+        "l": {
+          "id": 530,
+          "lat": 61.92411,
+          "lng": 25.748151,
+          "n": "Finland",
+          "pid": 60,
+          "t": "Finland"
+        },
+        "latest": {
+          "ts": 1617068848
+        },
+        "t": "Ferries GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://lautta.net/db/gtfs/gtfs.zip"
+        }
+      },
+      {
+        "id": "liikennevirasto/733",
+        "l": {
+          "id": 537,
+          "lat": 62.806208,
+          "lng": 30.155389,
+          "n": "North Karelia",
+          "pid": 530,
+          "t": "North Karelia, Finland"
+        },
+        "latest": {
+          "ts": 1533751166
+        },
+        "t": "POSELY GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dev.hsl.fi/gtfs.waltti/posjoe.zip"
+        }
+      },
+      {
+        "id": "city-of-joensuu/732",
+        "l": {
+          "id": 536,
+          "lat": 62.601016,
+          "lng": 29.763572,
+          "n": "Joensuu",
+          "pid": 537,
+          "t": "Joensuu, Finland"
+        },
+        "latest": {
+          "ts": 1569172227
+        },
+        "t": "Joensuu GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dev.hsl.fi/gtfs.waltti/joensuu.zip"
+        }
+      },
+      {
+        "id": "city-of-kuopio/731",
+        "l": {
+          "id": 535,
+          "lat": 62.89797,
+          "lng": 27.678172,
+          "n": "Kuopio",
+          "pid": 530,
+          "t": "Kuopio, Finland"
+        },
+        "latest": {
+          "ts": 1616605048
+        },
+        "t": "Kuopio GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://karttapalvelu.kuopio.fi/google_transit/google_transit.zip",
+          "i": "http://vilkku.kuopio.fi/sv/reaaliaikapalvelut"
+        }
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 6,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078100
+}

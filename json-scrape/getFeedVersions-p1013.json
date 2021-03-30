@@ -1,0 +1,2611 @@
+{
+  "results": {
+    "limit": 100,
+    "numPages": 1160,
+    "page": 1013,
+    "total": 115910,
+    "versions": [
+      {
+        "f": {
+          "id": "opentransit/354",
+          "l": {
+            "id": 260,
+            "lat": 35.173882,
+            "lng": 138.906729,
+            "n": "Susono",
+            "pid": 257,
+            "t": "Susono, Shizuoka Prefecture, Japan"
+          },
+          "t": "Susonohru GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/354/20151209",
+        "size": 37643,
+        "ts": 1449669971,
+        "url": "https://transitfeeds.com/p/opentransit/354/20151209/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/353",
+          "l": {
+            "id": 259,
+            "lat": 34.637987,
+            "lng": 138.128127,
+            "n": "Omaezaki",
+            "pid": 257,
+            "t": "Omaezaki, Shizuoka Prefecture, Japan"
+          },
+          "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/353/20151209",
+        "size": 16953,
+        "ts": 1449669916,
+        "url": "https://transitfeeds.com/p/opentransit/353/20151209/download"
+      },
+      {
+        "d": {
+          "f": "20160209",
+          "s": "20151209"
+        },
+        "f": {
+          "id": "roma-servizi-per-la-mobilita/542",
+          "l": {
+            "id": 402,
+            "lat": 41.902783,
+            "lng": 12.496365,
+            "n": "Rome",
+            "pid": 78,
+            "t": "Rome, Italy"
+          },
+          "t": "Mobilità GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://dati.muovi.roma.it/gtfs/rome_static_gtfs.zip",
+            "i": "https://romamobilita.it/it/tecnologie/open-data/dataset"
+          }
+        },
+        "id": "roma-servizi-per-la-mobilita/542/20151209",
+        "size": 138197196,
+        "ts": 1449669709,
+        "url": "https://transitfeeds.com/p/roma-servizi-per-la-mobilita/542/20151209/download"
+      },
+      {
+        "d": {
+          "f": "20160408",
+          "s": "20151004"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/20151209",
+        "size": 23473443,
+        "ts": 1449665416,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/20151209/download"
+      },
+      {
+        "d": {
+          "f": "20160206",
+          "s": "20151126"
+        },
+        "f": {
+          "id": "edmonton-transit-system/27",
+          "l": {
+            "id": 43,
+            "lat": 53.544389,
+            "lng": -113.490927,
+            "n": "Edmonton",
+            "pid": 42,
+            "t": "Edmonton, AB, Canada"
+          },
+          "t": "ETS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/gtfs.zip",
+            "i": "https://data.edmonton.ca/Transit/ETS-Bus-Schedule-GTFS-Data-Schedules-zipped-files/urjq-fvmq"
+          }
+        },
+        "id": "edmonton-transit-system/27/20151208",
+        "size": 15997160,
+        "ts": 1449630038,
+        "url": "https://transitfeeds.com/p/edmonton-transit-system/27/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20171201",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "josephine-county-transit/469",
+          "l": {
+            "id": 345,
+            "lat": 42.344757,
+            "lng": -123.456874,
+            "n": "Josephine County",
+            "pid": 63,
+            "t": "Josephine County, OR, USA"
+          },
+          "t": "JCT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/josephinecounty-or-us/josephinecounty-or-us.zip"
+          }
+        },
+        "id": "josephine-county-transit/469/20151208",
+        "size": 68526,
+        "ts": 1449629735,
+        "url": "https://transitfeeds.com/p/josephine-county-transit/469/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160102",
+          "s": "20150816"
+        },
+        "f": {
+          "id": "rtd-denver/188",
+          "l": {
+            "id": 108,
+            "lat": 39.737567,
+            "lng": -104.984718,
+            "n": "Denver",
+            "pid": 107,
+            "t": "Denver, CO, USA"
+          },
+          "t": "RTD Denver GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://rtd-denver.com/files/gtfs/google_transit.zip",
+            "i": "https://www.rtd-denver.com/business-center/open-data/gtfs-developer-guide"
+          }
+        },
+        "id": "rtd-denver/188/20151208",
+        "size": 16238403,
+        "ts": 1449629435,
+        "url": "https://transitfeeds.com/p/rtd-denver/188/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20161231",
+          "s": "20151110"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/20151208",
+        "size": 2355803,
+        "ts": 1449628288,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20120101"
+        },
+        "f": {
+          "id": "sunset-empire-transportation-district/483",
+          "l": {
+            "id": 349,
+            "lat": 46.187884,
+            "lng": -123.831253,
+            "n": "Astoria",
+            "pid": 63,
+            "t": "Astoria, OR, USA"
+          },
+          "t": "SETD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/tillamook-or-us/tillamook-or-us.zip"
+          }
+        },
+        "id": "sunset-empire-transportation-district/483/20151208",
+        "size": 627278,
+        "ts": 1449628229,
+        "url": "https://transitfeeds.com/p/sunset-empire-transportation-district/483/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160331",
+          "s": "20151101"
+        },
+        "f": {
+          "id": "societe-regionale-wallonne-du-transport/529",
+          "l": {
+            "id": 384,
+            "lat": 50.400501,
+            "lng": 5.133513,
+            "n": "Walloon Region",
+            "pid": 382,
+            "t": "Walloon Region, Belgium"
+          },
+          "t": "TEC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip"
+          }
+        },
+        "id": "societe-regionale-wallonne-du-transport/529/20151208",
+        "size": 41039607,
+        "ts": 1449627968,
+        "url": "https://transitfeeds.com/p/societe-regionale-wallonne-du-transport/529/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20150502",
+          "s": "20150104"
+        },
+        "f": {
+          "id": "chattanooga-area-regional-transportation-authority/360",
+          "l": {
+            "id": 265,
+            "lat": 35.04563,
+            "lng": -85.30968,
+            "n": "Chattanooga",
+            "pid": 174,
+            "t": "Chattanooga, TN, USA"
+          },
+          "t": "CARTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.gocarta.org/developers/GTFS.zip",
+            "i": "http://www.gocarta.org/#developers"
+          }
+        },
+        "id": "chattanooga-area-regional-transportation-authority/360/20151208",
+        "size": 907027,
+        "ts": 1449626547,
+        "url": "https://transitfeeds.com/p/chattanooga-area-regional-transportation-authority/360/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20171231",
+          "s": "20150323"
+        },
+        "f": {
+          "id": "redding-area-bus-authority/346",
+          "l": {
+            "id": 251,
+            "lat": 40.58654,
+            "lng": -122.391675,
+            "n": "Redding",
+            "pid": 67,
+            "t": "Redding, CA, USA"
+          },
+          "t": "RABA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/redding-ca-us/redding-ca-us.zip"
+          }
+        },
+        "id": "redding-area-bus-authority/346/20151208",
+        "size": 137614,
+        "ts": 1449626513,
+        "url": "https://transitfeeds.com/p/redding-area-bus-authority/346/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160309",
+          "s": "20151208"
+        },
+        "f": {
+          "id": "santa-cruz-metro/343",
+          "l": {
+            "id": 249,
+            "lat": 36.974117,
+            "lng": -122.030796,
+            "n": "Santa Cruz",
+            "pid": 67,
+            "t": "Santa Cruz, CA, USA"
+          },
+          "t": "SCMTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://scmtd.com/google_transit/google_transit.zip"
+          }
+        },
+        "id": "santa-cruz-metro/343/20151208",
+        "size": 3126982,
+        "ts": 1449626509,
+        "url": "https://transitfeeds.com/p/santa-cruz-metro/343/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170928",
+          "s": "20150101"
+        },
+        "f": {
+          "id": "yosemite-area-regional-transportation-system/155",
+          "l": {
+            "id": 144,
+            "lat": 37.74557,
+            "lng": -119.593604,
+            "n": "Yosemite Valley",
+            "pid": 67,
+            "t": "Yosemite Valley, CA, USA"
+          },
+          "t": "YARTS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip"
+          }
+        },
+        "id": "yosemite-area-regional-transportation-system/155/20151208",
+        "size": 524973,
+        "ts": 1449626497,
+        "url": "https://transitfeeds.com/p/yosemite-area-regional-transportation-system/155/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140618"
+        },
+        "f": {
+          "id": "sioux-area-metro/361",
+          "l": {
+            "id": 267,
+            "lat": 43.544596,
+            "lng": -96.731103,
+            "n": "Sioux Falls",
+            "pid": 266,
+            "t": "Sioux Falls, SD, USA"
+          },
+          "t": "SAM GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/siouxareametro-sd-us/siouxareametro-sd-us.zip"
+          }
+        },
+        "id": "sioux-area-metro/361/20151208",
+        "size": 129774,
+        "ts": 1449626487,
+        "url": "https://transitfeeds.com/p/sioux-area-metro/361/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20120101"
+        },
+        "f": {
+          "id": "the-wave/485",
+          "l": {
+            "id": 355,
+            "lat": 45.456216,
+            "lng": -123.844014,
+            "n": "Tillamook",
+            "pid": 63,
+            "t": "Tillamook, OR 97141, USA"
+          },
+          "t": "The Wave GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/tillamook-or-us/tillamook-or-us.zip"
+          }
+        },
+        "id": "the-wave/485/20151208",
+        "size": 627278,
+        "ts": 1449626480,
+        "url": "https://transitfeeds.com/p/the-wave/485/20151208/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/352",
+          "l": {
+            "id": 258,
+            "lat": 34.768767,
+            "lng": 137.998168,
+            "n": "Kakegawa",
+            "pid": 257,
+            "t": "Kakegawa, Shizuoka Prefecture, Japan"
+          },
+          "t": "Kakegawa Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5707702298738688/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/352/20151208-2",
+        "size": 11198,
+        "ts": 1449626476,
+        "url": "https://transitfeeds.com/p/opentransit/352/20151208-2/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/354",
+          "l": {
+            "id": 260,
+            "lat": 35.173882,
+            "lng": 138.906729,
+            "n": "Susono",
+            "pid": 257,
+            "t": "Susono, Shizuoka Prefecture, Japan"
+          },
+          "t": "Susonohru GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/354/20151208-2",
+        "size": 37728,
+        "ts": 1449626453,
+        "url": "https://transitfeeds.com/p/opentransit/354/20151208-2/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/353",
+          "l": {
+            "id": 259,
+            "lat": 34.637987,
+            "lng": 138.128127,
+            "n": "Omaezaki",
+            "pid": 257,
+            "t": "Omaezaki, Shizuoka Prefecture, Japan"
+          },
+          "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/353/20151208-2",
+        "size": 17049,
+        "ts": 1449626417,
+        "url": "https://transitfeeds.com/p/opentransit/353/20151208-2/download"
+      },
+      {
+        "d": {
+          "f": "20160306",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "calgary-transit/238",
+          "l": {
+            "id": 186,
+            "lat": 51.045325,
+            "lng": -114.058101,
+            "n": "Calgary",
+            "pid": 42,
+            "t": "Calgary, AB, Canada"
+          },
+          "t": "Calgary Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://data.calgary.ca/stories/s/u45n-7awa/"
+          }
+        },
+        "id": "calgary-transit/238/20151208",
+        "size": 20929245,
+        "ts": 1449626409,
+        "url": "https://transitfeeds.com/p/calgary-transit/238/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160226",
+          "s": "20151205"
+        },
+        "f": {
+          "id": "reseau-de-transport-de-la-capitale/40",
+          "l": {
+            "id": 55,
+            "lat": 46.803283,
+            "lng": -71.242796,
+            "n": "Quebec",
+            "pid": 54,
+            "t": "Quebec City, QC, Canada"
+          },
+          "t": "RTC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://cdn.rtcquebec.ca/Site_Internet/DonneesOuvertes/googletransit.zip",
+            "i": "https://www.rtcquebec.ca/donnees-ouvertes"
+          }
+        },
+        "id": "reseau-de-transport-de-la-capitale/40/20151208",
+        "size": 8692168,
+        "ts": 1449626285,
+        "url": "https://transitfeeds.com/p/reseau-de-transport-de-la-capitale/40/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20231231",
+          "s": "20000301"
+        },
+        "f": {
+          "id": "maanteeamet/510",
+          "l": {
+            "id": 369,
+            "lat": 58.595272,
+            "lng": 25.013607,
+            "n": "Estonia",
+            "pid": 60,
+            "t": "Estonia"
+          },
+          "t": "Maanteeamet GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.peatus.ee/gtfs/gtfs.zip",
+            "i": "http://www.mnt.ee/index.php?id=23419"
+          }
+        },
+        "id": "maanteeamet/510/20151208",
+        "size": 4942196,
+        "ts": 1449626127,
+        "url": "https://transitfeeds.com/p/maanteeamet/510/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140929"
+        },
+        "f": {
+          "id": "green-mountain-community-network/562",
+          "l": {
+            "id": 421,
+            "lat": 42.878135,
+            "lng": -73.196774,
+            "n": "Bennington",
+            "pid": 415,
+            "t": "Bennington, VT 05201, USA"
+          },
+          "t": "GMCN GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/greenmtncn-vt-us/greenmtncn-vt-us.zip",
+            "i": "http://vermont-gtfs.org/"
+          }
+        },
+        "id": "green-mountain-community-network/562/20151208",
+        "size": 145203,
+        "ts": 1449625502,
+        "url": "https://transitfeeds.com/p/green-mountain-community-network/562/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20150101"
+        },
+        "f": {
+          "id": "marble-valley-regional-transit-district/565",
+          "l": {
+            "id": 423,
+            "lat": 43.610624,
+            "lng": -72.972606,
+            "n": "Rutland",
+            "pid": 415,
+            "t": "Rutland, VT, USA"
+          },
+          "t": "MVRTD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/thebus-vt-us/thebus-vt-us.zip",
+            "i": "http://vermont-gtfs.org/"
+          }
+        },
+        "id": "marble-valley-regional-transit-district/565/20151208",
+        "size": 144704,
+        "ts": 1449625502,
+        "url": "https://transitfeeds.com/p/marble-valley-regional-transit-district/565/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140101"
+        },
+        "f": {
+          "id": "rural-community-transportation/563",
+          "l": {
+            "id": 415,
+            "lat": 44.558803,
+            "lng": -72.577841,
+            "n": "Vermont",
+            "pid": 31,
+            "t": "Vermont, USA"
+          },
+          "t": "RCT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/ruralcommunity-vt-us/ruralcommunity-vt-us.zip",
+            "i": "http://vermont-gtfs.org/"
+          }
+        },
+        "id": "rural-community-transportation/563/20151208",
+        "size": 334088,
+        "ts": 1449625202,
+        "url": "https://transitfeeds.com/p/rural-community-transportation/563/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160108",
+          "s": "20151209"
+        },
+        "f": {
+          "id": "transport-for-nsw/305",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Trains GTFS",
+          "ty": "gtfs",
+          "u": []
+        },
+        "id": "transport-for-nsw/305/20151208",
+        "size": 7261880,
+        "ts": 1449622018,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/305/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20161227",
+          "s": "20150127"
+        },
+        "f": {
+          "id": "transport-for-nsw/326",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Ferries GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/326/20151208",
+        "size": 99607,
+        "ts": 1449621999,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/326/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160619",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "trafiklab/50",
+          "l": {
+            "id": 77,
+            "lat": 60.128161,
+            "lng": 18.643501,
+            "n": "Sweden",
+            "pid": 60,
+            "t": "Sweden"
+          },
+          "t": "TrafikLab GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.trafiklab.se/api"
+          }
+        },
+        "id": "trafiklab/50/20151208",
+        "size": 56701030,
+        "ts": 1449586094,
+        "url": "https://transitfeeds.com/p/trafiklab/50/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20151230",
+          "s": "20151208"
+        },
+        "f": {
+          "id": "transporte-urbano-comarcal-de-pamplona/499",
+          "l": {
+            "id": 366,
+            "lat": 42.812526,
+            "lng": -1.645774,
+            "n": "Pamplona",
+            "pid": 166,
+            "t": "Pamplona, Navarre, Spain"
+          },
+          "t": "TCC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://86.109.125.18:88/gt/google_transit.zip"
+          }
+        },
+        "id": "transporte-urbano-comarcal-de-pamplona/499/20151208",
+        "size": 2382972,
+        "ts": 1449584777,
+        "url": "https://transitfeeds.com/p/transporte-urbano-comarcal-de-pamplona/499/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20161231",
+          "s": "20150720"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/20151208",
+        "size": 680246,
+        "ts": 1449584459,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160604",
+          "s": "20151208"
+        },
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/20151208",
+        "size": 23111558,
+        "ts": 1449583109,
+        "url": "https://transitfeeds.com/p/wmata/75/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "barrie-transit/522",
+          "l": {
+            "id": 379,
+            "lat": 44.389356,
+            "lng": -79.690332,
+            "n": "Barrie",
+            "pid": 46,
+            "t": "Barrie, ON, Canada"
+          },
+          "t": "Barrie Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.myridebarrie.ca/gtfs/Google_transit.zip",
+            "i": "http://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx"
+          }
+        },
+        "id": "barrie-transit/522/20151208",
+        "size": 424716,
+        "ts": 1449582988,
+        "url": "https://transitfeeds.com/p/barrie-transit/522/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20150105"
+        },
+        "f": {
+          "id": "kern-transit/401",
+          "l": {
+            "id": 246,
+            "lat": 35.373292,
+            "lng": -119.018713,
+            "n": "Bakersfield",
+            "pid": 67,
+            "t": "Bakersfield, CA, USA"
+          },
+          "t": "Kern Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip",
+            "i": "http://kerntransit.org/developers-gtfs/"
+          }
+        },
+        "id": "kern-transit/401/20151208",
+        "size": 600225,
+        "ts": 1449582983,
+        "url": "https://transitfeeds.com/p/kern-transit/401/20151208/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/352",
+          "l": {
+            "id": 258,
+            "lat": 34.768767,
+            "lng": 137.998168,
+            "n": "Kakegawa",
+            "pid": 257,
+            "t": "Kakegawa, Shizuoka Prefecture, Japan"
+          },
+          "t": "Kakegawa Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5707702298738688/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/352/20151208",
+        "size": 11161,
+        "ts": 1449582975,
+        "url": "https://transitfeeds.com/p/opentransit/352/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160307",
+          "s": "20151130"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/20151208",
+        "size": 22065,
+        "ts": 1449582964,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160103",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "societe-des-transports-intercommunaux-de-bruxelles/527",
+          "l": {
+            "id": 383,
+            "lat": 50.85034,
+            "lng": 4.35171,
+            "n": "Brussels",
+            "pid": 382,
+            "t": "Brussels, Belgium"
+          },
+          "t": "STIB-MIVB GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.stib-mivb.be"
+          }
+        },
+        "id": "societe-des-transports-intercommunaux-de-bruxelles/527/20151208",
+        "size": 21234094,
+        "ts": 1449582955,
+        "url": "https://transitfeeds.com/p/societe-des-transports-intercommunaux-de-bruxelles/527/20151208/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/354",
+          "l": {
+            "id": 260,
+            "lat": 35.173882,
+            "lng": 138.906729,
+            "n": "Susono",
+            "pid": 257,
+            "t": "Susono, Shizuoka Prefecture, Japan"
+          },
+          "t": "Susonohru GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/354/20151208",
+        "size": 36853,
+        "ts": 1449582951,
+        "url": "https://transitfeeds.com/p/opentransit/354/20151208/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/353",
+          "l": {
+            "id": 259,
+            "lat": 34.637987,
+            "lng": 138.128127,
+            "n": "Omaezaki",
+            "pid": 257,
+            "t": "Omaezaki, Shizuoka Prefecture, Japan"
+          },
+          "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/353/20151208",
+        "size": 17137,
+        "ts": 1449582916,
+        "url": "https://transitfeeds.com/p/opentransit/353/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160120",
+          "s": "20151128"
+        },
+        "f": {
+          "id": "auckland-transport/124",
+          "l": {
+            "id": 132,
+            "lat": -36.84846,
+            "lng": 174.763331,
+            "n": "Auckland",
+            "pid": 28,
+            "t": "Auckland, New Zealand"
+          },
+          "t": "Auckland Transport GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://cdn01.at.govt.nz/data/gtfs.zip",
+            "i": "https://api.at.govt.nz"
+          }
+        },
+        "id": "auckland-transport/124/20151208",
+        "size": 14632013,
+        "ts": 1449582900,
+        "url": "https://transitfeeds.com/p/auckland-transport/124/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20161231",
+          "s": "20150908"
+        },
+        "f": {
+          "id": "golden-empire-transit-district/340",
+          "l": {
+            "id": 246,
+            "lat": 35.373292,
+            "lng": -119.018713,
+            "n": "Bakersfield",
+            "pid": 67,
+            "t": "Bakersfield, CA, USA"
+          },
+          "t": "GET GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://eta.getbus.org/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.getbus.org/google-transit-data-download/"
+          }
+        },
+        "id": "golden-empire-transit-district/340/20151208",
+        "size": 1240978,
+        "ts": 1449582786,
+        "url": "https://transitfeeds.com/p/golden-empire-transit-district/340/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20160409",
+          "s": "20150907"
+        },
+        "f": {
+          "id": "winnipeg-transit/23",
+          "l": {
+            "id": 34,
+            "lat": 49.899754,
+            "lng": -97.137494,
+            "n": "Winnipeg",
+            "pid": 33,
+            "t": "Winnipeg, MB, Canada"
+          },
+          "t": "Winnipeg Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.winnipegtransit.com/google_transit.zip",
+            "i": "http://api.winnipegtransit.com/"
+          }
+        },
+        "id": "winnipeg-transit/23/20151208",
+        "size": 17172103,
+        "ts": 1449582675,
+        "url": "https://transitfeeds.com/p/winnipeg-transit/23/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20150501"
+        },
+        "f": {
+          "id": "jeffco-express/393",
+          "l": {
+            "id": 300,
+            "lat": 38.23103,
+            "lng": -90.525782,
+            "n": "Jefferson County",
+            "pid": 289,
+            "t": "Jefferson County, MO, USA"
+          },
+          "t": "JeffCo Express GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/jeffersoncounty-mo-us/jeffersoncounty-mo-us.zip"
+          }
+        },
+        "id": "jeffco-express/393/20151208",
+        "size": 179971,
+        "ts": 1449582650,
+        "url": "https://transitfeeds.com/p/jeffco-express/393/20151208/download"
+      },
+      {
+        "d": {
+          "f": "20161227",
+          "s": "20150127"
+        },
+        "f": {
+          "id": "transport-for-nsw/326",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Ferries GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/326/20151207",
+        "size": 99590,
+        "ts": 1449541464,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/326/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160319",
+          "s": "20151219"
+        },
+        "f": {
+          "id": "ac-transit/121",
+          "l": {
+            "id": 69,
+            "lat": 37.804364,
+            "lng": -122.271114,
+            "n": "Oakland",
+            "pid": 67,
+            "t": "Oakland, CA, USA"
+          },
+          "t": "AC Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.actransit.org/planning-focus/data-resource-center/"
+          }
+        },
+        "id": "ac-transit/121/20151207",
+        "size": 5397672,
+        "ts": 1449541452,
+        "url": "https://transitfeeds.com/p/ac-transit/121/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160305",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "duluth-transit/174",
+          "l": {
+            "id": 149,
+            "lat": 46.786672,
+            "lng": -92.100485,
+            "n": "Duluth",
+            "pid": 148,
+            "t": "Duluth, MN, USA"
+          },
+          "t": "Duluth Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://duluthtransit.com/gtf/google_transit.zip",
+            "i": "http://dev.duluthtransit.com/gtfs"
+          }
+        },
+        "id": "duluth-transit/174/20151207",
+        "size": 2104813,
+        "ts": 1449541448,
+        "url": "https://transitfeeds.com/p/duluth-transit/174/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160501",
+          "s": "20151101"
+        },
+        "f": {
+          "id": "central-maryland-regional-transit/297",
+          "l": {
+            "id": 215,
+            "lat": 39.099275,
+            "lng": -76.848306,
+            "n": "Laurel",
+            "pid": 133,
+            "t": "Laurel, MD, USA"
+          },
+          "t": "CMRT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://mdtrip.org/googletransit/RTA/google_transit.zip",
+            "i": "http://www.cmrtransit.org/about/developer-resources/"
+          }
+        },
+        "id": "central-maryland-regional-transit/297/20151207",
+        "size": 663606,
+        "ts": 1449541405,
+        "url": "https://transitfeeds.com/p/central-maryland-regional-transit/297/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160410",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "tulsa-transit/521",
+          "l": {
+            "id": 378,
+            "lat": 36.153982,
+            "lng": -95.992775,
+            "n": "Tulsa",
+            "pid": 376,
+            "t": "Tulsa, OK, USA"
+          },
+          "t": "Tulsa Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.tulsatransit.org/google_transit.zip",
+            "i": "http://gtfs.tulsatransit.org/"
+          }
+        },
+        "id": "tulsa-transit/521/20151207",
+        "size": 671675,
+        "ts": 1449541403,
+        "url": "https://transitfeeds.com/p/tulsa-transit/521/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160326",
+          "s": "20150919"
+        },
+        "f": {
+          "id": "connecticut-transit/323",
+          "l": {
+            "id": 228,
+            "lat": 41.763711,
+            "lng": -72.685093,
+            "n": "Hartford",
+            "pid": 227,
+            "t": "Hartford, CT, USA"
+          },
+          "t": "CT Transit Hartford GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip",
+            "i": "https://www.cttransit.com/about/developers"
+          }
+        },
+        "id": "connecticut-transit/323/20151207",
+        "size": 10658448,
+        "ts": 1449541396,
+        "url": "https://transitfeeds.com/p/connecticut-transit/323/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160403",
+          "s": "20151213"
+        },
+        "f": {
+          "id": "connecticut-transit/322",
+          "l": {
+            "id": 229,
+            "lat": 41.308274,
+            "lng": -72.927883,
+            "n": "New Haven",
+            "pid": 227,
+            "t": "New Haven, CT, USA"
+          },
+          "t": "CT Transit New Haven GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.cttransit.com/sites/default/files/gtfs/googlenh_transit.zip",
+            "i": "https://www.cttransit.com/about/developers"
+          }
+        },
+        "id": "connecticut-transit/322/20151207",
+        "size": 2483044,
+        "ts": 1449541376,
+        "url": "https://transitfeeds.com/p/connecticut-transit/322/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160107",
+          "s": "20151208"
+        },
+        "f": {
+          "id": "transport-for-nsw/305",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Trains GTFS",
+          "ty": "gtfs",
+          "u": []
+        },
+        "id": "transport-for-nsw/305/20151207",
+        "size": 7260352,
+        "ts": 1449541343,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/305/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "blue-star-transportation/437",
+          "l": {
+            "id": 64,
+            "lat": 45.523452,
+            "lng": -122.676207,
+            "n": "Portland",
+            "pid": 63,
+            "t": "Portland, OR, USA"
+          },
+          "t": "Blue Star GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/bluestar-or-us/bluestar-or-us.zip"
+          }
+        },
+        "id": "blue-star-transportation/437/20151207",
+        "size": 19720,
+        "ts": 1449541335,
+        "url": "https://transitfeeds.com/p/blue-star-transportation/437/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160605",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "people-mover/370",
+          "l": {
+            "id": 277,
+            "lat": 61.218056,
+            "lng": -149.900278,
+            "n": "Anchorage",
+            "pid": 276,
+            "t": "Anchorage, AK, USA"
+          },
+          "t": "People Mover GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.muni.org/People_Mover.gtfs.zip",
+            "i": "http://www.muni.org/Departments/transit/PeopleMover/Pages/GTFSDiscliamer.aspx"
+          }
+        },
+        "id": "people-mover/370/20151207",
+        "size": 654328,
+        "ts": 1449541318,
+        "url": "https://transitfeeds.com/p/people-mover/370/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20120101"
+        },
+        "f": {
+          "id": "northwest-point/474",
+          "l": {
+            "id": 349,
+            "lat": 46.187884,
+            "lng": -123.831253,
+            "n": "Astoria",
+            "pid": 63,
+            "t": "Astoria, OR, USA"
+          },
+          "t": "NorthWest POINT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/northwestpoint-or-us/northwestpoint-or-us.zip"
+          }
+        },
+        "id": "northwest-point/474/20151207",
+        "size": 47152,
+        "ts": 1449541298,
+        "url": "https://transitfeeds.com/p/northwest-point/474/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160307",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "transport-for-nsw/237",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Greater Sydney GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://opendata.transport.nsw.gov.au/api/download/9ca31d18-5efa-43ec-870d-258ee3388614",
+            "i": "https://opendata.transport.nsw.gov.au/dataset/timetables-complete-gtfs"
+          }
+        },
+        "id": "transport-for-nsw/237/20151207",
+        "size": 126357886,
+        "ts": 1449541292,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/237/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "tac-transportation/464",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "Eugene to Bend GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/pacificcrest-or-us/pacificcrest-or-us.zip"
+          }
+        },
+        "id": "tac-transportation/464/20151207",
+        "size": 33857,
+        "ts": 1449540971,
+        "url": "https://transitfeeds.com/p/tac-transportation/464/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160305",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "metro-transit-madison/181",
+          "l": {
+            "id": 152,
+            "lat": 43.073052,
+            "lng": -89.40123,
+            "n": "Madison",
+            "pid": 151,
+            "t": "Madison, WI, USA"
+          },
+          "t": "Metro Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip",
+            "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+          }
+        },
+        "id": "metro-transit-madison/181/20151207",
+        "size": 4705940,
+        "ts": 1449540963,
+        "url": "https://transitfeeds.com/p/metro-transit-madison/181/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140908"
+        },
+        "f": {
+          "id": "cascade-point/441",
+          "l": {
+            "id": 225,
+            "lat": 44.052069,
+            "lng": -123.086754,
+            "n": "Eugene",
+            "pid": 63,
+            "t": "Eugene, OR, USA"
+          },
+          "t": "Cascade POINT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/cascadespoint-or-us/cascadespoint-or-us.zip"
+          }
+        },
+        "id": "cascade-point/441/20151207",
+        "size": 103728,
+        "ts": 1449540945,
+        "url": "https://transitfeeds.com/p/cascade-point/441/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160501",
+          "s": "20151101"
+        },
+        "f": {
+          "id": "regional-transportation-agency-of-central-maryland/574",
+          "l": {
+            "id": 133,
+            "lat": 39.045755,
+            "lng": -76.641271,
+            "n": "Maryland",
+            "pid": 31,
+            "t": "Maryland, USA"
+          },
+          "t": "RTA Maryland",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://data.trilliumtransit.com/gtfs/centralmarylandrta-md-us/centralmarylandrta-md-us.zip",
+            "i": "http://www.transitrta.com/developer-resources/"
+          }
+        },
+        "id": "regional-transportation-agency-of-central-maryland/574/20151207",
+        "size": 663606,
+        "ts": 1449540884,
+        "url": "https://transitfeeds.com/p/regional-transportation-agency-of-central-maryland/574/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160904",
+          "s": "20150522"
+        },
+        "f": {
+          "id": "ocean-city-transportation/573",
+          "l": {
+            "id": 430,
+            "lat": 38.336503,
+            "lng": -75.084906,
+            "n": "Ocean City",
+            "pid": 133,
+            "t": "Ocean City, MD, USA"
+          },
+          "t": "Ocean City Transportation GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/OC_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "ocean-city-transportation/573/20151207",
+        "size": 323209,
+        "ts": 1449540871,
+        "url": "https://transitfeeds.com/p/ocean-city-transportation/573/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160131",
+          "s": "20151001"
+        },
+        "f": {
+          "id": "harford-transit/572",
+          "l": {
+            "id": 429,
+            "lat": 39.583896,
+            "lng": -76.363728,
+            "n": "Harford County",
+            "pid": 133,
+            "t": "Harford County, MD, USA"
+          },
+          "t": "Harford Transit LINK GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Harford_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "harford-transit/572/20151207",
+        "size": 174063,
+        "ts": 1449540865,
+        "url": "https://transitfeeds.com/p/harford-transit/572/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20161231",
+          "s": "20150902"
+        },
+        "f": {
+          "id": "county-ride/571",
+          "l": {
+            "id": 428,
+            "lat": 39.026357,
+            "lng": -76.131995,
+            "n": "Queen Anne's County",
+            "pid": 133,
+            "t": "Queen Anne's County, MD, USA"
+          },
+          "t": "Queen Anne's County Ride",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/QA_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "county-ride/571/20151207",
+        "size": 135451,
+        "ts": 1449540857,
+        "url": "https://transitfeeds.com/p/county-ride/571/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170919",
+          "s": "20150901"
+        },
+        "f": {
+          "id": "cecil-transit/570",
+          "l": {
+            "id": 427,
+            "lat": 39.57394,
+            "lng": -75.946324,
+            "n": "Cecil County",
+            "pid": 133,
+            "t": "Cecil County, MD, USA"
+          },
+          "t": "Cecil Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Cecil_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "cecil-transit/570/20151207",
+        "size": 146228,
+        "ts": 1449540852,
+        "url": "https://transitfeeds.com/p/cecil-transit/570/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160727",
+          "s": "20150727"
+        },
+        "f": {
+          "id": "carroll-area-transit-system/569",
+          "l": {
+            "id": 426,
+            "lat": 39.542342,
+            "lng": -77.056446,
+            "n": "Carroll County",
+            "pid": 133,
+            "t": "Carroll County, MD, USA"
+          },
+          "t": "Carroll Transit System",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Carroll_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "carroll-area-transit-system/569/20151207",
+        "size": 87958,
+        "ts": 1449540848,
+        "url": "https://transitfeeds.com/p/carroll-area-transit-system/569/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160301",
+          "s": "20150101"
+        },
+        "f": {
+          "id": "annapolis-transit/567",
+          "l": {
+            "id": 424,
+            "lat": 38.978445,
+            "lng": -76.492183,
+            "n": "Annapolis",
+            "pid": 133,
+            "t": "Annapolis, MD, USA"
+          },
+          "t": "Annapolis Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Annapolis_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "annapolis-transit/567/20151207",
+        "size": 133711,
+        "ts": 1449540835,
+        "url": "https://transitfeeds.com/p/annapolis-transit/567/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160501",
+          "s": "20151101"
+        },
+        "f": {
+          "id": "bwi-airport-shuttle/568",
+          "l": {
+            "id": 425,
+            "lat": 39.290385,
+            "lng": -76.612189,
+            "n": "Baltimore",
+            "pid": 133,
+            "t": "Baltimore, MD, USA"
+          },
+          "t": "BWI Airport Shuttle GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/BWI_GTFS.zip",
+            "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+          }
+        },
+        "id": "bwi-airport-shuttle/568/20151207",
+        "size": 47745,
+        "ts": 1449540802,
+        "url": "https://transitfeeds.com/p/bwi-airport-shuttle/568/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20180601",
+          "s": "20120304"
+        },
+        "f": {
+          "id": "cherriots/279",
+          "l": {
+            "id": 208,
+            "lat": 44.942898,
+            "lng": -123.035096,
+            "n": "Salem",
+            "pid": 63,
+            "t": "Salem, OR, USA"
+          },
+          "t": "Cherriots GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.cherriots.org/media/doc/salem-or-us.zip",
+            "i": "https://www.cherriots.org/data/"
+          }
+        },
+        "id": "cherriots/279/20151207",
+        "size": 364212,
+        "ts": 1449539550,
+        "url": "https://transitfeeds.com/p/cherriots/279/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20150502",
+          "s": "20150104"
+        },
+        "f": {
+          "id": "chattanooga-area-regional-transportation-authority/360",
+          "l": {
+            "id": 265,
+            "lat": 35.04563,
+            "lng": -85.30968,
+            "n": "Chattanooga",
+            "pid": 174,
+            "t": "Chattanooga, TN, USA"
+          },
+          "t": "CARTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.gocarta.org/developers/GTFS.zip",
+            "i": "http://www.gocarta.org/#developers"
+          }
+        },
+        "id": "chattanooga-area-regional-transportation-authority/360/20151207",
+        "size": 907027,
+        "ts": 1449539539,
+        "url": "https://transitfeeds.com/p/chattanooga-area-regional-transportation-authority/360/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140101"
+        },
+        "f": {
+          "id": "fresno-county-rural-transit-agency/338",
+          "l": {
+            "id": 226,
+            "lat": 36.746842,
+            "lng": -119.772587,
+            "n": "Fresno",
+            "pid": 67,
+            "t": "Fresno, CA, USA"
+          },
+          "t": "FCRTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/fresnocounty-ca-us/fresnocounty-ca-us.zip"
+          }
+        },
+        "id": "fresno-county-rural-transit-agency/338/20151207",
+        "size": 34886,
+        "ts": 1449539531,
+        "url": "https://transitfeeds.com/p/fresno-county-rural-transit-agency/338/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140101"
+        },
+        "f": {
+          "id": "diamond-express/461",
+          "l": {
+            "id": 341,
+            "lat": 43.746512,
+            "lng": -122.461716,
+            "n": "Oakridge",
+            "pid": 63,
+            "t": "Oakridge, OR, USA"
+          },
+          "t": "Diamond Express GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/diamondexpress-or-us/diamondexpress-or-us.zip"
+          }
+        },
+        "id": "diamond-express/461/20151207",
+        "size": 17438,
+        "ts": 1449539522,
+        "url": "https://transitfeeds.com/p/diamond-express/461/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160305",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "niagara-frontier-transportation-authority/230",
+          "l": {
+            "id": 183,
+            "lat": 42.886447,
+            "lng": -78.878369,
+            "n": "Buffalo",
+            "pid": 84,
+            "t": "Buffalo, NY, USA"
+          },
+          "t": "NFTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.nfta.com/metro/__googletransit/google_transit.zip"
+          }
+        },
+        "id": "niagara-frontier-transportation-authority/230/20151207",
+        "size": 3461587,
+        "ts": 1449539502,
+        "url": "https://transitfeeds.com/p/niagara-frontier-transportation-authority/230/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20171231",
+          "s": "20150323"
+        },
+        "f": {
+          "id": "redding-area-bus-authority/346",
+          "l": {
+            "id": 251,
+            "lat": 40.58654,
+            "lng": -122.391675,
+            "n": "Redding",
+            "pid": 67,
+            "t": "Redding, CA, USA"
+          },
+          "t": "RABA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/redding-ca-us/redding-ca-us.zip"
+          }
+        },
+        "id": "redding-area-bus-authority/346/20151207",
+        "size": 137330,
+        "ts": 1449539502,
+        "url": "https://transitfeeds.com/p/redding-area-bus-authority/346/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "swan-island-evening-shuttle/484",
+          "l": {
+            "id": 64,
+            "lat": 45.523452,
+            "lng": -122.676207,
+            "n": "Portland",
+            "pid": 63,
+            "t": "Portland, OR, USA"
+          },
+          "t": "Swan Island Evening Shuttle GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/swanisland-or-us/swanisland-or-us.zip"
+          }
+        },
+        "id": "swan-island-evening-shuttle/484/20151207",
+        "size": 8700,
+        "ts": 1449539499,
+        "url": "https://transitfeeds.com/p/swan-island-evening-shuttle/484/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20150101"
+        },
+        "f": {
+          "id": "sonoma-county-transit/419",
+          "l": {
+            "id": 321,
+            "lat": 38.577956,
+            "lng": -122.988832,
+            "n": "Sonoma County",
+            "pid": 67,
+            "t": "Sonoma County, CA, USA"
+          },
+          "t": "SCT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip",
+            "i": "http://sctransit.com/developer-data/"
+          }
+        },
+        "id": "sonoma-county-transit/419/20151207",
+        "size": 693951,
+        "ts": 1449539498,
+        "url": "https://transitfeeds.com/p/sonoma-county-transit/419/20151207/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/352",
+          "l": {
+            "id": 258,
+            "lat": 34.768767,
+            "lng": 137.998168,
+            "n": "Kakegawa",
+            "pid": 257,
+            "t": "Kakegawa, Shizuoka Prefecture, Japan"
+          },
+          "t": "Kakegawa Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5707702298738688/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/352/20151207-2",
+        "size": 11167,
+        "ts": 1449539464,
+        "url": "https://transitfeeds.com/p/opentransit/352/20151207-2/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/354",
+          "l": {
+            "id": 260,
+            "lat": 35.173882,
+            "lng": 138.906729,
+            "n": "Susono",
+            "pid": 257,
+            "t": "Susono, Shizuoka Prefecture, Japan"
+          },
+          "t": "Susonohru GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/354/20151207-2",
+        "size": 36814,
+        "ts": 1449539442,
+        "url": "https://transitfeeds.com/p/opentransit/354/20151207-2/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/353",
+          "l": {
+            "id": 259,
+            "lat": 34.637987,
+            "lng": 138.128127,
+            "n": "Omaezaki",
+            "pid": 257,
+            "t": "Omaezaki, Shizuoka Prefecture, Japan"
+          },
+          "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/353/20151207-2",
+        "size": 16723,
+        "ts": 1449539414,
+        "url": "https://transitfeeds.com/p/opentransit/353/20151207-2/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20130101"
+        },
+        "f": {
+          "id": "link-transit/392",
+          "l": {
+            "id": 299,
+            "lat": 47.42346,
+            "lng": -120.310349,
+            "n": "Wenatchee",
+            "pid": 65,
+            "t": "Wenatchee, WA, USA"
+          },
+          "t": "Link Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/linktransit-wa-us/linktransit-wa-us.zip"
+          }
+        },
+        "id": "link-transit/392/20151207",
+        "size": 415941,
+        "ts": 1449539318,
+        "url": "https://transitfeeds.com/p/link-transit/392/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160603",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "nj-transit/409",
+          "l": {
+            "id": 293,
+            "lat": 40.058324,
+            "lng": -74.405661,
+            "n": "New Jersey",
+            "pid": 31,
+            "t": "New Jersey, USA"
+          },
+          "t": "NJ Transit Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://www.njtransit.com/developer"
+          }
+        },
+        "id": "nj-transit/409/20151207",
+        "size": 94308034,
+        "ts": 1449539288,
+        "url": "https://transitfeeds.com/p/nj-transit/409/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20161231",
+          "s": "20150510"
+        },
+        "f": {
+          "id": "mta/79",
+          "l": {
+            "id": 91,
+            "lat": 40.714353,
+            "lng": -74.005973,
+            "n": "New York",
+            "pid": 84,
+            "t": "New York, NY, USA"
+          },
+          "t": "NYC Subway GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/data/nyct/subway/google_transit.zip",
+            "i": "http://mta.info/developers/download.html"
+          }
+        },
+        "id": "mta/79/20151207",
+        "size": 4907221,
+        "ts": 1449539239,
+        "url": "https://transitfeeds.com/p/mta/79/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20231231",
+          "s": "20000301"
+        },
+        "f": {
+          "id": "maanteeamet/510",
+          "l": {
+            "id": 369,
+            "lat": 58.595272,
+            "lng": 25.013607,
+            "n": "Estonia",
+            "pid": 60,
+            "t": "Estonia"
+          },
+          "t": "Maanteeamet GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.peatus.ee/gtfs/gtfs.zip",
+            "i": "http://www.mnt.ee/index.php?id=23419"
+          }
+        },
+        "id": "maanteeamet/510/20151207",
+        "size": 4939593,
+        "ts": 1449539145,
+        "url": "https://transitfeeds.com/p/maanteeamet/510/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20120101"
+        },
+        "f": {
+          "id": "rhody-express/476",
+          "l": {
+            "id": 351,
+            "lat": 43.982621,
+            "lng": -124.099841,
+            "n": "Florence",
+            "pid": 63,
+            "t": "Florence, OR 97439, USA"
+          },
+          "t": "Rhody Express GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/rhodyexpress-or-us/rhodyexpress-or-us.zip"
+          }
+        },
+        "id": "rhody-express/476/20151207",
+        "size": 9797,
+        "ts": 1449539122,
+        "url": "https://transitfeeds.com/p/rhody-express/476/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20170101",
+          "s": "20140101"
+        },
+        "f": {
+          "id": "cascades-east-transit/440",
+          "l": {
+            "id": 331,
+            "lat": 44.058173,
+            "lng": -121.31531,
+            "n": "Bend",
+            "pid": 63,
+            "t": "Bend, OR, USA"
+          },
+          "t": "CET GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
+          }
+        },
+        "id": "cascades-east-transit/440/20151207",
+        "size": 166519,
+        "ts": 1449539116,
+        "url": "https://transitfeeds.com/p/cascades-east-transit/440/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160409",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "utah-transportation-authority/59",
+          "l": {
+            "id": 90,
+            "lat": 40.760779,
+            "lng": -111.891047,
+            "n": "Salt Lake City",
+            "pid": 89,
+            "t": "Salt Lake City, UT, USA"
+          },
+          "t": "UTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfsfeed.rideuta.com/gtfs.zip",
+            "i": "http://developer.rideuta.com"
+          }
+        },
+        "id": "utah-transportation-authority/59/20151207",
+        "size": 5000219,
+        "ts": 1449528674,
+        "url": "https://transitfeeds.com/p/utah-transportation-authority/59/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20161225",
+          "s": "20150501"
+        },
+        "f": {
+          "id": "ladot-transit-services/303",
+          "l": {
+            "id": 154,
+            "lat": 34.052234,
+            "lng": -118.243685,
+            "n": "Los Angeles",
+            "pid": 67,
+            "t": "Los Angeles, CA, USA"
+          },
+          "t": "LADOT GTFS Feed",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://ladotbus.com/gtfs",
+            "i": "https://www.ladottransit.com/dla.html"
+          }
+        },
+        "id": "ladot-transit-services/303/20151207",
+        "size": 4158562,
+        "ts": 1449527607,
+        "url": "https://transitfeeds.com/p/ladot-transit-services/303/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160619",
+          "s": "20151123"
+        },
+        "f": {
+          "id": "trafiklab/50",
+          "l": {
+            "id": 77,
+            "lat": 60.128161,
+            "lng": 18.643501,
+            "n": "Sweden",
+            "pid": 60,
+            "t": "Sweden"
+          },
+          "t": "TrafikLab GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.trafiklab.se/api"
+          }
+        },
+        "id": "trafiklab/50/20151207",
+        "size": 56802139,
+        "ts": 1449496855,
+        "url": "https://transitfeeds.com/p/trafiklab/50/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20151230",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "transporte-urbano-comarcal-de-pamplona/499",
+          "l": {
+            "id": 366,
+            "lat": 42.812526,
+            "lng": -1.645774,
+            "n": "Pamplona",
+            "pid": 166,
+            "t": "Pamplona, Navarre, Spain"
+          },
+          "t": "TCC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://86.109.125.18:88/gt/google_transit.zip"
+          }
+        },
+        "id": "transporte-urbano-comarcal-de-pamplona/499/20151207",
+        "size": 2386425,
+        "ts": 1449496524,
+        "url": "https://transitfeeds.com/p/transporte-urbano-comarcal-de-pamplona/499/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160408",
+          "s": "20151004"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/20151207",
+        "size": 22319131,
+        "ts": 1449496290,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160603",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "wmata/75",
+          "l": {
+            "id": 112,
+            "lat": 38.907231,
+            "lng": -77.036464,
+            "n": "Washington",
+            "pid": 111,
+            "t": "Washington, DC, USA"
+          },
+          "t": "WMATA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": " https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+            "i": "https://developer.wmata.com/"
+          }
+        },
+        "id": "wmata/75/20151207",
+        "size": 22092050,
+        "ts": 1449496109,
+        "url": "https://transitfeeds.com/p/wmata/75/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160417",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "adelaide-metro/1",
+          "l": {
+            "id": 4,
+            "lat": -34.928621,
+            "lng": 138.599959,
+            "n": "Adelaide",
+            "pid": 3,
+            "t": "Adelaide SA, Australia"
+          },
+          "t": "Adelaide Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://adelaidemetro.com.au/GTFS/google_transit.zip",
+            "i": "http://www.adelaidemetro.com.au/Developer-Information"
+          }
+        },
+        "id": "adelaide-metro/1/20151207",
+        "size": 11681043,
+        "ts": 1449496033,
+        "url": "https://transitfeeds.com/p/adelaide-metro/1/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20151231",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "barrie-transit/522",
+          "l": {
+            "id": 379,
+            "lat": 44.389356,
+            "lng": -79.690332,
+            "n": "Barrie",
+            "pid": 46,
+            "t": "Barrie, ON, Canada"
+          },
+          "t": "Barrie Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.myridebarrie.ca/gtfs/Google_transit.zip",
+            "i": "http://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx"
+          }
+        },
+        "id": "barrie-transit/522/20151207",
+        "size": 424719,
+        "ts": 1449495991,
+        "url": "https://transitfeeds.com/p/barrie-transit/522/20151207/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/352",
+          "l": {
+            "id": 258,
+            "lat": 34.768767,
+            "lng": 137.998168,
+            "n": "Kakegawa",
+            "pid": 257,
+            "t": "Kakegawa, Shizuoka Prefecture, Japan"
+          },
+          "t": "Kakegawa Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5707702298738688/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/352/20151207",
+        "size": 11241,
+        "ts": 1449495978,
+        "url": "https://transitfeeds.com/p/opentransit/352/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160306",
+          "s": "20151130"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/20151207",
+        "size": 22065,
+        "ts": 1449495967,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/20151207/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/354",
+          "l": {
+            "id": 260,
+            "lat": 35.173882,
+            "lng": 138.906729,
+            "n": "Susono",
+            "pid": 257,
+            "t": "Susono, Shizuoka Prefecture, Japan"
+          },
+          "t": "Susonohru GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/354/20151207",
+        "size": 38415,
+        "ts": 1449495953,
+        "url": "https://transitfeeds.com/p/opentransit/354/20151207/download"
+      },
+      {
+        "f": {
+          "id": "opentransit/353",
+          "l": {
+            "id": 259,
+            "lat": 34.637987,
+            "lng": 138.128127,
+            "n": "Omaezaki",
+            "pid": 257,
+            "t": "Omaezaki, Shizuoka Prefecture, Japan"
+          },
+          "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+            "i": "http://opentrans.it/"
+          }
+        },
+        "id": "opentransit/353/20151207",
+        "size": 16922,
+        "ts": 1449495915,
+        "url": "https://transitfeeds.com/p/opentransit/353/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160110",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "ptv/497",
+          "l": {
+            "id": 323,
+            "lat": -37.814107,
+            "lng": 144.96328,
+            "n": "Melbourne",
+            "pid": 322,
+            "t": "Melbourne VIC, Australia"
+          },
+          "t": "PTV GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.ptv.vic.gov.au/downloads/gtfs.zip",
+            "i": "https://www.data.vic.gov.au/data/dataset/ptv-timetable-and-geographic-information-2015-gtfs"
+          }
+        },
+        "id": "ptv/497/20151207",
+        "size": 72171967,
+        "ts": 1449495642,
+        "url": "https://transitfeeds.com/p/ptv/497/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20161130",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "advance-transit/557",
+          "l": {
+            "id": 417,
+            "lat": 43.663741,
+            "lng": -72.369699,
+            "n": "Hartford",
+            "pid": 415,
+            "t": "Hartford, VT, USA"
+          },
+          "t": "Advance Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/advancetransit-vt-us/advancetransit-vt-us.zip",
+            "i": "http://vermont-gtfs.org/"
+          }
+        },
+        "id": "advance-transit/557/20151207",
+        "size": 407551,
+        "ts": 1449494103,
+        "url": "https://transitfeeds.com/p/advance-transit/557/20151207/download"
+      },
+      {
+        "d": {
+          "f": "20160331",
+          "s": "20151206"
+        },
+        "f": {
+          "id": "bkk/42",
+          "l": {
+            "id": 62,
+            "lat": 47.497912,
+            "lng": 19.040235,
+            "n": "Budapest",
+            "pid": 617,
+            "t": "Budapest, Hungary"
+          },
+          "t": "BKK GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.bkk.hu/gtfs/budapest_gtfs.zip"
+          }
+        },
+        "id": "bkk/42/20151206",
+        "size": 45288284,
+        "ts": 1449453054,
+        "url": "https://transitfeeds.com/p/bkk/42/20151206/download"
+      },
+      {
+        "d": {
+          "f": "20160106",
+          "s": "20151207"
+        },
+        "f": {
+          "id": "transport-for-nsw/305",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Trains GTFS",
+          "ty": "gtfs",
+          "u": []
+        },
+        "id": "transport-for-nsw/305/20151206",
+        "size": 7260324,
+        "ts": 1449452822,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/305/20151206/download"
+      },
+      {
+        "d": {
+          "f": "20161227",
+          "s": "20150127"
+        },
+        "f": {
+          "id": "transport-for-nsw/326",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Ferries GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/326/20151206",
+        "size": 99644,
+        "ts": 1449452803,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/326/20151206/download"
+      },
+      {
+        "d": {
+          "f": "20150502",
+          "s": "20150104"
+        },
+        "f": {
+          "id": "chattanooga-area-regional-transportation-authority/360",
+          "l": {
+            "id": 265,
+            "lat": 35.04563,
+            "lng": -85.30968,
+            "n": "Chattanooga",
+            "pid": 174,
+            "t": "Chattanooga, TN, USA"
+          },
+          "t": "CARTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.gocarta.org/developers/GTFS.zip",
+            "i": "http://www.gocarta.org/#developers"
+          }
+        },
+        "id": "chattanooga-area-regional-transportation-authority/360/20151206",
+        "size": 907027,
+        "ts": 1449452544,
+        "url": "https://transitfeeds.com/p/chattanooga-area-regional-transportation-authority/360/20151206/download"
+      }
+    ]
+  },
+  "status": "OK",
+  "ts": 1617078678
+}

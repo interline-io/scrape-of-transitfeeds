@@ -1,0 +1,1930 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "transit-authority-of-river-city/425",
+        "l": {
+          "id": 199,
+          "lat": 38.252665,
+          "lng": -85.758456,
+          "n": "Louisville",
+          "pid": 198,
+          "t": "Louisville, KY, USA"
+        },
+        "t": "TARC Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://gtfsrealtime.ridetarc.org/realtime/Alert/Alerts.pb",
+          "i": "https://www.ridetarc.org/developers/"
+        }
+      },
+      {
+        "id": "city-of-atlanta/424",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "latest": {
+          "ts": 1498845630
+        },
+        "t": "Atlanta Streetcar GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://documents.atlantaregional.com/transitdata/gtfs_ASC.zip"
+        }
+      },
+      {
+        "id": "alexandria-transit-company/423",
+        "l": {
+          "id": 324,
+          "lat": 38.804836,
+          "lng": -77.046921,
+          "n": "Alexandria",
+          "pid": 138,
+          "t": "Alexandria, VA, USA"
+        },
+        "latest": {
+          "ts": 1615835308
+        },
+        "t": "DASH Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.dashbus.com/google_transit.zip"
+        }
+      },
+      {
+        "id": "mta/421",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "Long Island Rail Road Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://datamine.mta.info"
+        }
+      },
+      {
+        "id": "mta/420",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "Metro-North Railroad Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://datamine.mta.info"
+        }
+      },
+      {
+        "id": "sonoma-county-transit/419",
+        "l": {
+          "id": 321,
+          "lat": 38.577956,
+          "lng": -122.988832,
+          "n": "Sonoma County",
+          "pid": 67,
+          "t": "Sonoma County, CA, USA"
+        },
+        "latest": {
+          "ts": 1615827748
+        },
+        "t": "SCT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip",
+          "i": "http://sctransit.com/developer-data/"
+        }
+      },
+      {
+        "id": "plumas-transit/418",
+        "l": {
+          "id": 320,
+          "lat": 39.992683,
+          "lng": -120.803947,
+          "n": "Plumas County",
+          "pid": 67,
+          "t": "Plumas County, CA, USA"
+        },
+        "latest": {
+          "ts": 1600287328
+        },
+        "t": "Plumas Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/plumas-ca-us/plumas-ca-us.zip"
+        }
+      },
+      {
+        "id": "mendocino-transit-authority-mendocino-county/416",
+        "l": {
+          "id": 318,
+          "lat": 39.550019,
+          "lng": -123.438353,
+          "n": "Mendocino County",
+          "pid": 67,
+          "t": "Mendocino County, CA, USA"
+        },
+        "latest": {
+          "ts": 1610762726
+        },
+        "t": "MTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/mendocino-ca-us/mendocino-ca-us.zip"
+        }
+      },
+      {
+        "id": "madera-county-transit/415",
+        "l": {
+          "id": 317,
+          "lat": 36.961336,
+          "lng": -120.060718,
+          "n": "Madera",
+          "pid": 67,
+          "t": "Madera, CA, USA"
+        },
+        "latest": {
+          "ts": 1612004486
+        },
+        "t": "Madera County Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/maderactc-ca-us/maderactc-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/maderactc-ca-us/maderactc-ca-us.zip"
+        }
+      },
+      {
+        "id": "lassen-rural-bus/414",
+        "l": {
+          "id": 316,
+          "lat": 40.416284,
+          "lng": -120.653006,
+          "n": "Susanville",
+          "pid": 67,
+          "t": "Susanville, CA, USA"
+        },
+        "latest": {
+          "ts": 1604574086
+        },
+        "t": "LRB GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/lassen-ca-us/lassen-ca-us.zip"
+        }
+      },
+      {
+        "id": "regie-autonome-des-transports-parisiens/413",
+        "l": {
+          "id": 162,
+          "lat": 48.856614,
+          "lng": 2.352222,
+          "n": "Paris",
+          "pid": 161,
+          "t": "Paris, France"
+        },
+        "latest": {
+          "ts": 1616684846
+        },
+        "t": "RATP GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://dataratp.download.opendatasoft.com/RATP_GTFS_FULL.zip"
+        }
+      },
+      {
+        "id": "ferrotramviaria/412",
+        "l": {
+          "id": 315,
+          "lat": 41.117143,
+          "lng": 16.871872,
+          "n": "Bari",
+          "pid": 313,
+          "t": "Bari, Italy"
+        },
+        "latest": {
+          "ts": 1607379566
+        },
+        "t": "Ferrotramviaria GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ferrovienordbarese.it/download/?type=upload&id=786",
+          "i": "http://www.ferrovienordbarese.it/orari"
+        }
+      },
+      {
+        "id": "mobilita-e-trasporti-molfetta/411",
+        "l": {
+          "id": 314,
+          "lat": 41.202777,
+          "lng": 16.598719,
+          "n": "Molfetta",
+          "pid": 313,
+          "t": "Molfetta BA, Italy"
+        },
+        "latest": {
+          "ts": 1422497331
+        },
+        "t": "MTM GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.mtmmolfetta.it/transit/mtm-feed-gtfs.zip"
+        }
+      },
+      {
+        "id": "anaheim-resort-transportation/410",
+        "l": {
+          "id": 312,
+          "lat": 33.835293,
+          "lng": -117.914504,
+          "n": "Anaheim",
+          "pid": 67,
+          "t": "Anaheim, CA, USA"
+        },
+        "latest": {
+          "ts": 1616219728
+        },
+        "t": "ART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/anaheim-ca-us/anaheim-ca-us.zip",
+          "i": "http://rideart.org/gtfs/"
+        }
+      },
+      {
+        "id": "nj-transit/409",
+        "l": {
+          "id": 293,
+          "lat": 40.058324,
+          "lng": -74.405661,
+          "n": "New Jersey",
+          "pid": 31,
+          "t": "New Jersey, USA"
+        },
+        "latest": {
+          "ts": 1617069446
+        },
+        "t": "NJ Transit Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.njtransit.com/developer"
+        }
+      },
+      {
+        "id": "nj-transit/408",
+        "l": {
+          "id": 293,
+          "lat": 40.058324,
+          "lng": -74.405661,
+          "n": "New Jersey",
+          "pid": 31,
+          "t": "New Jersey, USA"
+        },
+        "latest": {
+          "ts": 1615847426
+        },
+        "t": "NJ Transit Rail GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.njtransit.com/developer"
+        }
+      },
+      {
+        "id": "mta/407",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "NYC Subway Real-Time Estimates (Staten Island Railway)",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://datamine.mta.info/"
+        }
+      },
+      {
+        "id": "pulaski-area-transit/406",
+        "l": {
+          "id": 311,
+          "lat": 37.047898,
+          "lng": -80.779793,
+          "n": "Pulaski",
+          "pid": 138,
+          "t": "Pulaski, VA, USA"
+        },
+        "latest": {
+          "ts": 1452651623
+        },
+        "t": "PAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/pulaski-va-us/pulaski-va-us.zip"
+        }
+      },
+      {
+        "id": "radford-transit/405",
+        "l": {
+          "id": 310,
+          "lat": 37.131792,
+          "lng": -80.576448,
+          "n": "Radford",
+          "pid": 138,
+          "t": "Radford, VA, USA"
+        },
+        "latest": {
+          "ts": 1445989516
+        },
+        "t": "Radford Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/radford-va-us/radford-va-us.zip"
+        }
+      },
+      {
+        "id": "valley-metro-roanoke/404",
+        "l": {
+          "id": 309,
+          "lat": 37.27097,
+          "lng": -79.941427,
+          "n": "Roanoke",
+          "pid": 138,
+          "t": "Roanoke, VA, USA"
+        },
+        "latest": {
+          "ts": 1444033127
+        },
+        "t": "Valley Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/roanoke-va-us/roanoke-va-us.zip"
+        }
+      },
+      {
+        "id": "go-transit-oshkosh/403",
+        "l": {
+          "id": 308,
+          "lat": 44.024706,
+          "lng": -88.542614,
+          "n": "Oshkosh",
+          "pid": 151,
+          "t": "Oshkosh, WI, USA"
+        },
+        "latest": {
+          "ts": 1615834109
+        },
+        "t": "GO Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/oshkosh-wi-us/oshkosh-wi-us.zip"
+        }
+      },
+      {
+        "id": "laguna-beach-transit/402",
+        "l": {
+          "id": 307,
+          "lat": 33.542248,
+          "lng": -117.78311,
+          "n": "Laguna Beach",
+          "pid": 67,
+          "t": "Laguna Beach, CA, USA"
+        },
+        "latest": {
+          "ts": 1615826910
+        },
+        "t": "LBT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/lagunabeach-ca-us/lagunabeach-ca-us.zip"
+        }
+      },
+      {
+        "id": "kern-transit/401",
+        "l": {
+          "id": 246,
+          "lat": 35.373292,
+          "lng": -119.018713,
+          "n": "Bakersfield",
+          "pid": 67,
+          "t": "Bakersfield, CA, USA"
+        },
+        "latest": {
+          "ts": 1607481095
+        },
+        "t": "Kern Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip",
+          "i": "http://kerntransit.org/developers-gtfs/"
+        }
+      },
+      {
+        "id": "corona-cruiser/400",
+        "l": {
+          "id": 306,
+          "lat": 33.875293,
+          "lng": -117.566438,
+          "n": "Corona",
+          "pid": 67,
+          "t": "Corona, CA, USA"
+        },
+        "latest": {
+          "ts": 1611229166
+        },
+        "t": "Corona Cruiser GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/corona-ca-us/corona-ca-us.zip",
+          "i": "http://www.discovercorona.com/City-Departments/Public-Works/Transportation/GTFS.aspx"
+        }
+      },
+      {
+        "id": "calaveras-transit/399",
+        "l": {
+          "id": 305,
+          "lat": 38.19603,
+          "lng": -120.680487,
+          "n": "San Andreas",
+          "pid": 67,
+          "t": "San Andreas, CA, USA"
+        },
+        "latest": {
+          "ts": 1615831232
+        },
+        "t": "Calaveras Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/calaveras-ca-us/calaveras-ca-us.zip"
+        }
+      },
+      {
+        "id": "translink-vancouver/398",
+        "l": {
+          "id": 45,
+          "lat": 49.261226,
+          "lng": -123.113927,
+          "n": "Vancouver",
+          "pid": 44,
+          "t": "Vancouver, BC, Canada"
+        },
+        "t": "TransLink Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://developer.translink.ca/ServicesGtfs/ApiReference"
+        }
+      },
+      {
+        "id": "translink-vancouver/397",
+        "l": {
+          "id": 45,
+          "lat": 49.261226,
+          "lng": -123.113927,
+          "n": "Vancouver",
+          "pid": 44,
+          "t": "Vancouver, BC, Canada"
+        },
+        "t": "TransLink Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://developer.translink.ca/ServicesGtfs/ApiReference"
+        }
+      },
+      {
+        "id": "manatee-county-area-transit-manatee-county/396",
+        "l": {
+          "id": 304,
+          "lat": 27.47992,
+          "lng": -82.345189,
+          "n": "Manatee County",
+          "pid": 74,
+          "t": "Manatee County, FL, USA"
+        },
+        "latest": {
+          "ts": 1582317027
+        },
+        "t": "MCAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://realtimemcat.availtec.com/InfoPoint/resources/gtfs/gtfs.zip"
+        }
+      },
+      {
+        "id": "space-coast-area-transit/395",
+        "l": {
+          "id": 303,
+          "lat": 28.083627,
+          "lng": -80.608109,
+          "n": "Melbourne",
+          "pid": 74,
+          "t": "Melbourne, FL, USA"
+        },
+        "latest": {
+          "ts": 1617066926
+        },
+        "t": "SCAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/spacecoast-fl-us/spacecoast-fl-us.zip"
+        }
+      },
+      {
+        "id": "butte-silver-bow-transit/394",
+        "l": {
+          "id": 302,
+          "lat": 46.003823,
+          "lng": -112.534778,
+          "n": "Butte",
+          "pid": 301,
+          "t": "Butte, MT, USA"
+        },
+        "latest": {
+          "ts": 1609244966
+        },
+        "t": "Butte Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/butte-mt-us/butte-mt-us.zip"
+        }
+      },
+      {
+        "id": "jeffco-express/393",
+        "l": {
+          "id": 300,
+          "lat": 38.23103,
+          "lng": -90.525782,
+          "n": "Jefferson County",
+          "pid": 289,
+          "t": "Jefferson County, MO, USA"
+        },
+        "latest": {
+          "ts": 1615835129
+        },
+        "t": "JeffCo Express GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/jeffersoncounty-mo-us/jeffersoncounty-mo-us.zip"
+        }
+      },
+      {
+        "id": "link-transit/392",
+        "l": {
+          "id": 299,
+          "lat": 47.42346,
+          "lng": -120.310349,
+          "n": "Wenatchee",
+          "pid": 65,
+          "t": "Wenatchee, WA, USA"
+        },
+        "latest": {
+          "ts": 1543410266
+        },
+        "t": "Link Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/linktransit-wa-us/linktransit-wa-us.zip"
+        }
+      },
+      {
+        "id": "pass-transit/391",
+        "l": {
+          "id": 298,
+          "lat": 33.929461,
+          "lng": -116.977248,
+          "n": "Beaumont",
+          "pid": 67,
+          "t": "Beaumont, CA, USA"
+        },
+        "latest": {
+          "ts": 1610737526
+        },
+        "t": "PASS Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/beaumont-ca-us/beaumont-ca-us.zip"
+        }
+      },
+      {
+        "id": "amador-transit/390",
+        "l": {
+          "id": 297,
+          "lat": 38.348892,
+          "lng": -120.774093,
+          "n": "Amador County",
+          "pid": 67,
+          "t": "Amador County, CA, USA"
+        },
+        "latest": {
+          "ts": 1607777726
+        },
+        "t": "Amador Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/amador-ca-us/amador-ca-us.zip"
+        }
+      },
+      {
+        "id": "tahoe-area-regional-transit/389",
+        "l": {
+          "id": 296,
+          "lat": 39.091575,
+          "lng": -120.803947,
+          "n": "Placer County",
+          "pid": 67,
+          "t": "Placer County, CA, USA"
+        },
+        "latest": {
+          "ts": 1617065486
+        },
+        "t": "TART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/laketahoe-ca-us/laketahoe-ca-us.zip"
+        }
+      },
+      {
+        "id": "city-of-torrance/388",
+        "l": {
+          "id": 295,
+          "lat": 33.835849,
+          "lng": -118.340629,
+          "n": "Torrance",
+          "pid": 67,
+          "t": "Torrance, CA, USA"
+        },
+        "latest": {
+          "ts": 1613625056
+        },
+        "t": "Torrance Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://transit.torranceca.gov/Home/ShowDocument?id=16673",
+          "i": "https://transit.torranceca.gov/rider-information/developer-resources/gtfs"
+        }
+      },
+      {
+        "id": "north-carolina-state-university/387",
+        "l": {
+          "id": 272,
+          "lat": 35.77959,
+          "lng": -78.638179,
+          "n": "Raleigh",
+          "pid": 140,
+          "t": "Raleigh, NC, USA"
+        },
+        "latest": {
+          "ts": 1589863416
+        },
+        "t": "NCSU GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/ncsu-wolfline-nc-us/ncsu-wolfline-nc-us.zip"
+        }
+      },
+      {
+        "id": "triangle-transit/385",
+        "l": {
+          "id": 275,
+          "lat": 35.994033,
+          "lng": -78.898619,
+          "n": "Durham",
+          "pid": 140,
+          "t": "Durham, NC, USA"
+        },
+        "latest": {
+          "ts": 1616603606
+        },
+        "t": "GoTriangle GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/tta-regionalbus-nc-us/tta-regionalbus-nc-us.zip"
+        }
+      },
+      {
+        "id": "port-authority-of-new-york-and-new-jersey/384",
+        "l": {
+          "id": 294,
+          "lat": 40.728157,
+          "lng": -74.077642,
+          "n": "Jersey City",
+          "pid": 293,
+          "t": "Jersey City, NJ, USA"
+        },
+        "latest": {
+          "ts": 1615901966
+        },
+        "t": "PATH GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip",
+          "i": "http://www.panynj.gov/path/developers.html"
+        }
+      },
+      {
+        "id": "rabbit-transit/383",
+        "l": {
+          "id": 292,
+          "lat": 39.962598,
+          "lng": -76.727745,
+          "n": "York",
+          "pid": 105,
+          "t": "York, PA, USA"
+        },
+        "latest": {
+          "ts": 1613624594
+        },
+        "t": "Rabbit Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.rabbittransit.org/infopoint/gtfs/google_transit.zip",
+          "i": "http://www.rabbittransit.org/AboutUs/DeveloperResources.aspx"
+        }
+      },
+      {
+        "id": "kansas-city-area-transportation-authority/382",
+        "l": {
+          "id": 291,
+          "lat": 39.099727,
+          "lng": -94.578567,
+          "n": "Kansas City",
+          "pid": 289,
+          "t": "Kansas City, MO, USA"
+        },
+        "latest": {
+          "ts": 1611402687
+        },
+        "t": "KCATA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.kc-metro.com/gtf/google_transit.zip",
+          "i": "http://www.kcata.org/transit_data/access_gtdf"
+        }
+      },
+      {
+        "id": "bi-state-development-agency/381",
+        "l": {
+          "id": 290,
+          "lat": 38.627003,
+          "lng": -90.199404,
+          "n": "Saint Louis",
+          "pid": 289,
+          "t": "Saint Louis, MO, USA"
+        },
+        "latest": {
+          "ts": 1615906346
+        },
+        "t": "Metro Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://metrostlouis.org/Transit/google_transit.zip",
+          "i": "http://www.metrostlouis.org/developer-resources/"
+        }
+      },
+      {
+        "id": "the-rapid/380",
+        "l": {
+          "id": 288,
+          "lat": 42.96336,
+          "lng": -85.668086,
+          "n": "Grand Rapids",
+          "pid": 135,
+          "t": "Grand Rapids, MI, USA"
+        },
+        "latest": {
+          "ts": 1615825601
+        },
+        "t": "The Rapid GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://connect.ridetherapid.org/InfoPoint/gtfs-zip.ashx",
+          "i": "http://data.grcity.us/en/dataset/gtfs"
+        }
+      },
+      {
+        "id": "capital-area-transportation-authority/379",
+        "l": {
+          "id": 287,
+          "lat": 42.732535,
+          "lng": -84.555535,
+          "n": "Lansing",
+          "pid": 135,
+          "t": "Lansing, MI, USA"
+        },
+        "latest": {
+          "ts": 1615845812
+        },
+        "t": "CATA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.cata.org/About/Doing-Business-with-CATA/Developer-Resources"
+        }
+      },
+      {
+        "id": "fort-wayne-citilink/378",
+        "l": {
+          "id": 286,
+          "lat": 41.079273,
+          "lng": -85.139351,
+          "n": "Fort Wayne",
+          "pid": 164,
+          "t": "Fort Wayne, IN, USA"
+        },
+        "latest": {
+          "ts": 1480812206
+        },
+        "t": "Citilink GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://jump.nextinsight.com/gtfs/ni_citilink/google_transit.zip"
+        }
+      },
+      {
+        "id": "bloomington-transit/377",
+        "l": {
+          "id": 285,
+          "lat": 39.165325,
+          "lng": -86.526386,
+          "n": "Bloomington",
+          "pid": 164,
+          "t": "Bloomington, IN, USA"
+        },
+        "latest": {
+          "ts": 1613623678
+        },
+        "t": "Bloomington Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://data.bloomington.in.gov/dataset/5aca3228-b81b-4572-a45c-b05a30053949/resource/16145a82-0959-4922-93ae-14dcee02950c/download/googletransitfeed.zip",
+          "i": "https://data.bloomington.in.gov/dataset/bloomington-transit-gtfs-data"
+        }
+      },
+      {
+        "id": "sarasota-county-area-transit/376",
+        "l": {
+          "id": 284,
+          "lat": 27.336435,
+          "lng": -82.530653,
+          "n": "Sarasota",
+          "pid": 74,
+          "t": "Sarasota, FL, USA"
+        },
+        "latest": {
+          "ts": 1608238106
+        },
+        "t": "SCAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "ftp://ftp.scgov.net/pub/scat/SCATGTFS.zip"
+        }
+      },
+      {
+        "id": "manatee-county-area-transit/375",
+        "l": {
+          "id": 283,
+          "lat": 27.498928,
+          "lng": -82.574819,
+          "n": "Bradenton",
+          "pid": 74,
+          "t": "Bradenton, FL, USA"
+        },
+        "latest": {
+          "ts": 1556738426
+        },
+        "t": "MCAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/manatee-fl-us/manatee-fl-us.zip"
+        }
+      },
+      {
+        "id": "mountain-metropolitan-transit/374",
+        "l": {
+          "id": 282,
+          "lat": 38.833882,
+          "lng": -104.821363,
+          "n": "Colorado Springs",
+          "pid": 107,
+          "t": "Colorado Springs, CO, USA"
+        },
+        "latest": {
+          "ts": 1491629666
+        },
+        "t": "MMT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://coloradosprings.gov/sites/default/files/google-transit.zip"
+        }
+      },
+      {
+        "id": "central-florida-regional-transportation-authority/373",
+        "l": {
+          "id": 281,
+          "lat": 28.538335,
+          "lng": -81.379237,
+          "n": "Orlando",
+          "pid": 74,
+          "t": "Orlando, FL, USA"
+        },
+        "latest": {
+          "ts": 1611362366
+        },
+        "t": "LYNX GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.golynx.com/lynxmap/GoLYNX_data/google_transit.zip",
+          "i": "http://www.golynx.com/maps-schedules/data-download.stml"
+        }
+      },
+      {
+        "id": "cobb-community-transit/372",
+        "l": {
+          "id": 280,
+          "lat": 33.89993,
+          "lng": -84.564147,
+          "n": "Cobb County",
+          "pid": 94,
+          "t": "Cobb County, GA, USA"
+        },
+        "latest": {
+          "ts": 1506236066
+        },
+        "t": "CCT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.arcgis.com/home/item.html?id=1ce8e370a12c41b5854d8baa21f8451c",
+          "i": "http://atlantaregional.com/transportation/transit/existing-regional-transit-system"
+        }
+      },
+      {
+        "id": "mountain-rides-transportation-authority/371",
+        "l": {
+          "id": 279,
+          "lat": 43.68074,
+          "lng": -114.363662,
+          "n": "Ketchum",
+          "pid": 278,
+          "t": "Ketchum, ID, USA"
+        },
+        "latest": {
+          "ts": 1421127585
+        },
+        "t": "MRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/mountainrides-id-us/mountainrides-id-us.zip"
+        }
+      },
+      {
+        "id": "people-mover/370",
+        "l": {
+          "id": 277,
+          "lat": 61.218056,
+          "lng": -149.900278,
+          "n": "Anchorage",
+          "pid": 276,
+          "t": "Anchorage, AK, USA"
+        },
+        "latest": {
+          "ts": 1598677887
+        },
+        "t": "People Mover GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://gtfs.muni.org/People_Mover.gtfs.zip",
+          "i": "http://www.muni.org/Departments/transit/PeopleMover/Pages/GTFSDiscliamer.aspx"
+        }
+      },
+      {
+        "id": "go-durham/369",
+        "l": {
+          "id": 275,
+          "lat": 35.994033,
+          "lng": -78.898619,
+          "n": "Durham",
+          "pid": 140,
+          "t": "Durham, NC, USA"
+        },
+        "latest": {
+          "ts": 1616533053
+        },
+        "t": "GoDurham GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/durham-area-transit-authority-nc-us/durham-area-transit-authority-nc-us.zip",
+          "i": "https://gotransitnc.org/developer-resources/gtfs"
+        }
+      },
+      {
+        "id": "duke-university/368",
+        "l": {
+          "id": 275,
+          "lat": 35.994033,
+          "lng": -78.898619,
+          "n": "Durham",
+          "pid": 140,
+          "t": "Durham, NC, USA"
+        },
+        "latest": {
+          "ts": 1616445026
+        },
+        "t": "Duke University GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/duke-nc-us/duke-nc-us.zip"
+        }
+      },
+      {
+        "id": "chapel-hill-transit/367",
+        "l": {
+          "id": 274,
+          "lat": 35.9132,
+          "lng": -79.055845,
+          "n": "Chapel Hill",
+          "pid": 140,
+          "t": "Chapel Hill, NC, USA"
+        },
+        "latest": {
+          "ts": 1615835246
+        },
+        "t": "CHT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/chapel-hill-transit-nc-us/chapel-hill-transit-nc-us.zip"
+        }
+      },
+      {
+        "id": "cary-transit/366",
+        "l": {
+          "id": 273,
+          "lat": 35.79154,
+          "lng": -78.781117,
+          "n": "Cary",
+          "pid": 140,
+          "t": "Cary, NC, USA"
+        },
+        "latest": {
+          "ts": 1616688326
+        },
+        "t": "GoCary GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/cary-transit-nc-us/cary-transit-nc-us.zip"
+        }
+      },
+      {
+        "id": "go-raleigh/365",
+        "l": {
+          "id": 272,
+          "lat": 35.77959,
+          "lng": -78.638179,
+          "n": "Raleigh",
+          "pid": 140,
+          "t": "Raleigh, NC, USA"
+        },
+        "latest": {
+          "ts": 1616215528
+        },
+        "t": "GoRaleigh GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/capital-area-transit-nc-us/capital-area-transit-nc-us.zip"
+        }
+      },
+      {
+        "id": "strathcona-county-transit/364",
+        "l": {
+          "id": 43,
+          "lat": 53.544389,
+          "lng": -113.490927,
+          "n": "Edmonton",
+          "pid": 42,
+          "t": "Edmonton, AB, Canada"
+        },
+        "latest": {
+          "ts": 1598815467
+        },
+        "t": "Strathcona County Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://webpub2.strathcona.ab.ca/GTFS/Google_Transit.zip",
+          "i": "https://data.strathcona.ca/Transportation/Strathcona-County-Transit-Bus-Schedule-GTFS-Data-F/2ek5-rxs5"
+        }
+      },
+      {
+        "id": "rhode-island-public-transit-authority/363",
+        "l": {
+          "id": 271,
+          "lat": 41.823989,
+          "lng": -71.412834,
+          "n": "Providence",
+          "pid": 270,
+          "t": "Providence, RI, USA"
+        },
+        "latest": {
+          "ts": 1602596246
+        },
+        "t": "RIPTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.ripta.com/wp-content/uploads/2020/10/google_transit.zip",
+          "i": "http://www.ripta.com/mobile-applications"
+        }
+      },
+      {
+        "id": "clemson-area-transit/362",
+        "l": {
+          "id": 269,
+          "lat": 34.683438,
+          "lng": -82.837365,
+          "n": "Clemson",
+          "pid": 268,
+          "t": "Clemson, SC, USA"
+        },
+        "latest": {
+          "ts": 1556582966
+        },
+        "t": "CAT Bus Transit",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/clemson-sc-us/clemson-sc-us.zip"
+        }
+      },
+      {
+        "id": "sioux-area-metro/361",
+        "l": {
+          "id": 267,
+          "lat": 43.544596,
+          "lng": -96.731103,
+          "n": "Sioux Falls",
+          "pid": 266,
+          "t": "Sioux Falls, SD, USA"
+        },
+        "latest": {
+          "ts": 1608012026
+        },
+        "t": "SAM GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/siouxareametro-sd-us/siouxareametro-sd-us.zip"
+        }
+      },
+      {
+        "id": "chattanooga-area-regional-transportation-authority/360",
+        "l": {
+          "id": 265,
+          "lat": 35.04563,
+          "lng": -85.30968,
+          "n": "Chattanooga",
+          "pid": 174,
+          "t": "Chattanooga, TN, USA"
+        },
+        "latest": {
+          "ts": 1597740926
+        },
+        "t": "CARTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.gocarta.org/developers/GTFS.zip",
+          "i": "http://www.gocarta.org/#developers"
+        }
+      },
+      {
+        "id": "blacksburg-transit/359",
+        "l": {
+          "id": 264,
+          "lat": 37.229573,
+          "lng": -80.413939,
+          "n": "Blacksburg",
+          "pid": 138,
+          "t": "Blacksburg, VA, USA"
+        },
+        "latest": {
+          "ts": 1615835251
+        },
+        "t": "Blacksburg Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.bt4uclassic.org/gtfs/google_transit.zip"
+        }
+      },
+      {
+        "id": "hampton-roads-transit/358",
+        "l": {
+          "id": 263,
+          "lat": 37.029869,
+          "lng": -76.345222,
+          "n": "Hampton",
+          "pid": 138,
+          "t": "Hampton, VA, USA"
+        },
+        "latest": {
+          "ts": 1604535086
+        },
+        "t": "HRT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://googletf.gohrt.com/google_transit.zip",
+          "i": "http://www.gohrt.com/third-party-apps/"
+        }
+      },
+      {
+        "id": "prtc/357",
+        "l": {
+          "id": 262,
+          "lat": 38.658172,
+          "lng": -77.249705,
+          "n": "Woodbridge",
+          "pid": 138,
+          "t": "Woodbridge, VA, USA"
+        },
+        "latest": {
+          "ts": 1615826132
+        },
+        "t": "PRTC GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.prtctransit.org/feeds/google_transit.zip",
+          "i": "http://www.prtctransit.org/about-us/developers-tools.html"
+        }
+      },
+      {
+        "id": "intercity-transit/356",
+        "l": {
+          "id": 261,
+          "lat": 47.037874,
+          "lng": -122.900695,
+          "n": "Olympia",
+          "pid": 65,
+          "t": "Olympia, WA, USA"
+        },
+        "latest": {
+          "ts": 1616136567
+        },
+        "t": "Intercity Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.intercitytransit.com/googledata/google_transit.zip"
+        }
+      },
+      {
+        "id": "opentransit/355",
+        "l": {
+          "id": 257,
+          "lat": 34.97712,
+          "lng": 138.383084,
+          "n": "Shizuoka Prefecture",
+          "pid": 256,
+          "t": "Shizuoka Prefecture, Japan"
+        },
+        "t": "OpenTransit APIs Portal",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "opentransit/354",
+        "l": {
+          "id": 260,
+          "lat": 35.173882,
+          "lng": 138.906729,
+          "n": "Susono",
+          "pid": 257,
+          "t": "Susono, Shizuoka Prefecture, Japan"
+        },
+        "latest": {
+          "ts": 1596268886
+        },
+        "t": "Susonohru GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opentrans.it/feed/gtfs/5649391675244544/google_transit.zip",
+          "i": "http://opentrans.it/"
+        }
+      },
+      {
+        "id": "opentransit/353",
+        "l": {
+          "id": 259,
+          "lat": 34.637987,
+          "lng": 138.128127,
+          "n": "Omaezaki",
+          "pid": 257,
+          "t": "Omaezaki, Shizuoka Prefecture, Japan"
+        },
+        "latest": {
+          "ts": 1596100646
+        },
+        "t": "Omaezaki Local Voluntary Operation Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opentrans.it/feed/gtfs/5634472569470976/google_transit.zip",
+          "i": "http://opentrans.it/"
+        }
+      },
+      {
+        "id": "opentransit/352",
+        "l": {
+          "id": 258,
+          "lat": 34.768767,
+          "lng": 137.998168,
+          "n": "Kakegawa",
+          "pid": 257,
+          "t": "Kakegawa, Shizuoka Prefecture, Japan"
+        },
+        "latest": {
+          "ts": 1596265526
+        },
+        "t": "Kakegawa Local Voluntary Operation Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://opentrans.it/feed/gtfs/5707702298738688/google_transit.zip",
+          "i": "http://opentrans.it/"
+        }
+      },
+      {
+        "id": "victor-valley-transit-authority/350",
+        "l": {
+          "id": 254,
+          "lat": 34.426389,
+          "lng": -117.300878,
+          "n": "Hesperia",
+          "pid": 67,
+          "t": "Hesperia, CA, USA"
+        },
+        "latest": {
+          "ts": 1615847009
+        },
+        "t": "VVTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/victorville-ca-us/victorville-ca-us.zip"
+        }
+      },
+      {
+        "id": "golden-gate-bridge-highway-transportation-district/349",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1616293646
+        },
+        "t": "Golden Gate Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://realtime.goldengate.org/gtfsstatic/GTFSTransitData.zip"
+        }
+      },
+      {
+        "id": "sunline-transit-agency/348",
+        "l": {
+          "id": 253,
+          "lat": 33.820018,
+          "lng": -116.390289,
+          "n": "Thousand Palms",
+          "pid": 67,
+          "t": "Thousand Palms, CA, USA"
+        },
+        "latest": {
+          "ts": 1616915186
+        },
+        "t": "SunLine Transit Agency GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.sunline.org/transit/google_transit.zip"
+        }
+      },
+      {
+        "id": "san-joaquin-rtd/347",
+        "l": {
+          "id": 252,
+          "lat": 37.957702,
+          "lng": -121.29078,
+          "n": "Stockton",
+          "pid": 67,
+          "t": "Stockton, CA, USA"
+        },
+        "latest": {
+          "ts": 1611767727
+        },
+        "t": "San Joaquin RTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.sanjoaquinrtd.com/RTD-GTFS/RTD-GTFS.zip",
+          "i": "http://www.sanjoaquinrtd.com/developer/default.php"
+        }
+      },
+      {
+        "id": "redding-area-bus-authority/346",
+        "l": {
+          "id": 251,
+          "lat": 40.58654,
+          "lng": -122.391675,
+          "n": "Redding",
+          "pid": 67,
+          "t": "Redding, CA, USA"
+        },
+        "latest": {
+          "ts": 1616059106
+        },
+        "t": "RABA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/redding-ca-us/redding-ca-us.zip"
+        }
+      },
+      {
+        "id": "marin-transit/345",
+        "l": {
+          "id": 250,
+          "lat": 38.083403,
+          "lng": -122.763304,
+          "n": "Marin County",
+          "pid": 67,
+          "t": "Marin County, CA, USA"
+        },
+        "latest": {
+          "ts": 1608049826
+        },
+        "t": "Marin Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.marintransit.org/data/google_transit.zip"
+        }
+      },
+      {
+        "id": "golden-gate-bridge-highway-transportation-district/344",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1616992766
+        },
+        "t": "San Francisco Bay Ferries GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://511.org/developers/list/data/"
+        }
+      },
+      {
+        "id": "santa-cruz-metro/343",
+        "l": {
+          "id": 249,
+          "lat": 36.974117,
+          "lng": -122.030796,
+          "n": "Santa Cruz",
+          "pid": 67,
+          "t": "Santa Cruz, CA, USA"
+        },
+        "latest": {
+          "ts": 1616212467
+        },
+        "t": "SCMTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://scmtd.com/google_transit/google_transit.zip"
+        }
+      },
+      {
+        "id": "regional-transit-system/342",
+        "l": {
+          "id": 248,
+          "lat": 29.651634,
+          "lng": -82.324826,
+          "n": "Gainesville",
+          "pid": 74,
+          "t": "Gainesville, FL, USA"
+        },
+        "latest": {
+          "ts": 1501892309
+        },
+        "t": "Gainesville RTS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://go-rts.com/gtfs/google_transit.zip",
+          "i": "http://go-rts.com/about-rts/#General_Transit_Feed_Specification"
+        }
+      },
+      {
+        "id": "agenzia-mobilita-ambiente-territorio/341",
+        "l": {
+          "id": 247,
+          "lat": 45.465422,
+          "lng": 9.185924,
+          "n": "Milan",
+          "pid": 519,
+          "t": "Milan, Italy"
+        },
+        "latest": {
+          "ts": 1617067406
+        },
+        "t": "AMAT GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.amat-mi.it/downloads/gtfs/gtfs.zip",
+          "i": "http://www.amat-mi.it/it/mobilita/dati-strumenti-tecnologie/dati-gtfs/"
+        }
+      },
+      {
+        "id": "golden-empire-transit-district/340",
+        "l": {
+          "id": 246,
+          "lat": 35.373292,
+          "lng": -119.018713,
+          "n": "Bakersfield",
+          "pid": 67,
+          "t": "Bakersfield, CA, USA"
+        },
+        "latest": {
+          "ts": 1617070886
+        },
+        "t": "GET GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://eta.getbus.org/rtt/public/utility/gtfs.aspx",
+          "i": "http://www.getbus.org/google-transit-data-download/"
+        }
+      },
+      {
+        "id": "gold-coast-transit/339",
+        "l": {
+          "id": 245,
+          "lat": 34.197505,
+          "lng": -119.177052,
+          "n": "Oxnard",
+          "pid": 67,
+          "t": "Oxnard, CA, USA"
+        },
+        "latest": {
+          "ts": 1611274646
+        },
+        "t": "Gold Coast Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.goldcoasttransit.org/images/GTFS/GTFS.zip",
+          "i": "http://www.goldcoasttransit.org/2-uncategorised/250-gtfs-data-download"
+        }
+      },
+      {
+        "id": "fresno-county-rural-transit-agency/338",
+        "l": {
+          "id": 226,
+          "lat": 36.746842,
+          "lng": -119.772587,
+          "n": "Fresno",
+          "pid": 67,
+          "t": "Fresno, CA, USA"
+        },
+        "latest": {
+          "ts": 1544796566
+        },
+        "t": "FCRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/fresnocounty-ca-us/fresnocounty-ca-us.zip"
+        }
+      },
+      {
+        "id": "fairfield-and-suisun-transit/337",
+        "l": {
+          "id": 244,
+          "lat": 38.249358,
+          "lng": -122.039966,
+          "n": "Fairfield",
+          "pid": 67,
+          "t": "Fairfield, CA, USA"
+        },
+        "latest": {
+          "ts": 1615825355
+        },
+        "t": "FAST Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/fairfield-ca-us/fairfield-ca-us.zip"
+        }
+      },
+      {
+        "id": "new-orleans-regional-transit-authority/336",
+        "l": {
+          "id": 243,
+          "lat": 29.951066,
+          "lng": -90.071532,
+          "n": "New Orleans",
+          "pid": 242,
+          "t": "New Orleans, LA, USA"
+        },
+        "latest": {
+          "ts": 1527907528
+        },
+        "t": "NORTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.norta.com/Business-Center/Developer-Information"
+        }
+      },
+      {
+        "id": "yuma-county-intergovernmental-public-transportation-authority/335",
+        "l": {
+          "id": 241,
+          "lat": 32.692651,
+          "lng": -114.627692,
+          "n": "Yuma",
+          "pid": 97,
+          "t": "Yuma, AZ, USA"
+        },
+        "latest": {
+          "ts": 1608411446
+        },
+        "t": "YCIPTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ycipta.org/gtfs/google_transit.zip",
+          "i": "http://www.ycipta.org/gtfs.html"
+        }
+      },
+      {
+        "id": "central-arkansas-transit-authority/334",
+        "l": {
+          "id": 240,
+          "lat": 34.746481,
+          "lng": -92.289595,
+          "n": "Little Rock",
+          "pid": 239,
+          "t": "Little Rock, AR, USA"
+        },
+        "latest": {
+          "ts": 1419298391
+        },
+        "t": "CATA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://metroplan.org/maps/transit/google_transit.zip"
+        }
+      },
+      {
+        "id": "rigas-satiksme/333",
+        "l": {
+          "id": 236,
+          "lat": 56.949649,
+          "lng": 24.105186,
+          "n": "Rīga",
+          "pid": 235,
+          "t": "Rīga, Latvia"
+        },
+        "latest": {
+          "ts": 1616452946
+        },
+        "t": "Rīgas Satiksme GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://saraksti.rigassatiksme.lv/riga/gtfs.zip"
+        }
+      },
+      {
+        "id": "metrolink/332",
+        "l": {
+          "id": 154,
+          "lat": 34.052234,
+          "lng": -118.243685,
+          "n": "Los Angeles",
+          "pid": 67,
+          "t": "Los Angeles, CA, USA"
+        },
+        "latest": {
+          "ts": 1610118147
+        },
+        "t": "Metrolink GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.metrolinktrains.com/globalassets/about/gtfs/gtfs.zip",
+          "i": "https://www.metrolinktrains.com/about/gtfs/"
+        }
+      },
+      {
+        "id": "jacksonville-transportation-authority/331",
+        "l": {
+          "id": 234,
+          "lat": 30.332184,
+          "lng": -81.655651,
+          "n": "Jacksonville",
+          "pid": 74,
+          "t": "Jacksonville, FL, USA"
+        },
+        "latest": {
+          "ts": 1610426246
+        },
+        "t": "JTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://schedules.jtafla.com/SchedulesGtfs/Download",
+          "i": "http://www.jtafla.com/schedules/"
+        }
+      },
+      {
+        "id": "connecticut-transit/323",
+        "l": {
+          "id": 228,
+          "lat": 41.763711,
+          "lng": -72.685093,
+          "n": "Hartford",
+          "pid": 227,
+          "t": "Hartford, CT, USA"
+        },
+        "latest": {
+          "ts": 1585604606
+        },
+        "t": "CT Transit Hartford GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/322",
+        "l": {
+          "id": 229,
+          "lat": 41.308274,
+          "lng": -72.927883,
+          "n": "New Haven",
+          "pid": 227,
+          "t": "New Haven, CT, USA"
+        },
+        "latest": {
+          "ts": 1489150646
+        },
+        "t": "CT Transit New Haven GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cttransit.com/sites/default/files/gtfs/googlenh_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/321",
+        "l": {
+          "id": 230,
+          "lat": 41.05343,
+          "lng": -73.538734,
+          "n": "Stamford",
+          "pid": 227,
+          "t": "Stamford, CT, USA"
+        },
+        "latest": {
+          "ts": 1532450127
+        },
+        "t": "CT Transit Stamford GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cttransit.com/sites/default/files/gtfs/googlestam_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/320",
+        "l": {
+          "id": 231,
+          "lat": 41.558152,
+          "lng": -73.051496,
+          "n": "Waterbury",
+          "pid": 227,
+          "t": "Waterbury, CT, USA"
+        },
+        "latest": {
+          "ts": 1501894106
+        },
+        "t": "CT Transit Waterbury GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cttransit.com/sites/default/files/gtfs/googlewat_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/319",
+        "l": {
+          "id": 232,
+          "lat": 41.66121,
+          "lng": -72.779542,
+          "n": "New Britain",
+          "pid": 227,
+          "t": "New Britain, CT, USA"
+        },
+        "latest": {
+          "ts": 1489151726
+        },
+        "t": "CT Transit New Britain GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.cttransit.com/sites/default/files/gtfs/googlenb_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/318",
+        "l": {
+          "id": 233,
+          "lat": 41.538153,
+          "lng": -72.807043,
+          "n": "Meriden",
+          "pid": 227,
+          "t": "Meriden, CT, USA"
+        },
+        "latest": {
+          "ts": 1501889846
+        },
+        "t": "CT Transit Meriden GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "connecticut-transit/317",
+        "l": {
+          "id": 227,
+          "lat": 41.603221,
+          "lng": -73.087749,
+          "n": "Connecticut",
+          "pid": 31,
+          "t": "Connecticut, USA"
+        },
+        "latest": {
+          "ts": 1616456066
+        },
+        "t": "CT Transit Shore Line East GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.shorelineeast.com/google_transit.zip",
+          "i": "https://www.cttransit.com/about/developers"
+        }
+      },
+      {
+        "id": "university-of-michigan-parking-transportation-services/316",
+        "l": {
+          "id": 136,
+          "lat": 42.280826,
+          "lng": -83.743038,
+          "n": "Ann Arbor",
+          "pid": 135,
+          "t": "Ann Arbor, MI, USA"
+        },
+        "latest": {
+          "ts": 1610802817
+        },
+        "t": "University of Michigan Transit Services GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://ltp.umich.edu/gtfs/google_transit.zip"
+        }
+      },
+      {
+        "id": "fresno-area-express/315",
+        "l": {
+          "id": 226,
+          "lat": 36.746842,
+          "lng": -119.772587,
+          "n": "Fresno",
+          "pid": 67,
+          "t": "Fresno, CA, USA"
+        },
+        "latest": {
+          "ts": 1615834108
+        },
+        "t": "FAX GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gis4u.fresno.gov/downloads/zip/fax_gtfs.zip",
+          "i": "https://www.fresno.gov/publicworks/developer-doorway/technical-library/"
+        }
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 10,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078101
+}

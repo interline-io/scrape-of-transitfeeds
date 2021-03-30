@@ -1,0 +1,1823 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "lake-champlain-ferries/1247",
+        "l": {
+          "id": 796,
+          "lat": 44.475882,
+          "lng": -73.212072,
+          "n": "Burlington",
+          "pid": 415,
+          "t": "Burlington, VT, USA"
+        },
+        "latest": {
+          "ts": 1615823728
+        },
+        "t": "Lake Champlain Ferries GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/lctferries-vt-us/lctferries-vt-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/lctferries-vt-us/lctferries-vt-us.zip"
+        }
+      },
+      {
+        "id": "flixbus-united-states/1246",
+        "l": {
+          "id": 31,
+          "lat": 37.09024,
+          "lng": -95.712891,
+          "n": "United States",
+          "pid": 30,
+          "t": "United States"
+        },
+        "latest": {
+          "ts": 1610096006
+        },
+        "t": "Flixbus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://data.ndovloket.nl/flixbus/"
+        }
+      },
+      {
+        "id": "trafiklab/1245",
+        "l": {
+          "id": 77,
+          "lat": 60.128161,
+          "lng": 18.643501,
+          "n": "Sweden",
+          "pid": 60,
+          "t": "Sweden"
+        },
+        "t": "GTFS Regional (beta) - Östgötatrafiken",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://www.trafiklab.se/node/17865/license"
+        }
+      },
+      {
+        "id": "campbell-river-transit-system/1244",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "latest": {
+          "ts": 1609886546
+        },
+        "t": "Campbell River GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.bctransit.com/sites/Satellite?c=Page&cid=1507213584526&pagename=Internet%2FPage%2FInternetStandardLayout"
+        }
+      },
+      {
+        "id": "london-transit-commission/1243",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "t": "Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://www.londontransit.ca/open-data/"
+        }
+      },
+      {
+        "id": "london-transit-commission/1242",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "t": "Vehicle Locations",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://www.londontransit.ca/open-data/"
+        }
+      },
+      {
+        "id": "london-transit-commission/1241",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "t": "Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://www.londontransit.ca/open-data/"
+        }
+      },
+      {
+        "id": "swhn-stadtwerke-heilbronn/1239",
+        "l": {
+          "id": 795,
+          "lat": 49.142693,
+          "lng": 9.210879,
+          "n": "Heilbronn",
+          "pid": 168,
+          "t": "Heilbronn, Germany"
+        },
+        "latest": {
+          "ts": 1593379586
+        },
+        "t": "SWHN – Stadtwerke Heilbronn GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "rab-db-zugbus-regionalverkehr-alb-bodensee/1238",
+        "l": {
+          "id": 370,
+          "lat": 48.401082,
+          "lng": 9.987608,
+          "n": "Ulm",
+          "pid": 168,
+          "t": "Ulm, Germany"
+        },
+        "latest": {
+          "ts": 1591120167
+        },
+        "t": "RAB - DB ZugBus Regionalverkehr Alb-Bodensee GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "bodo-verkehrsverbund/1237",
+        "l": {
+          "id": 794,
+          "lat": 47.77827,
+          "lng": 9.61213,
+          "n": "Ravensburg",
+          "pid": 168,
+          "t": "Ravensburg, Germany"
+        },
+        "latest": {
+          "ts": 1593365907
+        },
+        "t": "bodo Verkehrsverbund GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "ostalbmobil-verkehrsverbund/1236",
+        "l": {
+          "id": 793,
+          "lat": 48.83089,
+          "lng": 10.096835,
+          "n": "Ostalbkreis",
+          "pid": 168,
+          "t": "Ostalbkreis, Germany"
+        },
+        "latest": {
+          "ts": 1591060166
+        },
+        "t": "OstalbMobil – Verkehrsverbund GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "naldo-verkehrsverbund/1235",
+        "l": {
+          "id": 792,
+          "lat": 48.353889,
+          "lng": 8.961363,
+          "n": "Hechingen",
+          "pid": 168,
+          "t": "Hechingen, Germany"
+        },
+        "latest": {
+          "ts": 1591048768
+        },
+        "t": "naldo Verkehrsverbund GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "verkehrsverbund-rhein-ruhr-vrr/1234",
+        "l": {
+          "id": 791,
+          "lat": 51.433237,
+          "lng": 7.661594,
+          "n": "North Rhine-Westphalia",
+          "pid": 168,
+          "t": "North Rhine-Westphalia, Germany"
+        },
+        "t": "VRR GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.openvrr.de/dataset/gtfs"
+        }
+      },
+      {
+        "id": "air-pullman-s-p-a/1233",
+        "l": {
+          "id": 247,
+          "lat": 45.465422,
+          "lng": 9.185924,
+          "n": "Milan",
+          "pid": 519,
+          "t": "Milan, Italy"
+        },
+        "latest": {
+          "ts": 1588645766
+        },
+        "t": "Airpullmann GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://test.spedi.it/tpl_milano/open-data/gtfs"
+        }
+      },
+      {
+        "id": "movibus-s-r-l/1232",
+        "l": {
+          "id": 247,
+          "lat": 45.465422,
+          "lng": 9.185924,
+          "n": "Milan",
+          "pid": 519,
+          "t": "Milan, Italy"
+        },
+        "latest": {
+          "ts": 1588656626
+        },
+        "t": "Movibus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://test.spedi.it/tpl_milano/open-data/gtfs"
+        }
+      },
+      {
+        "id": "net-nordesttrasporti/1231",
+        "l": {
+          "id": 790,
+          "lat": 45.5845,
+          "lng": 9.274449,
+          "n": "Monza",
+          "pid": 78,
+          "t": "20900 Monza, Province of Monza and Brianza, Italy"
+        },
+        "t": "NET GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://test.spedi.it/tpl_milano/open-data/gtfs"
+        }
+      },
+      {
+        "id": "gas-kragujevac/1230",
+        "l": {
+          "id": 789,
+          "lat": 44.012793,
+          "lng": 20.911423,
+          "n": "Kragujevac",
+          "pid": 705,
+          "t": "Kragujevac, Serbia"
+        },
+        "latest": {
+          "ts": 1564672109
+        },
+        "t": "Kragujevac GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.kgbus.rs/"
+        }
+      },
+      {
+        "id": "jkp-direkcija-za-javni-prevoz-grada-nisa/1229",
+        "l": {
+          "id": 788,
+          "lat": 43.320902,
+          "lng": 21.895759,
+          "n": "Niš",
+          "pid": 705,
+          "t": "Niš, Serbia"
+        },
+        "t": "Niš GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.jgpnis.com/"
+        }
+      },
+      {
+        "id": "freiburger-verkehrs-ag/1228",
+        "l": {
+          "id": 787,
+          "lat": 47.999008,
+          "lng": 7.842104,
+          "n": "Freiburg im Breisgau",
+          "pid": 168,
+          "t": "Freiburg im Breisgau, Germany"
+        },
+        "latest": {
+          "ts": 1616600606
+        },
+        "t": "VAG GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.vag-freiburg.de/service-infos/downloads/gtfs-daten"
+        }
+      },
+      {
+        "id": "valsts-sia-autotransporta-direkcija/1227",
+        "l": {
+          "id": 236,
+          "lat": 56.949649,
+          "lng": 24.105186,
+          "n": "Rīga",
+          "pid": 235,
+          "t": "Rīga, Latvia"
+        },
+        "latest": {
+          "ts": 1617074366
+        },
+        "t": "ATD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.gov.lv/dati/eng/dataset/atd-gtfs"
+        }
+      },
+      {
+        "id": "bus-it-waikato/1226",
+        "l": {
+          "id": 786,
+          "lat": -37.455799,
+          "lng": 175.189404,
+          "n": "Waikato District",
+          "pid": 28,
+          "t": "Waikato District, Waikato, New Zealand"
+        },
+        "latest": {
+          "ts": 1611220466
+        },
+        "t": "Waikato Regional Council GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.busit.co.nz/travelling-with-us/transit-app"
+        }
+      },
+      {
+        "id": "komia-liikenne/1225",
+        "l": {
+          "id": 785,
+          "lat": 62.787735,
+          "lng": 22.850434,
+          "n": "Seinäjoki",
+          "pid": 530,
+          "t": "Seinäjoki, Finland"
+        },
+        "latest": {
+          "ts": 1617067417
+        },
+        "t": "Regular scheduled traffic GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "www.komialiikenne.fi"
+        }
+      },
+      {
+        "id": "saint-john-transit/1224",
+        "l": {
+          "id": 597,
+          "lat": 46.565316,
+          "lng": -66.461916,
+          "n": "New Brunswick",
+          "pid": 32,
+          "t": "New Brunswick, Canada"
+        },
+        "latest": {
+          "ts": 1615835849
+        },
+        "t": "Saint John Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://catalogue-saintjohn.opendata.arcgis.com/items/saint-john-transit-general-transit-feed-specification-gtfs"
+        }
+      },
+      {
+        "id": "cornwall-transit/1223",
+        "l": {
+          "id": 46,
+          "lat": 51.253775,
+          "lng": -85.323214,
+          "n": "Ontario",
+          "pid": 32,
+          "t": "Ontario, Canada"
+        },
+        "latest": {
+          "ts": 1616837607
+        },
+        "t": "Cornwall Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://maps.cornwall.ca/"
+        }
+      },
+      {
+        "id": "bay-of-plenty-regional-council-bus-service/1222",
+        "l": {
+          "id": 784,
+          "lat": -37.689269,
+          "lng": 177.14229,
+          "n": "Bay of Plenty",
+          "pid": 28,
+          "t": "Bay of Plenty, New Zealand"
+        },
+        "latest": {
+          "ts": 1611942866
+        },
+        "t": "BayBus",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.baybus.co.nz/faqs/google-transit-feed-specification/"
+        }
+      },
+      {
+        "id": "merseylink/1221",
+        "l": {
+          "id": 221,
+          "lat": -41.365042,
+          "lng": 146.62849,
+          "n": "Tasmania",
+          "pid": 2,
+          "t": "Tasmania, Australia"
+        },
+        "latest": {
+          "ts": 1612167986
+        },
+        "t": "Merseylink_2019-01-23",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.merseylink.com.au/gtfs-feed/"
+        }
+      },
+      {
+        "id": "nouvelle-aquitaine/1220",
+        "l": {
+          "id": 783,
+          "lat": 45.708718,
+          "lng": 0.626891,
+          "n": "Nouvelle-Aquitaine",
+          "pid": 161,
+          "t": "Nouvelle-Aquitaine, France"
+        },
+        "t": "Nouvelle Aquitaine",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://opendatacommons.org/licenses/odbl/summary/"
+        }
+      },
+      {
+        "id": "region-bretagne/1219",
+        "l": {
+          "id": 782,
+          "lat": 48.202047,
+          "lng": -2.932644,
+          "n": "Brittany",
+          "pid": 781,
+          "t": "Brittany, France"
+        },
+        "t": "Région Bretagne",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://opendatacommons.org/licenses/odbl/summary/"
+        }
+      },
+      {
+        "id": "mazamet/1218",
+        "l": {
+          "id": 781,
+          "lat": 43.606214,
+          "lng": 2.241295,
+          "n": "Castres",
+          "pid": 161,
+          "t": "81100 Castres, France"
+        },
+        "latest": {
+          "ts": 1564671030
+        },
+        "t": "Libellus",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-libellus-gtfs"
+        }
+      },
+      {
+        "id": "impulsyon/1217",
+        "l": {
+          "id": 780,
+          "lat": 46.670511,
+          "lng": -1.426442,
+          "n": "La Roche-sur-Yon",
+          "pid": 161,
+          "t": "85000 La Roche-sur-Yon, France"
+        },
+        "t": "Impulsyon",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://opendatacommons.org/licenses/odbl/"
+        }
+      },
+      {
+        "id": "irigo/1216",
+        "l": {
+          "id": 444,
+          "lat": 47.478419,
+          "lng": -0.563166,
+          "n": "Angers",
+          "pid": 161,
+          "t": "Angers, France"
+        },
+        "t": "réseau Irigo",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://opendatacommons.org/licenses/odbl/"
+        }
+      },
+      {
+        "id": "tag/1215",
+        "l": {
+          "id": 443,
+          "lat": 45.188529,
+          "lng": 5.724524,
+          "n": "Grenoble",
+          "pid": 161,
+          "t": "Grenoble, France"
+        },
+        "latest": {
+          "ts": 1615830146
+        },
+        "t": "TransIsere",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.opendefinition.org/licenses/odc-odbl"
+        }
+      },
+      {
+        "id": "ile-de-france-mobilite/1214",
+        "l": {
+          "id": 162,
+          "lat": 48.856614,
+          "lng": 2.352222,
+          "n": "Paris",
+          "pid": 161,
+          "t": "Paris, France"
+        },
+        "latest": {
+          "ts": 1564670966
+        },
+        "t": "IDFM GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://opendata.stif.info/explore/dataset/offre-horaires-tc-gtfs-idf/information/"
+        }
+      },
+      {
+        "id": "monkey-forest-ubud/1213",
+        "l": {
+          "id": 779,
+          "lat": -8.340539,
+          "lng": 115.091951,
+          "n": "Bali",
+          "pid": 526,
+          "t": "Bali, Indonesia"
+        },
+        "t": "Monkey Forest Ubud Shuttle GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://raw.githubusercontent.com/balitransitproject/btp-gtfs/master/LICENSE.md"
+        }
+      },
+      {
+        "id": "nagaibus/1212",
+        "l": {
+          "id": 778,
+          "lat": 36.560539,
+          "lng": 138.879997,
+          "n": "Gunma",
+          "pid": 256,
+          "t": "Gunma, Japan"
+        },
+        "latest": {
+          "ts": 1581105206
+        },
+        "t": "bus-nagai-aux-gunma-jp",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.nagai-unyu.net/"
+        }
+      },
+      {
+        "id": "przyjazdy-pl-plock/1211",
+        "l": {
+          "id": 775,
+          "lat": 52.546345,
+          "lng": 19.706536,
+          "n": "Plock",
+          "pid": 434,
+          "t": "Plock, Poland"
+        },
+        "latest": {
+          "ts": 1580075607
+        },
+        "t": "Komunikacja Miejska - Płock",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/plock"
+        }
+      },
+      {
+        "id": "mks-krosno-przyjazdy-pl/1210",
+        "l": {
+          "id": 771,
+          "lat": 49.682476,
+          "lng": 21.766053,
+          "n": "Krosno",
+          "pid": 434,
+          "t": "Krosno, Poland"
+        },
+        "latest": {
+          "ts": 1617072207
+        },
+        "t": "Komunikacja Miejska - Krosno",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/krosno"
+        }
+      },
+      {
+        "id": "przyjazdy-pl-boles-awiec/1209",
+        "l": {
+          "id": 767,
+          "lat": 51.265855,
+          "lng": 15.56574,
+          "n": "Bolesławiec",
+          "pid": 434,
+          "t": "59-700 Bolesławiec, Poland"
+        },
+        "latest": {
+          "ts": 1605628526
+        },
+        "t": "Komunikacja Miejska - Bolesławiec",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/boleslawiec"
+        }
+      },
+      {
+        "id": "przyjazdy-pl-nowy-sacz/1208",
+        "l": {
+          "id": 772,
+          "lat": 49.617454,
+          "lng": 20.715332,
+          "n": "Nowy Sacz",
+          "pid": 434,
+          "t": "33-300 Nowy Sacz, Poland"
+        },
+        "latest": {
+          "ts": 1605530486
+        },
+        "t": "Komunikacja Miejska - Nowy Sącz",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/nowysacz"
+        }
+      },
+      {
+        "id": "um-przemy-l-mpk-przemy-l-przyjazdy-pl/1207",
+        "l": {
+          "id": 777,
+          "lat": 49.783862,
+          "lng": 22.767791,
+          "n": "Przemyśl",
+          "pid": 434,
+          "t": "Przemyśl, Poland"
+        },
+        "latest": {
+          "ts": 1617073769
+        },
+        "t": "Komunikacja Miejska - Przemyśl",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/przemysl"
+        }
+      },
+      {
+        "id": "przyjazdy-pl/1206",
+        "l": {
+          "id": 766,
+          "lat": 50.690799,
+          "lng": 16.622929,
+          "n": "Bielawa",
+          "pid": 434,
+          "t": "Bielawa, Poland"
+        },
+        "latest": {
+          "ts": 1564670008
+        },
+        "t": "Komunikacja Miejska - Bielawa Dzierżoniów",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://gtfs.pl/gtfs/bielawa"
+        }
+      },
+      {
+        "id": "srtmedenine/1205",
+        "l": {
+          "id": 765,
+          "lat": 33.339922,
+          "lng": 10.495868,
+          "n": "Medinine",
+          "pid": 764,
+          "t": "Medinine, Tunisia"
+        },
+        "latest": {
+          "ts": 1564670127
+        },
+        "t": "SRTMedenine GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://data.transport.tn/dataset/gtfs-srtmedenine"
+        }
+      },
+      {
+        "id": "srtmedenine/1204",
+        "l": {
+          "id": 765,
+          "lat": 33.339922,
+          "lng": 10.495868,
+          "n": "Medinine",
+          "pid": 764,
+          "t": "Medinine, Tunisia"
+        },
+        "latest": {
+          "ts": 1564669886
+        },
+        "t": "SRTMedenine GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://data.transport.tn/dataset/a9df90a3-c785-4b7a-98c5-eef1ce964148/resource/e849c7c3-cb7f-4618-948f-6776829e5eda/download/gtfs_medenine.zip"
+        }
+      },
+      {
+        "id": "atp-esercizio-srl/1203",
+        "l": {
+          "id": 677,
+          "lat": 44.40565,
+          "lng": 8.946256,
+          "n": "Genoa",
+          "pid": 78,
+          "t": "Genoa, Metropolitan City of Genoa, Italy"
+        },
+        "latest": {
+          "ts": 1617073768
+        },
+        "t": "ATP Esercizio Srl GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.atpesercizio.it"
+        }
+      },
+      {
+        "id": "metropole-europeenne-de-lille/1202",
+        "l": {
+          "id": 763,
+          "lat": 50.62925,
+          "lng": 3.057256,
+          "n": "Lille",
+          "pid": 161,
+          "t": "Lille, France"
+        },
+        "latest": {
+          "ts": 1615826006
+        },
+        "t": "Réseau de transport Transpole de la Métropole Européenne de Lille",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://opendata.lillemetropole.fr/explore/dataset/transport_arret_transpole-point/?disjunctive.filename&disjunctive.commune"
+        }
+      },
+      {
+        "id": "verkehrsverbund-rhein-ruhr-aor/1201",
+        "l": {
+          "id": 762,
+          "lat": 51.418754,
+          "lng": 7.557818,
+          "n": "Ruhr",
+          "pid": 168,
+          "t": "Ruhr, Germany"
+        },
+        "t": "Verkehrsverbund Rhein-Ruhr GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://dodp.ckan.io/dataset/soll-fahrplandaten-vrr-gtfs"
+        }
+      },
+      {
+        "id": "premprachatransport/1200",
+        "l": {
+          "id": 761,
+          "lat": 18.795288,
+          "lng": 98.962,
+          "n": "Chiang Mai",
+          "pid": 583,
+          "t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand"
+        },
+        "t": "Chianmai to Pai",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://premprachatransports.com/"
+        }
+      },
+      {
+        "id": "mersin-belesiyesi-otob-s-hatlar/1199",
+        "l": {
+          "id": 759,
+          "lat": 36.812104,
+          "lng": 34.641481,
+          "n": "Mersin",
+          "pid": 661,
+          "t": "Mersin, Akdeniz/Mersin, Turkey"
+        },
+        "t": "Mersin Belediyesi",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.mersin.bel.tr"
+        }
+      },
+      {
+        "id": "hofbus/1198",
+        "l": {
+          "id": 758,
+          "lat": 50.313539,
+          "lng": 11.912781,
+          "n": "Hof",
+          "pid": 168,
+          "t": "Hof, Germany"
+        },
+        "t": "HofBus",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.bnhof.de/~wastl/hofbus/readme.txt"
+        }
+      },
+      {
+        "id": "hofbus/1197",
+        "l": {
+          "id": 758,
+          "lat": 50.313539,
+          "lng": 11.912781,
+          "n": "Hof",
+          "pid": 168,
+          "t": "Hof, Germany"
+        },
+        "latest": {
+          "ts": 1564669287
+        },
+        "t": "HofBus GTFS-Feed",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.bnhof.de/~wastl/gtfs/hofbus/readme.txt"
+        }
+      },
+      {
+        "id": "ginko-network/1196",
+        "l": {
+          "id": 757,
+          "lat": 47.237829,
+          "lng": 6.024054,
+          "n": "Besançon",
+          "pid": 161,
+          "t": "25000 Besançon, France"
+        },
+        "t": "Ginko network GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.ginkoopenapi.fr/#prez"
+        }
+      },
+      {
+        "id": "trainose/1195",
+        "l": {
+          "id": 755,
+          "lat": 40.640063,
+          "lng": 22.944419,
+          "n": "Thessaloniki",
+          "pid": 431,
+          "t": "Thessaloniki, Greece"
+        },
+        "t": "TRAINOSE Trip updates",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.trainose.gr/en/gtfs/"
+        }
+      },
+      {
+        "id": "trainose/1194",
+        "l": {
+          "id": 755,
+          "lat": 40.640063,
+          "lng": 22.944419,
+          "n": "Thessaloniki",
+          "pid": 431,
+          "t": "Thessaloniki, Greece"
+        },
+        "t": "TRAINOSE Alerts / trip cancellations",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.trainose.gr/en/gtfs/"
+        }
+      },
+      {
+        "id": "trainose/1193",
+        "l": {
+          "id": 755,
+          "lat": 40.640063,
+          "lng": 22.944419,
+          "n": "Thessaloniki",
+          "pid": 431,
+          "t": "Thessaloniki, Greece"
+        },
+        "latest": {
+          "ts": 1564669106
+        },
+        "t": "TRAINOSE GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.trainose.gr/en/gtfs/"
+        }
+      },
+      {
+        "id": "regione-piemonte/1192",
+        "l": {
+          "id": 522,
+          "lat": 45.052237,
+          "lng": 7.515389,
+          "n": "Piedmont",
+          "pid": 78,
+          "t": "Piedmont, Italy"
+        },
+        "latest": {
+          "ts": 1600571366
+        },
+        "t": "Regione Piemonte GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.dati.piemonte.it/catalogodati/dato/100939-.html"
+        }
+      },
+      {
+        "id": "cuneo/1191",
+        "l": {
+          "id": 522,
+          "lat": 45.052237,
+          "lng": 7.515389,
+          "n": "Piedmont",
+          "pid": 78,
+          "t": "Piedmont, Italy"
+        },
+        "latest": {
+          "ts": 1600602926
+        },
+        "t": "Bus Regione Piemonte",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.dati.piemonte.it/catalogodati/ricerca-avanzata/dato/100939-.html"
+        }
+      },
+      {
+        "id": "transport-scolaire-du-pays-de-grasse/1190",
+        "l": {
+          "id": 754,
+          "lat": 43.660153,
+          "lng": 6.926492,
+          "n": "Grasse",
+          "pid": 161,
+          "t": "Grasse, France"
+        },
+        "latest": {
+          "ts": 1564500748
+        },
+        "t": "Scolar Bus transport",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf"
+        }
+      },
+      {
+        "id": "lignes-urbaines-du-pays-de-grasse/1189",
+        "l": {
+          "id": 754,
+          "lat": 43.660153,
+          "lng": 6.926492,
+          "n": "Grasse",
+          "pid": 161,
+          "t": "Grasse, France"
+        },
+        "t": "Urban Bus transport",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf"
+        }
+      },
+      {
+        "id": "lignes-urbaines-du-pays-de-grasse/1188",
+        "l": {
+          "id": 754,
+          "lat": 43.660153,
+          "lng": 6.926492,
+          "n": "Grasse",
+          "pid": 161,
+          "t": "Grasse, France"
+        },
+        "t": "Urban Bus transport",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf"
+        }
+      },
+      {
+        "id": "tper-bologna/1187",
+        "l": {
+          "id": 752,
+          "lat": 44.494887,
+          "lng": 11.342616,
+          "n": "Bologna",
+          "pid": 78,
+          "t": "Bologna, Metropolitan City of Bologna, Italy"
+        },
+        "t": "TPER Trasporto su gomma Area Metropolitana di Bologna",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://solweb.tper.it/web/tools/open-data/open-data-detail.aspx?source=tper.it&filename=gommagtfsbo&version=20180328"
+        }
+      },
+      {
+        "id": "tper/1186",
+        "l": {
+          "id": 753,
+          "lat": 44.838124,
+          "lng": 11.619787,
+          "n": "Ferrara",
+          "pid": 78,
+          "t": "Ferrara, Province of Ferrara, Italy"
+        },
+        "t": "Rete bus Provincia di Ferrara GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://solweb.tper.it/web/tools/open-data/open-data-detail.aspx?source=tper.it&filename=gommagtfsfe&version=20180328"
+        }
+      },
+      {
+        "id": "filsland-verkehrsverbund/1185",
+        "l": {
+          "id": 168,
+          "lat": 51.165691,
+          "lng": 10.451526,
+          "n": "Germany",
+          "pid": 60,
+          "t": "Germany"
+        },
+        "latest": {
+          "ts": 1593372206
+        },
+        "t": "Filsland Verkehrsverbund GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "ding-verkehrsverbund/1184",
+        "l": {
+          "id": 168,
+          "lat": 51.165691,
+          "lng": 10.451526,
+          "n": "Germany",
+          "pid": 60,
+          "t": "Germany"
+        },
+        "latest": {
+          "ts": 1593463530
+        },
+        "t": "DING Verkehrsverbund GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.nvbw.de/aufgaben/digitale-mobilitaet/lizenz/"
+        }
+      },
+      {
+        "id": "trafiklab/1183",
+        "l": {
+          "id": 77,
+          "lat": 60.128161,
+          "lng": 18.643501,
+          "n": "Sweden",
+          "pid": 60,
+          "t": "Sweden"
+        },
+        "latest": {
+          "ts": 1582548446
+        },
+        "t": "GTFS Regional (beta) - VT",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.trafiklab.se/node/17865/license"
+        }
+      },
+      {
+        "id": "canberra-metro-operations/1182",
+        "l": {
+          "id": 8,
+          "lat": -35.282,
+          "lng": 149.128684,
+          "n": "Canberra",
+          "pid": 7,
+          "t": "Canberra ACT, Australia"
+        },
+        "t": "Light Rail Realtime",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        }
+      },
+      {
+        "id": "canberra-metro-operations/1181",
+        "l": {
+          "id": 8,
+          "lat": -35.282,
+          "lng": 149.128684,
+          "n": "Canberra",
+          "pid": 7,
+          "t": "Canberra ACT, Australia"
+        },
+        "latest": {
+          "ts": 1615840526
+        },
+        "t": "Canberra Light Rail",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        }
+      },
+      {
+        "id": "london-transit-commission/1180",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "t": "London Transit Vehicle Positions",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.londontransit.ca/open-data/ltcs-open-data-terms-of-use/"
+        }
+      },
+      {
+        "id": "london-transit-commission/1179",
+        "l": {
+          "id": 600,
+          "lat": 42.984923,
+          "lng": -81.245277,
+          "n": "London",
+          "pid": 46,
+          "t": "London, ON, Canada"
+        },
+        "t": "London Transit Service Alerts",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.londontransit.ca/open-data/ltcs-open-data-terms-of-use/"
+        }
+      },
+      {
+        "id": "lsl/1178",
+        "l": {
+          "id": 638,
+          "lat": 60.982675,
+          "lng": 25.66121,
+          "n": "Lahti",
+          "pid": 530,
+          "t": "Lahti, Finland"
+        },
+        "latest": {
+          "ts": 1609796066
+        },
+        "t": "LSL GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.lsl.fi/lisatietoa/avoin-data/"
+        }
+      },
+      {
+        "id": "lsl/1177",
+        "l": {
+          "id": 638,
+          "lat": 60.982675,
+          "lng": 25.66121,
+          "n": "Lahti",
+          "pid": 530,
+          "t": "Lahti, Finland"
+        },
+        "t": "LSL Trip Updates",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://143.51.252.41/api/gtfsrealtime/v1.0/feed/tripupdate"
+        }
+      },
+      {
+        "id": "lsl-lahti/1176",
+        "l": {
+          "id": 638,
+          "lat": 60.982675,
+          "lng": 25.66121,
+          "n": "Lahti",
+          "pid": 530,
+          "t": "Lahti, Finland"
+        },
+        "t": "LSL Vehicle Positions",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.lsl.fi/lisatietoa/avoin-data/"
+        }
+      },
+      {
+        "id": "lsl/1175",
+        "l": {
+          "id": 638,
+          "lat": 60.982675,
+          "lng": 25.66121,
+          "n": "Lahti",
+          "pid": 530,
+          "t": "Lahti, Finland"
+        },
+        "t": "LSL Service Alerts",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.lsl.fi/lisatietoa/avoin-data/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/1174",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615847375
+        },
+        "t": "Trains",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://rtm.quebec/fr/a-propos/donnees-ouvertes"
+        }
+      },
+      {
+        "id": "societe-de-transport-de-levis/1173",
+        "l": {
+          "id": 751,
+          "lat": 46.738227,
+          "lng": -71.246459,
+          "n": "Levis",
+          "pid": 54,
+          "t": "Levis, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615847366
+        },
+        "t": "Société de transport de Lévis GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.stlevis.ca/stlevis/donnees-ouvertes"
+        }
+      },
+      {
+        "id": "quadri-orari-atp-sassari/1172",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1564410088
+        },
+        "t": "Quadri orari dell'azienda ATP Sassari",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-atp-sassari"
+        }
+      },
+      {
+        "id": "quadri-orari-aspo/1171",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1564410088
+        },
+        "t": "Quadri orari dell'azienda ASPO Olbia",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-aspo"
+        }
+      },
+      {
+        "id": "quadri-orari-atp-nuoro/1170",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1585651886
+        },
+        "t": "Quadri orari ATP Nuoro",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-atp-nuoro"
+        }
+      },
+      {
+        "id": "quadri-orari-traghetti/1169",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1610112386
+        },
+        "t": "Quadri orari traghetti",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-traghetti"
+        }
+      },
+      {
+        "id": "quadri-orari-linee-contributate/1168",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1615844970
+        },
+        "t": "Quadri orari linee contributate",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-linee-contributate"
+        }
+      },
+      {
+        "id": "quadri-orari-trenitalia/1167",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1607778086
+        },
+        "t": "Quadri orari TRENITALIA",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/quadri-orari-trenitalia"
+        }
+      },
+      {
+        "id": "collegamenti-marittimi-tirrenia/1166",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1616996728
+        },
+        "t": "Collegamenti marittimi Tirrenia",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/collegamenti-marittimi-tirrenia"
+        }
+      },
+      {
+        "id": "collegamenti-marittimi-sardinia-ferries/1165",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1610173768
+        },
+        "t": "Collegamenti marittimi Sardinia Ferries",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/collegamenti-marittimi-sardinia-ferries"
+        }
+      },
+      {
+        "id": "collegamenti-marittimi-grandi-navi-veloci/1164",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1610716046
+        },
+        "t": "Collegamenti marittimi Grandi Navi Veloci",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/collegamenti-marittimi-grandi-navi-veloci"
+        }
+      },
+      {
+        "id": "collegamenti-marittimi-moby/1163",
+        "l": {
+          "id": 735,
+          "lat": 40.120875,
+          "lng": 9.012893,
+          "n": "Sardinia",
+          "pid": 78,
+          "t": "Sardinia, Italy"
+        },
+        "latest": {
+          "ts": 1616994986
+        },
+        "t": "Collegamenti marittimi Grimaldi",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://dati.regione.sardegna.it/dataset/collegamenti-marittimi-grimaldi"
+        }
+      },
+      {
+        "id": "bay-of-plenty-regional-council/1162",
+        "l": {
+          "id": 750,
+          "lat": -37.687797,
+          "lng": 176.16513,
+          "n": "Tauranga",
+          "pid": 28,
+          "t": "Tauranga, New Zealand"
+        },
+        "latest": {
+          "ts": 1612008867
+        },
+        "t": "Bay of Plenty GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.baybus.co.nz/faqs/google-transit/"
+        }
+      },
+      {
+        "id": "otago-regional-council/1161",
+        "l": {
+          "id": 749,
+          "lat": -45.479067,
+          "lng": 170.154757,
+          "n": "Otago",
+          "pid": 28,
+          "t": "Otago, New Zealand"
+        },
+        "latest": {
+          "ts": 1607677166
+        },
+        "t": "Otago Regional Council GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.orc.govt.nz/terms-and-conditions"
+        }
+      },
+      {
+        "id": "regional-district-of-nanaimo-transit-system/1160",
+        "l": {
+          "id": 748,
+          "lat": 49.165884,
+          "lng": -123.940065,
+          "n": "Nanaimo",
+          "pid": 44,
+          "t": "Nanaimo, BC, Canada"
+        },
+        "t": "Regional District of Nanaimo Transit System Real Time GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.bctransit.com/open-data/terms-of-use"
+        }
+      },
+      {
+        "id": "wroute/1159",
+        "l": {
+          "id": 159,
+          "lat": 43.464258,
+          "lng": -80.52041,
+          "n": "Waterloo",
+          "pid": 46,
+          "t": "Waterloo, ON, Canada"
+        },
+        "latest": {
+          "ts": 1564087766
+        },
+        "t": "wroute GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.wroute.com"
+        }
+      },
+      {
+        "id": "butler-county-regional-transit-authority/1158",
+        "l": {
+          "id": 747,
+          "lat": 40.911524,
+          "lng": -79.829674,
+          "n": "Butler County",
+          "pid": 105,
+          "t": "Butler County, PA, USA"
+        },
+        "latest": {
+          "ts": 1579798346
+        },
+        "t": "BCRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://butlercountyrta.com/general-information/GTFS"
+        }
+      },
+      {
+        "id": "pocatello-regional-transit/1157",
+        "l": {
+          "id": 745,
+          "lat": 42.862104,
+          "lng": -112.450619,
+          "n": "Pocatello",
+          "pid": 278,
+          "t": "Pocatello, ID, USA"
+        },
+        "latest": {
+          "ts": 1609317026
+        },
+        "t": "Pocatello Regional Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://pocatellotransit.com/developer/"
+        }
+      },
+      {
+        "id": "santa-barbara-mtd/1156",
+        "l": {
+          "id": 744,
+          "lat": 34.420831,
+          "lng": -119.69819,
+          "n": "Santa Barbara",
+          "pid": 67,
+          "t": "Santa Barbara, CA, USA"
+        },
+        "latest": {
+          "ts": 1615846166
+        },
+        "t": "Santa Barbara MTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://transit.land/feed-registry/operators/o-9q4g-santabarbaramtd"
+        }
+      },
+      {
+        "id": "capital-area-transit/1155",
+        "l": {
+          "id": 742,
+          "lat": 40.273191,
+          "lng": -76.886701,
+          "n": "Harrisburg",
+          "pid": 105,
+          "t": "Harrisburg, PA, USA"
+        },
+        "latest": {
+          "ts": 1564078047
+        },
+        "t": "Capital Area Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.cattransit.com/public-documents/"
+        }
+      },
+      {
+        "id": "beaver-county-transit-authority/1154",
+        "l": {
+          "id": 743,
+          "lat": 40.636781,
+          "lng": -80.365865,
+          "n": "Beaver County",
+          "pid": 105,
+          "t": "Beaver County, PA, USA"
+        },
+        "latest": {
+          "ts": 1615844069
+        },
+        "t": "Beaver County Transit Authority GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://bcta.com/schedules/"
+        }
+      },
+      {
+        "id": "casco-bay-lines/1153",
+        "l": {
+          "id": 558,
+          "lat": 45.253783,
+          "lng": -69.445469,
+          "n": "Maine",
+          "pid": 31,
+          "t": "Maine, USA"
+        },
+        "latest": {
+          "ts": 1593248126
+        },
+        "t": "Casco Bay Lines GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://smttracker.com/gtfs/"
+        }
+      },
+      {
+        "id": "city-of-south-portland/1152",
+        "l": {
+          "id": 741,
+          "lat": 43.659099,
+          "lng": -70.256819,
+          "n": "Portland",
+          "pid": 740,
+          "t": "Portland, ME, USA"
+        },
+        "latest": {
+          "ts": 1611391406
+        },
+        "t": "South Portland Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://smttracker.com/gtfs/"
+        }
+      },
+      {
+        "id": "greater-portland-metro/1151",
+        "l": {
+          "id": 558,
+          "lat": 45.253783,
+          "lng": -69.445469,
+          "n": "Maine",
+          "pid": 31,
+          "t": "Maine, USA"
+        },
+        "latest": {
+          "ts": 1611172047
+        },
+        "t": "Greater Portland Metro GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://smttracker.com/gtfs/"
+        }
+      },
+      {
+        "id": "amarillo-city-transit/1150",
+        "l": {
+          "id": 740,
+          "lat": 35.221997,
+          "lng": -101.831297,
+          "n": "Amarillo",
+          "pid": 35,
+          "t": "Amarillo, TX, USA"
+        },
+        "latest": {
+          "ts": 1564076967
+        },
+        "t": "Amarillo City Transit GTFS Feed",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://amarillo.gov/departments/community-services/transit"
+        }
+      },
+      {
+        "id": "tri-county-counsil/1149",
+        "l": {
+          "id": 739,
+          "lat": 38.360674,
+          "lng": -75.599369,
+          "n": "Salisbury",
+          "pid": 133,
+          "t": "Salisbury, MD, USA"
+        },
+        "latest": {
+          "ts": 1564076966
+        },
+        "t": "Shore Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+        }
+      },
+      {
+        "id": "tri-delta-transit/1148",
+        "l": {
+          "id": 176,
+          "lat": 37.977978,
+          "lng": -122.031073,
+          "n": "Concord",
+          "pid": 67,
+          "t": "Concord, CA, USA"
+        },
+        "latest": {
+          "ts": 1580988686
+        },
+        "t": "Tri Delta Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://trideltatransit.com/"
+        }
+      },
+      {
+        "id": "saint-marys-transit-system/1147",
+        "l": {
+          "id": 133,
+          "lat": 39.045755,
+          "lng": -76.641271,
+          "n": "Maryland",
+          "pid": 31,
+          "t": "Maryland, USA"
+        },
+        "latest": {
+          "ts": 1571075966
+        },
+        "t": "Saint Mary's Transit System GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+        }
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 2,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078099
+}

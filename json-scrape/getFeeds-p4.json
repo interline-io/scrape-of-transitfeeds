@@ -1,0 +1,1849 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "colectivos-buenos-aires/1037",
+        "l": {
+          "id": 401,
+          "lat": -34.603684,
+          "lng": -58.381559,
+          "n": "Buenos Aires",
+          "pid": 400,
+          "t": "Buenos Aires, Autonomous City of Buenos Aires, Argentina"
+        },
+        "latest": {
+          "ts": 1615850006
+        },
+        "t": "Colectivos GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte"
+        }
+      },
+      {
+        "id": "trenes-argentinos/1036",
+        "l": {
+          "id": 401,
+          "lat": -34.603684,
+          "lng": -58.381559,
+          "n": "Buenos Aires",
+          "pid": 400,
+          "t": "Buenos Aires, Autonomous City of Buenos Aires, Argentina"
+        },
+        "latest": {
+          "ts": 1585044447
+        },
+        "t": "Trenes Argentinos GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte"
+        }
+      },
+      {
+        "id": "deutsche-bahn-stuttgart/1035",
+        "l": {
+          "id": 690,
+          "lat": 48.775846,
+          "lng": 9.182932,
+          "n": "Stuttgart",
+          "pid": 168,
+          "t": "Stuttgart, Germany"
+        },
+        "latest": {
+          "ts": 1552574486
+        },
+        "t": "S-Bahn Stuttgart",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://download-data.deutschebahn.com/static/datasets/sbahn_stuttgart_gtfs/017_001_S-Bahn_Stuttgart_J19.zip",
+          "i": "https://data.deutschebahn.com/dataset/data-s-bahn-stuttgart-gtfs"
+        }
+      },
+      {
+        "id": "verkeiersverbond/1034",
+        "l": {
+          "id": 465,
+          "lat": 49.815273,
+          "lng": 6.129583,
+          "n": "Luxembourg",
+          "pid": 60,
+          "t": "Luxembourg"
+        },
+        "latest": {
+          "ts": 1552263566
+        },
+        "t": "Verkéiersverbond GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.public.lu/en/datasets/gtfs/"
+        }
+      },
+      {
+        "id": "traveline/1033",
+        "l": {
+          "id": 177,
+          "lat": 55.378051,
+          "lng": -3.435973,
+          "n": "United Kingdom",
+          "pid": 60,
+          "t": "United Kingdom"
+        },
+        "latest": {
+          "ts": 1560930446
+        },
+        "t": "GB bus services",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://feeds.planar.network/"
+        }
+      },
+      {
+        "id": "coach-company/1032",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "latest": {
+          "ts": 1608638366
+        },
+        "t": "Coach Company GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/coachcompany-ma-us/coachcompany-ma-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/coachcompany-ma-us/coachcompany-ma-us.zip"
+        }
+      },
+      {
+        "id": "the-comet/1031",
+        "l": {
+          "id": 689,
+          "lat": 34.00071,
+          "lng": -81.034814,
+          "n": "Columbia",
+          "pid": 268,
+          "t": "Columbia, SC, USA"
+        },
+        "latest": {
+          "ts": 1616685327
+        },
+        "t": "The Comet GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/thecomet-sc-us/thecomet-sc-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/thecomet-sc-us/thecomet-sc-us.zip"
+        }
+      },
+      {
+        "id": "limoliner/1030",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "latest": {
+          "ts": 1604972126
+        },
+        "t": "LimoLiner GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/limoliner-ma-us/limoliner-ma-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/limoliner-ma-us/limoliner-ma-us.zip"
+        }
+      },
+      {
+        "id": "selah-transit/1029",
+        "l": {
+          "id": 688,
+          "lat": 46.654015,
+          "lng": -120.530067,
+          "n": "Selah",
+          "pid": 65,
+          "t": "Selah, WA, USA"
+        },
+        "latest": {
+          "ts": 1607140947
+        },
+        "t": "Selah Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/selah-wa-us/selah-wa-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/selah-wa-us/selah-wa-us.zip"
+        }
+      },
+      {
+        "id": "university-of-colorado-boulder/1028",
+        "l": {
+          "id": 681,
+          "lat": 40.014986,
+          "lng": -105.270546,
+          "n": "Boulder",
+          "pid": 107,
+          "t": "Boulder, CO, USA"
+        },
+        "latest": {
+          "ts": 1613624485
+        },
+        "t": "University of Colorado Boulder GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/universitycoloradoboulder-co-us/universitycoloradoboulder-co-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/universitycoloradoboulder-co-us/universitycoloradoboulder-co-us.zip"
+        }
+      },
+      {
+        "id": "winter-park-transit/1027",
+        "l": {
+          "id": 687,
+          "lat": 39.891654,
+          "lng": -105.763062,
+          "n": "Winter Park",
+          "pid": 107,
+          "t": "Winter Park, CO 80482, USA"
+        },
+        "latest": {
+          "ts": 1602038546
+        },
+        "t": "Winter Park Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/winterpark-co-us/winterpark-co-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/winterpark-co-us/winterpark-co-us.zip"
+        }
+      },
+      {
+        "id": "kings-area-rural-transit/1026",
+        "l": {
+          "id": 685,
+          "lat": 36.32745,
+          "lng": -119.645684,
+          "n": "Hanford",
+          "pid": 684,
+          "t": "Hanford, CA 93230, USA"
+        },
+        "latest": {
+          "ts": 1590574946
+        },
+        "t": "Kings Area Rural Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/kcapta-ca-us/kcapta-ca-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/kcapta-ca-us/kcapta-ca-us.zip"
+        }
+      },
+      {
+        "id": "coralville-transit/1025",
+        "l": {
+          "id": 683,
+          "lat": 41.682276,
+          "lng": -91.596064,
+          "n": "Coralville",
+          "pid": 397,
+          "t": "Coralville, IA, USA"
+        },
+        "latest": {
+          "ts": 1606221687
+        },
+        "t": "Coralville Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/coralvilletransitsystem-ia-us/coralvilletransitsystem-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/coralvilletransitsystem-ia-us/coralvilletransitsystem-ia-us.zip"
+        }
+      },
+      {
+        "id": "cambus/1024",
+        "l": {
+          "id": 682,
+          "lat": 41.661128,
+          "lng": -91.530168,
+          "n": "Iowa City",
+          "pid": 397,
+          "t": "Iowa City, IA, USA"
+        },
+        "latest": {
+          "ts": 1615843466
+        },
+        "t": "CAMBUS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip"
+        }
+      },
+      {
+        "id": "via-mobility/1023",
+        "l": {
+          "id": 681,
+          "lat": 40.014986,
+          "lng": -105.270546,
+          "n": "Boulder",
+          "pid": 107,
+          "t": "Boulder, CO, USA"
+        },
+        "latest": {
+          "ts": 1611981206
+        },
+        "t": "Via Mobility GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/viamobilityservices-co-us/viamobilityservices-co-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/viamobilityservices-co-us/viamobilityservices-co-us.zip"
+        }
+      },
+      {
+        "id": "greater-bridgeport-transit/1022",
+        "l": {
+          "id": 653,
+          "lat": 41.179226,
+          "lng": -73.189438,
+          "n": "Bridgeport",
+          "pid": 227,
+          "t": "Bridgeport, CT, USA"
+        },
+        "latest": {
+          "ts": 1615831831
+        },
+        "t": "Greater Bridgeport Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip"
+        }
+      },
+      {
+        "id": "donan-bus/1021",
+        "l": {
+          "id": 679,
+          "lat": 42.315231,
+          "lng": 140.973799,
+          "n": "Muroran",
+          "pid": 256,
+          "t": "Muroran, Hokkaido, Japan"
+        },
+        "t": "Donan Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://github.com/aruneko/DonanbusGTFS/releases/tag/2018.0401.8",
+          "i": "https://github.com/aruneko/DonanBusGTFS"
+        }
+      },
+      {
+        "id": "consorcio-regional-de-transportes-de-madrid/1020",
+        "l": {
+          "id": 167,
+          "lat": 40.416775,
+          "lng": -3.70379,
+          "n": "Madrid",
+          "pid": 166,
+          "t": "Madrid, Spain"
+        },
+        "latest": {
+          "ts": 1587547827
+        },
+        "t": "Autobuses Interurbanos",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://crtm.maps.arcgis.com/home/item.html?id=885399f83408473c8d815e40c5e702b7"
+        }
+      },
+      {
+        "id": "renfe/1018",
+        "l": {
+          "id": 166,
+          "lat": 40.463667,
+          "lng": -3.74922,
+          "n": "Spain",
+          "pid": 60,
+          "t": "Spain"
+        },
+        "latest": {
+          "ts": 1617067766
+        },
+        "t": "Alta-Velocidad-Larga Distancia-Media Distancia",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.renfe.com/dataset/34be0058-3a3d-4ee1-89cd-512e1226f53f/resource/25d6b043-9e47-4f99-bd91-edd51d782450/download/google_transit.zip",
+          "i": "http://data.renfe.com/dataset/horarios-de-alta-velocidad-larga-distancia-y-media-distancia/resource/25d6b043-9e47-4f99-bd91-edd51d782450"
+        }
+      },
+      {
+        "id": "renfe/1017",
+        "l": {
+          "id": 166,
+          "lat": 40.463667,
+          "lng": -3.74922,
+          "n": "Spain",
+          "pid": 60,
+          "t": "Spain"
+        },
+        "latest": {
+          "ts": 1551888987
+        },
+        "t": "Renfe Feve",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.renfe.com/dataset/5f80afa2-798c-46a4-8f96-bca0835b3cf0/resource/e593b825-78c2-45e1-a8ca-9fbea2f3faff/download/horarios-feve.zip",
+          "i": "http://data.renfe.com/dataset/horario-feve"
+        }
+      },
+      {
+        "id": "renfe/1016",
+        "l": {
+          "id": 166,
+          "lat": 40.463667,
+          "lng": -3.74922,
+          "n": "Spain",
+          "pid": 60,
+          "t": "Spain"
+        },
+        "latest": {
+          "ts": 1616681907
+        },
+        "t": "Renfe Cercanias/Rodalies GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.renfe.com/dataset/77525d66-f095-46d0-80c0-37f735d4342f/resource/6f1523c6-a9e3-48e3-9ace-bb107a762be6/download/fomento_transit.zip",
+          "i": "http://data.renfe.com/dataset/horarios-cercanias/resource/6f1523c6-a9e3-48e3-9ace-bb107a762be6"
+        }
+      },
+      {
+        "id": "consorcio-regional-de-transportes-de-madrid/1015",
+        "l": {
+          "id": 167,
+          "lat": 40.416775,
+          "lng": -3.70379,
+          "n": "Madrid",
+          "pid": 166,
+          "t": "Madrid, Spain"
+        },
+        "latest": {
+          "ts": 1615833693
+        },
+        "t": "Cercanías Madrid GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144"
+        }
+      },
+      {
+        "id": "puget-sound-region/1014",
+        "l": {
+          "id": 66,
+          "lat": 47.606209,
+          "lng": -122.332071,
+          "n": "Seattle",
+          "pid": 65,
+          "t": "Seattle, WA, USA"
+        },
+        "latest": {
+          "ts": 1616688206
+        },
+        "t": "Puget Sound Region GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://developer.onebusaway.org/tmp/sound/gtfs/modified/gtfs_puget_sound_consolidated.zip",
+          "i": "https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/otd-downloads"
+        }
+      },
+      {
+        "id": "key-west-transit/1012",
+        "l": {
+          "id": 678,
+          "lat": 24.555059,
+          "lng": -81.779987,
+          "n": "Key West",
+          "pid": 74,
+          "t": "Key West, FL 33040, USA"
+        },
+        "latest": {
+          "ts": 1605833966
+        },
+        "t": "Key West Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/keywest-fl-us/keywest-fl-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/keywest-fl-us/keywest-fl-us.zip"
+        }
+      },
+      {
+        "id": "amt-genova/1011",
+        "l": {
+          "id": 677,
+          "lat": 44.40565,
+          "lng": 8.946256,
+          "n": "Genoa",
+          "pid": 78,
+          "t": "Genoa, Metropolitan City of Genoa, Italy"
+        },
+        "latest": {
+          "ts": 1604418687
+        },
+        "t": "AMT Genova GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.amt.genova.it/amt/GTFS/GTFS_AMT_GENOVA.zip",
+          "i": "https://www.amt.genova.it/amt/amministrazione-trasparente/open-data/"
+        }
+      },
+      {
+        "id": "hamburger-verkehrsverbund-gmbh/1010",
+        "l": {
+          "id": 676,
+          "lat": 53.551085,
+          "lng": 9.993682,
+          "n": "Hamburg",
+          "pid": 168,
+          "t": "Hamburg, Germany"
+        },
+        "latest": {
+          "ts": 1584710606
+        },
+        "t": "HVV GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.govdata.de/dl-de/by-2-0"
+        }
+      },
+      {
+        "id": "ztm-rzeszow/1009",
+        "l": {
+          "id": 675,
+          "lat": 50.041187,
+          "lng": 21.99912,
+          "n": "Rzeszow",
+          "pid": 434,
+          "t": "Rzeszow, Poland"
+        },
+        "latest": {
+          "ts": 1617071246
+        },
+        "t": "ZTM Rzeszów GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://mkuran.pl/feed/rzeszow/rzeszow-latest.zip",
+          "i": "https://mkuran.pl/feed/"
+        }
+      },
+      {
+        "id": "mzdik-radom/1008",
+        "l": {
+          "id": 674,
+          "lat": 51.402724,
+          "lng": 21.147133,
+          "n": "Radom",
+          "pid": 434,
+          "t": "Radom, Poland"
+        },
+        "latest": {
+          "ts": 1615825773
+        },
+        "t": "MZDiK Radom GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://mkuran.pl/feed/radom/radom-latest.zip",
+          "i": "https://mkuran.pl/feed/"
+        }
+      },
+      {
+        "id": "zet-zagreba-ki-elektri-ni-tramvaj/1007",
+        "l": {
+          "id": 673,
+          "lat": 45.815011,
+          "lng": 15.981919,
+          "n": "Zagreb",
+          "pid": 672,
+          "t": "Zagreb, Croatia"
+        },
+        "latest": {
+          "ts": 1551635246
+        },
+        "t": "ZET GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.zet.hr/UserDocsImages/Prilozi/gtfs_18.2..zip",
+          "i": "http://www.zet.hr/odredbe/datoteke-u-gtfs-formatu/669"
+        }
+      },
+      {
+        "id": "transtejo/1006",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1616991206
+        },
+        "t": "Transtejo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/4/gtfs_4.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-transtejo"
+        }
+      },
+      {
+        "id": "sulfertagus/1005",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1617078029
+        },
+        "t": "SulFertagus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/21/gtfs_21.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-sul-fertagus"
+        }
+      },
+      {
+        "id": "comboios-de-portugal/1004",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1617061646
+        },
+        "t": "Comboios de Portugal GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/3/gtfs_3.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-cp-comboios-de-portugal"
+        }
+      },
+      {
+        "id": "metro-de-lisboa/1003",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1617074066
+        },
+        "t": "Metro de Lisboa GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/2/gtfs_2.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-metropolitano-de-lisboa"
+        }
+      },
+      {
+        "id": "soflusa/1002",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1551632966
+        },
+        "t": "Soflusa GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/14/gtfs_14.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-soflusa"
+        }
+      },
+      {
+        "id": "fertagus/1001",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1617073829
+        },
+        "t": "Fertagus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/13/gtfs_13.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-sul-fertagus"
+        }
+      },
+      {
+        "id": "carris/1000",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1617073826
+        },
+        "t": "Carris GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/1/gtfs_1.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-carris"
+        }
+      },
+      {
+        "id": "transportes-sul-do-tejo/999",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1616913386
+        },
+        "t": "Transportes Sul do Tejo GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/11/gtfs_11.zip",
+          "i": "http://dadosabertos.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-transportes-sul-do-tejo"
+        }
+      },
+      {
+        "id": "rodoviaria-de-lisboa/998",
+        "l": {
+          "id": 671,
+          "lat": 38.722252,
+          "lng": -9.139337,
+          "n": "Lisbon",
+          "pid": 670,
+          "t": "Lisbon, Portugal"
+        },
+        "latest": {
+          "ts": 1551632426
+        },
+        "t": "Rodoviária de Lisboa GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/61/gtfs_61.zip",
+          "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-rodoviaria-de-lisboa"
+        }
+      },
+      {
+        "id": "tram-trambesos/997",
+        "l": {
+          "id": 669,
+          "lat": 41.385064,
+          "lng": 2.173404,
+          "n": "Barcelona",
+          "pid": 166,
+          "t": "Barcelona, Spain"
+        },
+        "latest": {
+          "ts": 1616602107
+        },
+        "t": "Trambesòs GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opendata.tram.cat/GTFS/zip/TBS.zip",
+          "i": "https://opendata.tram.cat/"
+        }
+      },
+      {
+        "id": "tram-trambaix/996",
+        "l": {
+          "id": 669,
+          "lat": 41.385064,
+          "lng": 2.173404,
+          "n": "Barcelona",
+          "pid": 166,
+          "t": "Barcelona, Spain"
+        },
+        "latest": {
+          "ts": 1616602107
+        },
+        "t": "Trambaix GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://opendata.tram.cat/GTFS/zip/TBX.zip",
+          "i": "https://opendata.tram.cat/"
+        }
+      },
+      {
+        "id": "transports-metropolitans-de-barcelona-tmb/995",
+        "l": {
+          "id": 669,
+          "lat": 41.385064,
+          "lng": 2.173404,
+          "n": "Barcelona",
+          "pid": 166,
+          "t": "Barcelona, Spain"
+        },
+        "latest": {
+          "ts": 1616758166
+        },
+        "t": "TMB GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.amb.cat/es/web/area-metropolitana/dades-obertes/cataleg/detall/-/dataset/servicios-gtfs/1107694/11692?_DatasetSearchListPortlet_WAR_AMBSearchPortletportlet_pageNum=3&_DatasetSearchListPortlet_WAR_AMBSearchPortletportlet_categoria=mobilitat&_DatasetSearchListPortlet_WAR_AMBSearchPortletportlet_subcategoria=mobilitat.mitjans_de_transport&_DatasetSearchListPortlet_WAR_AMBSearchPortletportlet_detailBackURL=%2Fes%2Fweb%2Farea-metropolitana%2Fdades-obertes%2Fcataleg%2Fllistat"
+        }
+      },
+      {
+        "id": "amb-mobilitat/994",
+        "l": {
+          "id": 669,
+          "lat": 41.385064,
+          "lng": 2.173404,
+          "n": "Barcelona",
+          "pid": 166,
+          "t": "Barcelona, Spain"
+        },
+        "latest": {
+          "ts": 1617074373
+        },
+        "t": "AMB Mobilitat GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.ambmobilitat.cat/OpenData/google_transit.zip",
+          "i": "http://www.amb.cat/es/web/area-metropolitana/dades-obertes/cataleg/detall/-/dataset/informacion-de-companias--lineas-y-recorridos/1033377/11692"
+        }
+      },
+      {
+        "id": "zdzit-olsztyn/993",
+        "l": {
+          "id": 668,
+          "lat": 53.778422,
+          "lng": 20.480119,
+          "n": "Olsztyn",
+          "pid": 434,
+          "t": "11-041 Olsztyn, Poland"
+        },
+        "latest": {
+          "ts": 1612026926
+        },
+        "t": "ZDZiT Olsztyn GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "ftp://helios.zdzit.olsztyn.eu/ZDZiT_GTFS_Latest.zip",
+          "i": "https://www.zdzit.olsztyn.eu/pl/transport-publiczny/dane-rozkladowe"
+        }
+      },
+      {
+        "id": "ztm-pozna/992",
+        "l": {
+          "id": 667,
+          "lat": 52.406374,
+          "lng": 16.925168,
+          "n": "Poznań",
+          "pid": 434,
+          "t": "Poznań, Poland"
+        },
+        "latest": {
+          "ts": 1616843966
+        },
+        "t": "ZTM Poznań GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile",
+          "i": "http://ztm.poznan.pl/pl/dla-deweloperow/index"
+        }
+      },
+      {
+        "id": "bc-transit/991",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Whistler Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://whistler.mapstrat.com/current/gtfrealtime_VehiclePositions.bin"
+        }
+      },
+      {
+        "id": "bc-transit/990",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Whistler Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://whistler.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/989",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Whistler Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://whistler.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "bc-transit/988",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Squamish Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://squamish.mapstrat.com/current/gtfrealtime_VehiclePositions.bin"
+        }
+      },
+      {
+        "id": "bc-transit/987",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Squamish Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://squamish.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/986",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Squamish Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://squamish.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "bc-transit/985",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Nanaimo Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://nanaimo.mapstrat.com/current/gtfrealtime_VehiclePositions.bin"
+        }
+      },
+      {
+        "id": "bc-transit/984",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Nanaimo Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://nanaimo.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/983",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Nanaimo Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://nanaimo.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "bc-transit/982",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kelowna Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://kelowna.mapstrat.com/current/gtfrealtime_VehiclePositions.bin"
+        }
+      },
+      {
+        "id": "bc-transit/981",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kelowna Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://kelowna.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/980",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kelowna Service Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://kelowna.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "bc-transit/979",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kamloops Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": []
+      },
+      {
+        "id": "bc-transit/978",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kamloops Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://kamloops.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/977",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Kamloops Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://kamloops.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "bc-transit/976",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Comox Valley Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": []
+      },
+      {
+        "id": "bc-transit/975",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Comox Valley Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://comox.mapstrat.com/current/gtfrealtime_TripUpdates.bin"
+        }
+      },
+      {
+        "id": "bc-transit/974",
+        "l": {
+          "id": 44,
+          "lat": 53.726668,
+          "lng": -127.647621,
+          "n": "British Columbia",
+          "pid": 32,
+          "t": "British Columbia, Canada"
+        },
+        "t": "Comox Valley Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "https://comox.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin"
+        }
+      },
+      {
+        "id": "simur-bogota/973",
+        "l": {
+          "id": 404,
+          "lat": 4.710989,
+          "lng": -74.072092,
+          "n": "Bogota",
+          "pid": 403,
+          "t": "Bogotá, Bogota, Colombia"
+        },
+        "latest": {
+          "ts": 1551121046
+        },
+        "t": "SIMUR GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.simur.gov.co/gtfs"
+        }
+      },
+      {
+        "id": "dtpm-santiago-santiago/972",
+        "l": {
+          "id": 665,
+          "lat": -33.44889,
+          "lng": -70.669265,
+          "n": "Santiago",
+          "pid": 664,
+          "t": "Santiago, Santiago Metropolitan Region, Chile"
+        },
+        "latest": {
+          "ts": 1610502267
+        },
+        "t": "Santiago DPTM GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.dtpm.cl/descargas/gtfs/GTFS.zip",
+          "i": "https://www.dtpm.cl/index.php/noticias/gtfs-vigente"
+        }
+      },
+      {
+        "id": "via-rail-canada/971",
+        "l": {
+          "id": 32,
+          "lat": 56.130366,
+          "lng": -106.346771,
+          "n": "Canada",
+          "pid": 30,
+          "t": "Canada"
+        },
+        "latest": {
+          "ts": 1616605046
+        },
+        "t": "VIA Rail Canada GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.viarail.ca/sites/all/files/gtfs/viarail.zip",
+          "i": "https://www.viarail.ca/en/developer-resources"
+        }
+      },
+      {
+        "id": "entur/970",
+        "l": {
+          "id": 83,
+          "lat": 60.472024,
+          "lng": 8.468946,
+          "n": "Norway",
+          "pid": 60,
+          "t": "Norway"
+        },
+        "latest": {
+          "ts": 1617071726
+        },
+        "t": "Norway GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.norge.no/data/entur/nasjonale-rutedata-norge"
+        }
+      },
+      {
+        "id": "region-des-pays-de-la-loire/969",
+        "l": {
+          "id": 441,
+          "lat": 47.218371,
+          "lng": -1.553621,
+          "n": "Nantes",
+          "pid": 161,
+          "t": "Nantes, France"
+        },
+        "latest": {
+          "ts": 1548339686
+        },
+        "t": "LILA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://data.nantesmetropole.fr/explore/dataset/234400034_032-012_gtfs_lila/information/"
+        }
+      },
+      {
+        "id": "guelph-transit/967",
+        "l": {
+          "id": 82,
+          "lat": 43.544805,
+          "lng": -80.248167,
+          "n": "Guelph",
+          "pid": 46,
+          "t": "Guelph, ON, Canada"
+        },
+        "t": "Guelph Transit Vehicle Locations",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitgtfs.guelph.ca:9780/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb"
+        }
+      },
+      {
+        "id": "guelph-transit/966",
+        "l": {
+          "id": 82,
+          "lat": 43.544805,
+          "lng": -80.248167,
+          "n": "Guelph",
+          "pid": 46,
+          "t": "Guelph, ON, Canada"
+        },
+        "t": "Guelph Transit Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitgtfs.guelph.ca:9780/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb"
+        }
+      },
+      {
+        "id": "guelph-transit/965",
+        "l": {
+          "id": 82,
+          "lat": 43.544805,
+          "lng": -80.248167,
+          "n": "Guelph",
+          "pid": 46,
+          "t": "Guelph, ON, Canada"
+        },
+        "t": "Guelph Transit Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://transitgtfs.guelph.ca:9780/TMGTFSRealTimeWebService/Alert/Alerts.pb"
+        }
+      },
+      {
+        "id": "kocaeli-buyuksehir-belediyesi/964",
+        "l": {
+          "id": 662,
+          "lat": 40.765441,
+          "lng": 29.940809,
+          "n": "Izmit",
+          "pid": 661,
+          "t": "Izmit, İzmit/Kocaeli, Turkey"
+        },
+        "latest": {
+          "ts": 1540898966
+        },
+        "t": "Kocaeli GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://kocaeli.bel.tr/webfiles/userfiles/files/birimler/bilgi-islem-dairesi-baskanligi/kocaeli-gtfs.zip"
+        }
+      },
+      {
+        "id": "hamilton-street-railway/963",
+        "l": {
+          "id": 48,
+          "lat": 43.250021,
+          "lng": -79.866091,
+          "n": "Hamilton",
+          "pid": 46,
+          "t": "Hamilton, ON, Canada"
+        },
+        "t": "Hamilton Street Railway RealTime",
+        "ty": "gtfs",
+        "u": {
+          "i": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-program"
+        }
+      },
+      {
+        "id": "christchurch-metro/962",
+        "l": {
+          "id": 59,
+          "lat": -43.532054,
+          "lng": 172.636225,
+          "n": "Christchurch",
+          "pid": 28,
+          "t": "Christchurch, New Zealand"
+        },
+        "t": "Christchurch Metro Vehicle Positions",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.metroinfo.co.nz/Pages/developer-resource.aspx"
+        }
+      },
+      {
+        "id": "christchurch-metro/961",
+        "l": {
+          "id": 59,
+          "lat": -43.532054,
+          "lng": 172.636225,
+          "n": "Christchurch",
+          "pid": 28,
+          "t": "Christchurch, New Zealand"
+        },
+        "t": "Christchurch Metro Trip Updates",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.metroinfo.co.nz/Pages/developer-resource.aspx"
+        }
+      },
+      {
+        "id": "pasco-county-public-transportation/960",
+        "l": {
+          "id": 660,
+          "lat": 28.323242,
+          "lng": -82.43194,
+          "n": "Pasco County",
+          "pid": 74,
+          "t": "Pasco County, FL, USA"
+        },
+        "latest": {
+          "ts": 1615839926
+        },
+        "t": "Pasco County Public Transportation GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/pascocountypublictransit-fl-us/pascocountypublictransit-fl-us.zip"
+        }
+      },
+      {
+        "id": "taiwan/959",
+        "l": {
+          "id": 654,
+          "lat": 23.69781,
+          "lng": 120.960515,
+          "n": "Taiwan",
+          "pid": 255,
+          "t": "Taiwan"
+        },
+        "t": "Taiwan Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://tcgtfs.maxwin.com.tw:18300/realtime-srv/v1.0/routes/101/realtime_pb2"
+        }
+      },
+      {
+        "id": "taiwan/958",
+        "l": {
+          "id": 659,
+          "lat": 23.960998,
+          "lng": 120.971864,
+          "n": "Nantou County",
+          "pid": 654,
+          "t": "Nantou County, Taiwan"
+        },
+        "latest": {
+          "ts": 1615910607
+        },
+        "t": "Nantou GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/nt/latest"
+        }
+      },
+      {
+        "id": "taiwan/957",
+        "l": {
+          "id": 658,
+          "lat": 23.709203,
+          "lng": 120.431337,
+          "n": "Yunlin County",
+          "pid": 654,
+          "t": "Yunlin County, Taiwan"
+        },
+        "latest": {
+          "ts": 1615980147
+        },
+        "t": "Yunlin GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/yl/latest"
+        }
+      },
+      {
+        "id": "taiwan/956",
+        "l": {
+          "id": 657,
+          "lat": 24.051796,
+          "lng": 120.516135,
+          "n": "Changhua County",
+          "pid": 654,
+          "t": "Changhua County, Taiwan"
+        },
+        "latest": {
+          "ts": 1615824926
+        },
+        "t": "Changhua GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/ch/latest"
+        }
+      },
+      {
+        "id": "taiwan/955",
+        "l": {
+          "id": 656,
+          "lat": 24.147736,
+          "lng": 120.673648,
+          "n": "Taichung City",
+          "pid": 654,
+          "t": "Taichung City, Taiwan"
+        },
+        "latest": {
+          "ts": 1615983446
+        },
+        "t": "Taichung GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/tc/latest"
+        }
+      },
+      {
+        "id": "taiwan/954",
+        "l": {
+          "id": 655,
+          "lat": 24.560159,
+          "lng": 120.821427,
+          "n": "Miaoli County",
+          "pid": 654,
+          "t": "Miaoli County, Taiwan"
+        },
+        "latest": {
+          "ts": 1615831834
+        },
+        "t": "Miaoli GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/ml/latest"
+        }
+      },
+      {
+        "id": "roam-transit/953",
+        "l": {
+          "id": 652,
+          "lat": 51.178363,
+          "lng": -115.570769,
+          "n": "Banff",
+          "pid": 42,
+          "t": "Banff, AB, Canada"
+        },
+        "latest": {
+          "ts": 1610485946
+        },
+        "t": "Roam Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/roamtransit-banff-ab-ca/roamtransit-banff-ab-ca.zip"
+        }
+      },
+      {
+        "id": "mission-bay-tma/952",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1607482767
+        },
+        "t": "Mission Bay TMA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/missionbaytma-ca-us/missionbaytma-ca-us.zip"
+        }
+      },
+      {
+        "id": "avalon-transit/951",
+        "l": {
+          "id": 651,
+          "lat": 33.387886,
+          "lng": -118.41631,
+          "n": "Santa Catalina Island",
+          "pid": 67,
+          "t": "Santa Catalina Island, California 90704, USA"
+        },
+        "latest": {
+          "ts": 1616836048
+        },
+        "t": "Avalon Transit",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/avalon-ca-us/avalon-ca-us.zip"
+        }
+      },
+      {
+        "id": "blue-grass-ultra-transit-service/950",
+        "l": {
+          "id": 650,
+          "lat": 38.200905,
+          "lng": -84.873284,
+          "n": "Frankfort",
+          "pid": 198,
+          "t": "Frankfort, KY 40601, USA"
+        },
+        "latest": {
+          "ts": 1607162007
+        },
+        "t": "Blue Grass Ultra-Transit Service GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/bgcap-ky-us/bgcap-ky-us.zip"
+        }
+      },
+      {
+        "id": "sanford-trolley/949",
+        "l": {
+          "id": 649,
+          "lat": 28.802861,
+          "lng": -81.269453,
+          "n": "Sanford",
+          "pid": 74,
+          "t": "Sanford, FL, USA"
+        },
+        "t": "Sanford Trolley Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": []
+      },
+      {
+        "id": "sanford-trolley/948",
+        "l": {
+          "id": 649,
+          "lat": 28.802861,
+          "lng": -81.269453,
+          "n": "Sanford",
+          "pid": 74,
+          "t": "Sanford, FL, USA"
+        },
+        "t": "Sanford Trolley Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": []
+      },
+      {
+        "id": "sanford-trolley/947",
+        "l": {
+          "id": 649,
+          "lat": 28.802861,
+          "lng": -81.269453,
+          "n": "Sanford",
+          "pid": 74,
+          "t": "Sanford, FL, USA"
+        },
+        "latest": {
+          "ts": 1616446167
+        },
+        "t": "Sanford Trolley GTFS",
+        "ty": "gtfs",
+        "u": []
+      },
+      {
+        "id": "nyc-ferry/946",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "NYC Ferry Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+          "i": "https://www.ferry.nyc/developer-tools/"
+        }
+      },
+      {
+        "id": "nyc-ferry/945",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "t": "NYC Ferry Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+          "i": "https://www.ferry.nyc/developer-tools/"
+        }
+      },
+      {
+        "id": "nyc-ferry/944",
+        "l": {
+          "id": 91,
+          "lat": 40.714353,
+          "lng": -74.005973,
+          "n": "New York",
+          "pid": 84,
+          "t": "New York, NY, USA"
+        },
+        "latest": {
+          "ts": 1617072266
+        },
+        "t": "NYC Ferry GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://nycferry.connexionz.net/rtt/public/utility/gtfs.aspx",
+          "i": "https://www.ferry.nyc/developer-tools/"
+        }
+      },
+      {
+        "id": "burlington-urban-service/943",
+        "l": {
+          "id": 648,
+          "lat": 40.807653,
+          "lng": -91.11289,
+          "n": "Burlington",
+          "pid": 397,
+          "t": "Burlington, IA, USA"
+        },
+        "latest": {
+          "ts": 1606229846
+        },
+        "t": "Burlington Urban Service GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/burlington-ia-us/burlington-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/burlington-ia-us/burlington-ia-us.zip"
+        }
+      },
+      {
+        "id": "wata/941",
+        "l": {
+          "id": 647,
+          "lat": 37.270702,
+          "lng": -76.707457,
+          "n": "Williamsburg",
+          "pid": 138,
+          "t": "Williamsburg, VA, USA"
+        },
+        "latest": {
+          "ts": 1613625945
+        },
+        "t": "WATA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.gowata.org/193/Planning-Development"
+        }
+      },
+      {
+        "id": "sioux-city-transit-system/940",
+        "l": {
+          "id": 646,
+          "lat": 42.496342,
+          "lng": -96.404941,
+          "n": "Sioux City",
+          "pid": 397,
+          "t": "Sioux City, IA, USA"
+        },
+        "latest": {
+          "ts": 1615824693
+        },
+        "t": "Sioux City Transit System GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/siouxcity-ia-us/siouxcity-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/siouxcity-ia-us/siouxcity-ia-us.zip"
+        }
+      },
+      {
+        "id": "mason-city-public-transit/939",
+        "l": {
+          "id": 645,
+          "lat": 43.153573,
+          "lng": -93.201037,
+          "n": "Mason City",
+          "pid": 397,
+          "t": "Mason City, IA 50401, USA"
+        },
+        "latest": {
+          "ts": 1606401566
+        },
+        "t": "Mason City Public Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/masoncity-ia-us/masoncity-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/masoncity-ia-us/masoncity-ia-us.zip"
+        }
+      },
+      {
+        "id": "marshalltown-municipal-transit/938",
+        "l": {
+          "id": 644,
+          "lat": 42.049467,
+          "lng": -92.908037,
+          "n": "Marshalltown",
+          "pid": 397,
+          "t": "Marshalltown, IA 50158, USA"
+        },
+        "latest": {
+          "ts": 1611275006
+        },
+        "t": "Marshalltown Municipal Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/marshalltownmunicipaltransit-ia-us/marshalltownmunicipaltransit-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/marshalltownmunicipaltransit-ia-us/marshalltownmunicipaltransit-ia-us.zip"
+        }
+      },
+      {
+        "id": "clinton-mta/937",
+        "l": {
+          "id": 643,
+          "lat": 41.844473,
+          "lng": -90.188738,
+          "n": "Clinton",
+          "pid": 397,
+          "t": "Clinton, IA, USA"
+        },
+        "latest": {
+          "ts": 1607068406
+        },
+        "t": "Clinton MTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/clintonmta-ia-us/clintonmta-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/clintonmta-ia-us/clintonmta-ia-us.zip"
+        }
+      },
+      {
+        "id": "10-15-transit/936",
+        "l": {
+          "id": 642,
+          "lat": 41.016029,
+          "lng": -92.408302,
+          "n": "Ottumwa",
+          "pid": 397,
+          "t": "Ottumwa, IA 52501, USA"
+        },
+        "latest": {
+          "ts": 1615826966
+        },
+        "t": "10-15 Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/10-15transit-ia-us/10-15transit-ia-us.zip",
+          "i": "http://data.trilliumtransit.com/gtfs/10-15transit-ia-us/10-15transit-ia-us.zip"
+        }
+      },
+      {
+        "id": "transit-authority-of-northern-kentucky/935",
+        "l": {
+          "id": 219,
+          "lat": 39.051156,
+          "lng": -84.535029,
+          "n": "Fort Wright",
+          "pid": 198,
+          "t": "Fort Wright, KY, USA"
+        },
+        "t": "TANK Service Alerts",
+        "ty": "gtfsrealtime",
+        "u": []
+      },
+      {
+        "id": "transit-authority-of-northern-kentucky/934",
+        "l": {
+          "id": 219,
+          "lat": 39.051156,
+          "lng": -84.535029,
+          "n": "Fort Wright",
+          "pid": 198,
+          "t": "Fort Wright, KY, USA"
+        },
+        "t": "TANK Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": []
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 4,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078099
+}

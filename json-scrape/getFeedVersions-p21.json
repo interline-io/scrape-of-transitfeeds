@@ -1,0 +1,2653 @@
+{
+  "results": {
+    "limit": 100,
+    "numPages": 1160,
+    "page": 21,
+    "total": 115909,
+    "versions": [
+      {
+        "d": {
+          "f": "20210425",
+          "s": "20210209"
+        },
+        "f": {
+          "id": "miway/641",
+          "l": {
+            "id": 482,
+            "lat": 43.589045,
+            "lng": -79.64412,
+            "n": "Mississauga",
+            "pid": 46,
+            "t": "Mississauga, ON, Canada"
+          },
+          "t": "MiWay GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.mississauga.ca/portal/miway/developerdownload"
+          }
+        },
+        "id": "miway/641/20210217",
+        "size": 9242760,
+        "ts": 1613623498,
+        "url": "https://transitfeeds.com/p/miway/641/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210715",
+          "s": "20200101"
+        },
+        "f": {
+          "id": "empresa-malaguena-de-transportes/874",
+          "l": {
+            "id": 615,
+            "lat": 37.544271,
+            "lng": -4.727753,
+            "n": "Andalusia",
+            "pid": 166,
+            "t": "Andalusia, Spain"
+          },
+          "t": "EMT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://datosabiertos.malaga.eu/recursos/transporte/EMT/lineasYHorarios/google_transit_txt.zip",
+            "i": "http://datosabiertos.malaga.eu/dataset/lineas-y-horarios-bus-google-transit"
+          }
+        },
+        "id": "empresa-malaguena-de-transportes/874/20210217",
+        "size": 2032106,
+        "ts": 1613623497,
+        "url": "https://transitfeeds.com/p/empresa-malaguena-de-transportes/874/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210531",
+          "s": "20210121"
+        },
+        "f": {
+          "id": "compania-del-tranvia-de-san-sebastian/702",
+          "l": {
+            "id": 508,
+            "lat": 43.318334,
+            "lng": -1.981231,
+            "n": "San Sebastián",
+            "pid": 166,
+            "t": "San Sebastián, Gipuzkoa, Spain"
+          },
+          "t": "dBus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/dbus/google_transit.zip"
+          }
+        },
+        "id": "compania-del-tranvia-de-san-sebastian/702/20210217",
+        "size": 5444284,
+        "ts": 1613623495,
+        "url": "https://transitfeeds.com/p/compania-del-tranvia-de-san-sebastian/702/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20270705",
+          "s": "20190429"
+        },
+        "f": {
+          "id": "via-rail-canada/971",
+          "l": {
+            "id": 32,
+            "lat": 56.130366,
+            "lng": -106.346771,
+            "n": "Canada",
+            "pid": 30,
+            "t": "Canada"
+          },
+          "t": "VIA Rail Canada GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.viarail.ca/sites/all/files/gtfs/viarail.zip",
+            "i": "https://www.viarail.ca/en/developer-resources"
+          }
+        },
+        "id": "via-rail-canada/971/20210217",
+        "size": 799933,
+        "ts": 1613623494,
+        "url": "https://transitfeeds.com/p/via-rail-canada/971/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20210101"
+        },
+        "f": {
+          "id": "taiwan/955",
+          "l": {
+            "id": 656,
+            "lat": 24.147736,
+            "lng": 120.673648,
+            "n": "Taichung City",
+            "pid": 654,
+            "t": "Taichung City, Taiwan"
+          },
+          "t": "Taichung GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://tcbnb.maxwin.com.tw/bnb/api/gtfs/tc/latest"
+          }
+        },
+        "id": "taiwan/955/20210217",
+        "size": 1417913,
+        "ts": 1613623494,
+        "url": "https://transitfeeds.com/p/taiwan/955/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210327",
+          "s": "20200913"
+        },
+        "f": {
+          "id": "alexandria-transit-company/423",
+          "l": {
+            "id": 324,
+            "lat": 38.804836,
+            "lng": -77.046921,
+            "n": "Alexandria",
+            "pid": 138,
+            "t": "Alexandria, VA, USA"
+          },
+          "t": "DASH Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.dashbus.com/google_transit.zip"
+          }
+        },
+        "id": "alexandria-transit-company/423/20210217",
+        "size": 1446789,
+        "ts": 1613623492,
+        "url": "https://transitfeeds.com/p/alexandria-transit-company/423/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210405",
+          "s": "20210204"
+        },
+        "f": {
+          "id": "translink/21",
+          "l": {
+            "id": 10,
+            "lat": -27.471011,
+            "lng": 153.023449,
+            "n": "Brisbane",
+            "pid": 9,
+            "t": "Brisbane QLD, Australia"
+          },
+          "t": "TransLink SEQ GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfsrt.api.translink.com.au/GTFS/SEQ_GTFS.zip",
+            "i": "https://translink.com.au/about-translink/open-data"
+          }
+        },
+        "id": "translink/21/20210217",
+        "size": 21376454,
+        "ts": 1613623487,
+        "url": "https://transitfeeds.com/p/translink/21/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210701",
+          "s": "20191101"
+        },
+        "f": {
+          "id": "people-mover-grant-county/475",
+          "l": {
+            "id": 350,
+            "lat": 44.438408,
+            "lng": -118.891733,
+            "n": "Grant County",
+            "pid": 63,
+            "t": "Grant County, OR, USA"
+          },
+          "t": "People Mover GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://oregon-gtfs.com/gtfs_data/peoplemover-or-us/peoplemover-or-us.zip"
+          }
+        },
+        "id": "people-mover-grant-county/475/20210217",
+        "size": 726850,
+        "ts": 1613623485,
+        "url": "https://transitfeeds.com/p/people-mover-grant-county/475/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210807",
+          "s": "20201224"
+        },
+        "f": {
+          "id": "fort-worth-transportation-authority/56",
+          "l": {
+            "id": 86,
+            "lat": 32.725409,
+            "lng": -97.32085,
+            "n": "Fort Worth",
+            "pid": 35,
+            "t": "Fort Worth, TX, USA"
+          },
+          "t": "FWTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ftp.fwta.org/fwtatransitdata.zip",
+            "i": "http://www.fwta.org/TransitDataGTFS.aspx"
+          }
+        },
+        "id": "fort-worth-transportation-authority/56/20210217",
+        "size": 1806998,
+        "ts": 1613623483,
+        "url": "https://transitfeeds.com/p/fort-worth-transportation-authority/56/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210401",
+          "s": "20200713"
+        },
+        "f": {
+          "id": "avalon-transit/951",
+          "l": {
+            "id": 651,
+            "lat": 33.387886,
+            "lng": -118.41631,
+            "n": "Santa Catalina Island",
+            "pid": 67,
+            "t": "Santa Catalina Island, California 90704, USA"
+          },
+          "t": "Avalon Transit",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/avalon-ca-us/avalon-ca-us.zip"
+          }
+        },
+        "id": "avalon-transit/951/20210217",
+        "size": 18464,
+        "ts": 1613623482,
+        "url": "https://transitfeeds.com/p/avalon-transit/951/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210701",
+          "s": "20200901"
+        },
+        "f": {
+          "id": "ventura-county-transportation-commission/792",
+          "l": {
+            "id": 585,
+            "lat": 34.370488,
+            "lng": -119.139064,
+            "n": "Ventura County",
+            "pid": 67,
+            "t": "Ventura County, CA, USA"
+          },
+          "t": "Ventura County Transportation Commission GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://data.trilliumtransit.com/gtfs/vctc-ca-us/vctc-ca-us.zip",
+            "i": "http://data.trilliumtransit.com/gtfs/vctc-ca-us/vctc-ca-us.zip"
+          }
+        },
+        "id": "ventura-county-transportation-commission/792/20210217",
+        "size": 1126379,
+        "ts": 1613623479,
+        "url": "https://transitfeeds.com/p/ventura-county-transportation-commission/792/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20220109",
+          "s": "20201221"
+        },
+        "f": {
+          "id": "region-des-pays-de-la-loire/1070",
+          "l": {
+            "id": 441,
+            "lat": 47.218371,
+            "lng": -1.553621,
+            "n": "Nantes",
+            "pid": 161,
+            "t": "Nantes, France"
+          },
+          "t": "Île d'Yeu GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://opendatacommons.org/licenses/odbl/"
+          }
+        },
+        "id": "region-des-pays-de-la-loire/1070/20210217",
+        "size": 15817,
+        "ts": 1613623479,
+        "url": "https://transitfeeds.com/p/region-des-pays-de-la-loire/1070/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20201210"
+        },
+        "f": {
+          "id": "weekendbus/887",
+          "l": {
+            "id": 617,
+            "lat": 47.448,
+            "lng": 19.461813,
+            "n": "Pest County",
+            "pid": 61,
+            "t": "Pest County, Hungary"
+          },
+          "t": "Weekendbus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://apps.weekendbus.hu/gtfs/google_transit.zip"
+          }
+        },
+        "id": "weekendbus/887/20210217",
+        "size": 22395,
+        "ts": 1613623478,
+        "url": "https://transitfeeds.com/p/weekendbus/887/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210823",
+          "s": "20200624"
+        },
+        "f": {
+          "id": "idbus/519",
+          "l": {
+            "id": 162,
+            "lat": 48.856614,
+            "lng": 2.352222,
+            "n": "Paris",
+            "pid": 161,
+            "t": "Paris, France"
+          },
+          "t": "iDBUS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://api.idbus.com/gtfs.zip"
+          }
+        },
+        "id": "idbus/519/20210217",
+        "size": 110575,
+        "ts": 1613623477,
+        "url": "https://transitfeeds.com/p/idbus/519/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210417",
+          "s": "20201129"
+        },
+        "f": {
+          "id": "utah-transportation-authority/59",
+          "l": {
+            "id": 90,
+            "lat": 40.760779,
+            "lng": -111.891047,
+            "n": "Salt Lake City",
+            "pid": 89,
+            "t": "Salt Lake City, UT, USA"
+          },
+          "t": "UTA GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfsfeed.rideuta.com/gtfs.zip",
+            "i": "http://developer.rideuta.com"
+          }
+        },
+        "id": "utah-transportation-authority/59/20210217",
+        "size": 6022137,
+        "ts": 1613623476,
+        "url": "https://transitfeeds.com/p/utah-transportation-authority/59/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210301",
+          "s": "20210216"
+        },
+        "f": {
+          "id": "prazska-integrovana-doprava/1106",
+          "l": {
+            "id": 588,
+            "lat": 50.075538,
+            "lng": 14.4378,
+            "n": "Prague",
+            "pid": 587,
+            "t": "Prague, Czechia"
+          },
+          "t": "PID GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://pid.cz/o-systemu/opendata/"
+          }
+        },
+        "id": "prazska-integrovana-doprava/1106/20210217",
+        "size": 21210756,
+        "ts": 1613623471,
+        "url": "https://transitfeeds.com/p/prazska-integrovana-doprava/1106/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210906",
+          "s": "20210604"
+        },
+        "f": {
+          "id": "san-juan-capistrano-free-weekend-trolley/1346",
+          "l": {
+            "id": 67,
+            "lat": 36.778261,
+            "lng": -119.417932,
+            "n": "California",
+            "pid": 31,
+            "t": "California, USA"
+          },
+          "t": "San Juan Capistrano Free Weekend Trolley GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://data.trilliumtransit.com/gtfs/sanjuancapistrano-ca-us/sanjuancapistrano-ca-us.zip"
+          }
+        },
+        "id": "san-juan-capistrano-free-weekend-trolley/1346/20210217",
+        "size": 23640,
+        "ts": 1613623470,
+        "url": "https://transitfeeds.com/p/san-juan-capistrano-free-weekend-trolley/1346/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20190101"
+        },
+        "f": {
+          "id": "ferrocarriles-de-la-generalidad-valenciana-alicante/1040",
+          "l": {
+            "id": 692,
+            "lat": 38.345996,
+            "lng": -0.490685,
+            "n": "Alicante",
+            "pid": 166,
+            "t": "Alicante, Spain"
+          },
+          "t": "TRAM Alicante GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.tramalicante.es/google_transit_feed/google_transit.zip",
+            "i": "http://www.fgv.es/transparencia/index.php#open-data"
+          }
+        },
+        "id": "ferrocarriles-de-la-generalidad-valenciana-alicante/1040/20210217",
+        "size": 391341,
+        "ts": 1613623469,
+        "url": "https://transitfeeds.com/p/ferrocarriles-de-la-generalidad-valenciana-alicante/1040/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210307",
+          "s": "20210216"
+        },
+        "f": {
+          "id": "mta/86",
+          "l": {
+            "id": 120,
+            "lat": 40.789142,
+            "lng": -73.13496,
+            "n": "Long Island",
+            "pid": 91,
+            "t": "Long Island, New York, USA"
+          },
+          "t": "Long Island Rail Road GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/data/lirr/google_transit.zip",
+            "i": "http://mta.info/developers/download.html"
+          }
+        },
+        "id": "mta/86/20210217",
+        "size": 1114241,
+        "ts": 1613623468,
+        "url": "https://transitfeeds.com/p/mta/86/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210502",
+          "s": "20210201"
+        },
+        "f": {
+          "id": "ztm-lublin/1111",
+          "l": {
+            "id": 718,
+            "lat": 51.246454,
+            "lng": 22.568446,
+            "n": "Lublin",
+            "pid": 434,
+            "t": "Lublin, Poland"
+          },
+          "t": "ZTM Lublin GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://mkuran.pl/feed/"
+          }
+        },
+        "id": "ztm-lublin/1111/20210217",
+        "size": 1588876,
+        "ts": 1613623467,
+        "url": "https://transitfeeds.com/p/ztm-lublin/1111/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210405",
+          "s": "20210204"
+        },
+        "f": {
+          "id": "translink/7",
+          "l": {
+            "id": 14,
+            "lat": -16.920334,
+            "lng": 145.77086,
+            "n": "Cairns",
+            "pid": 9,
+            "t": "Cairns QLD, Australia"
+          },
+          "t": "Cairns GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfsrt.api.translink.com.au/GTFS/CNS_GTFS.zip",
+            "i": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/9850f8e5-f572-4de7-97c5-84d45526f9bd"
+          }
+        },
+        "id": "translink/7/20210217",
+        "size": 559697,
+        "ts": 1613623466,
+        "url": "https://transitfeeds.com/p/translink/7/20210217/download"
+      },
+      {
+        "d": {
+          "f": "20210512",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "transport-for-nsw/1059",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "NSW Trains GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/1059/20210214",
+        "size": 15858379,
+        "ts": 1613334098,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/1059/20210214/download"
+      },
+      {
+        "d": {
+          "f": "20210402",
+          "s": "20210103"
+        },
+        "f": {
+          "id": "mta/83",
+          "l": {
+            "id": 118,
+            "lat": 40.728224,
+            "lng": -73.794852,
+            "n": "Queens",
+            "pid": 91,
+            "t": "Queens, NY, USA"
+          },
+          "t": "MTA Queens GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip",
+            "i": "http://mta.info/developers/download.html"
+          }
+        },
+        "id": "mta/83/20210201",
+        "size": 2465577,
+        "ts": 1612198053,
+        "url": "https://transitfeeds.com/p/mta/83/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210301",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "bkk/42",
+          "l": {
+            "id": 62,
+            "lat": 47.497912,
+            "lng": 19.040235,
+            "n": "Budapest",
+            "pid": 617,
+            "t": "Budapest, Hungary"
+          },
+          "t": "BKK GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.bkk.hu/gtfs/budapest_gtfs.zip"
+          }
+        },
+        "id": "bkk/42/20210201",
+        "size": 39471573,
+        "ts": 1612198046,
+        "url": "https://transitfeeds.com/p/bkk/42/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20200823"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/20210201",
+        "size": 432510,
+        "ts": 1612197926,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210313",
+          "s": "20210115"
+        },
+        "f": {
+          "id": "szybka-kolej-miejska-w-warszawie/790",
+          "l": {
+            "id": 518,
+            "lat": 52.229676,
+            "lng": 21.012229,
+            "n": "Warsaw",
+            "pid": 434,
+            "t": "Warsaw, Poland"
+          },
+          "t": "Szybka Kolej Miejska w Warszawie",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://przyjazdy.pl/latest/skmt.zip"
+          }
+        },
+        "id": "szybka-kolej-miejska-w-warszawie/790/20210201",
+        "size": 15640426,
+        "ts": 1612195286,
+        "url": "https://transitfeeds.com/p/szybka-kolej-miejska-w-warszawie/790/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210228",
+          "s": "20210202"
+        },
+        "f": {
+          "id": "ztm-pozna/992",
+          "l": {
+            "id": 667,
+            "lat": 52.406374,
+            "lng": 16.925168,
+            "n": "Poznań",
+            "pid": 434,
+            "t": "Poznań, Poland"
+          },
+          "t": "ZTM Poznań GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile",
+            "i": "http://ztm.poznan.pl/pl/dla-deweloperow/index"
+          }
+        },
+        "id": "ztm-pozna/992/20210201",
+        "size": 8153831,
+        "ts": 1612194206,
+        "url": "https://transitfeeds.com/p/ztm-pozna/992/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20301214",
+          "s": "20140426"
+        },
+        "f": {
+          "id": "transtejo/1006",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Transtejo GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/4/gtfs_4.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-transtejo"
+          }
+        },
+        "id": "transtejo/1006/20210201",
+        "size": 36065,
+        "ts": 1612193666,
+        "url": "https://transitfeeds.com/p/transtejo/1006/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20210126"
+        },
+        "f": {
+          "id": "societe-nationale-des-chemins-de-fer-belges/528",
+          "l": {
+            "id": 382,
+            "lat": 50.503887,
+            "lng": 4.469936,
+            "n": "Belgium",
+            "pid": 60,
+            "t": "Belgium"
+          },
+          "t": "NMBS-SNCB GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfs.irail.be/nmbs/gtfs/latest.zip"
+          }
+        },
+        "id": "societe-nationale-des-chemins-de-fer-belges/528/20210201",
+        "size": 5586737,
+        "ts": 1612193006,
+        "url": "https://transitfeeds.com/p/societe-nationale-des-chemins-de-fer-belges/528/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210501",
+          "s": "20210201"
+        },
+        "f": {
+          "id": "mpk-sa-w-krakowie/1105",
+          "l": {
+            "id": 713,
+            "lat": 50.06465,
+            "lng": 19.94498,
+            "n": "Kraków",
+            "pid": 434,
+            "t": "Kraków, Poland"
+          },
+          "t": "MPK SA w Krakowie Tram GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ztp.krakow.pl/pliki-gtfs/GTFS_KRK_T.zip",
+            "i": "www.mpk.krakow.pl"
+          }
+        },
+        "id": "mpk-sa-w-krakowie/1105/20210201",
+        "size": 1780050,
+        "ts": 1612190246,
+        "url": "https://transitfeeds.com/p/mpk-sa-w-krakowie/1105/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20330927",
+          "s": "20130401"
+        },
+        "f": {
+          "id": "yamanashi/813",
+          "l": {
+            "id": 592,
+            "lat": 35.664158,
+            "lng": 138.568449,
+            "n": "Yamanashi Prefecture",
+            "pid": 256,
+            "t": "Yamanashi Prefecture, Japan"
+          },
+          "t": "Yamanashi GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opendata.busmaps.jp/yamanashi.zip"
+          }
+        },
+        "id": "yamanashi/813/20210201",
+        "size": 2105190,
+        "ts": 1612188206,
+        "url": "https://transitfeeds.com/p/yamanashi/813/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20201219"
+        },
+        "f": {
+          "id": "pasadena-transit/1053",
+          "l": {
+            "id": 697,
+            "lat": 34.147785,
+            "lng": -118.144515,
+            "n": "Pasadena",
+            "pid": 67,
+            "t": "Pasadena, CA, USA"
+          },
+          "t": "Pasadena Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://data-csslce.opendata.arcgis.com/datasets/32f42d5ce7024cff97efb70385e31615"
+          }
+        },
+        "id": "pasadena-transit/1053/20210201",
+        "size": 226158,
+        "ts": 1612187726,
+        "url": "https://transitfeeds.com/p/pasadena-transit/1053/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20210128"
+        },
+        "f": {
+          "id": "verkehrsverbund-berlin-brandenburg/213",
+          "l": {
+            "id": 169,
+            "lat": 52.519171,
+            "lng": 13.406091,
+            "n": "Berlin",
+            "pid": 168,
+            "t": "Berlin, Germany"
+          },
+          "t": "VBB GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.vbb.de/media/download/2029",
+            "i": "https://www.vbb.de/unsere-themen/vbbdigital/api-entwicklerinfos/datensaetze"
+          }
+        },
+        "id": "verkehrsverbund-berlin-brandenburg/213/20210201",
+        "size": 61895294,
+        "ts": 1612187606,
+        "url": "https://transitfeeds.com/p/verkehrsverbund-berlin-brandenburg/213/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210828",
+          "s": "20210126"
+        },
+        "f": {
+          "id": "mta/87",
+          "l": {
+            "id": 91,
+            "lat": 40.714353,
+            "lng": -74.005973,
+            "n": "New York",
+            "pid": 84,
+            "t": "New York, NY, USA"
+          },
+          "t": "Metro-North Railroad GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+            "i": "http://mta.info/developers/download.html"
+          }
+        },
+        "id": "mta/87/20210201",
+        "size": 933737,
+        "ts": 1612187186,
+        "url": "https://transitfeeds.com/p/mta/87/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "carris/1000",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Carris GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/1/gtfs_1.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-carris"
+          }
+        },
+        "id": "carris/1000/20210201",
+        "size": 4932919,
+        "ts": 1612186406,
+        "url": "https://transitfeeds.com/p/carris/1000/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "comboios-de-portugal/1004",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Comboios de Portugal GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/3/gtfs_3.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-cp-comboios-de-portugal"
+          }
+        },
+        "id": "comboios-de-portugal/1004/20210201",
+        "size": 68789,
+        "ts": 1612185206,
+        "url": "https://transitfeeds.com/p/comboios-de-portugal/1004/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210501",
+          "s": "20210201"
+        },
+        "f": {
+          "id": "mpk-sa-w-krakowie/1104",
+          "l": {
+            "id": 713,
+            "lat": 50.06465,
+            "lng": 19.94498,
+            "n": "Kraków",
+            "pid": 434,
+            "t": "Kraków, Poland"
+          },
+          "t": "MPK SA w Krakowie Bus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ztp.krakow.pl/pliki-gtfs/GTFS_KRK_A.zip",
+            "i": "www.mpk.krakow.pl"
+          }
+        },
+        "id": "mpk-sa-w-krakowie/1104/20210201",
+        "size": 4004434,
+        "ts": 1612184366,
+        "url": "https://transitfeeds.com/p/mpk-sa-w-krakowie/1104/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210317",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "ministry-of-transport-and-road-safety/820",
+          "l": {
+            "id": 529,
+            "lat": 31.046051,
+            "lng": 34.851612,
+            "n": "Israel",
+            "pid": 255,
+            "t": "Israel"
+          },
+          "t": "Israel GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.callkav.gov.il"
+          }
+        },
+        "id": "ministry-of-transport-and-road-safety/820/20210201",
+        "size": 118067901,
+        "ts": 1612184246,
+        "url": "https://transitfeeds.com/p/ministry-of-transport-and-road-safety/820/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210417",
+          "s": "20201108"
+        },
+        "f": {
+          "id": "metrotas/311",
+          "l": {
+            "id": 222,
+            "lat": -42.881903,
+            "lng": 147.323815,
+            "n": "Hobart",
+            "pid": 221,
+            "t": "Hobart TAS, Australia"
+          },
+          "t": "MetroTas Hobart GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.metrotas.com.au/wp-content/uploads/transit/Hobart/google_transit.zip",
+            "i": "http://www.metrotas.com.au/community/gtfs/"
+          }
+        },
+        "id": "metrotas/311/20210201",
+        "size": 5464139,
+        "ts": 1612183047,
+        "url": "https://transitfeeds.com/p/metrotas/311/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20220125",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "sulfertagus/1005",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "SulFertagus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/21/gtfs_21.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-sul-fertagus"
+          }
+        },
+        "id": "sulfertagus/1005/20210201",
+        "size": 82692,
+        "ts": 1612182686,
+        "url": "https://transitfeeds.com/p/sulfertagus/1005/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20200323"
+        },
+        "f": {
+          "id": "altamont-corridor-express/823",
+          "l": {
+            "id": 252,
+            "lat": 37.957702,
+            "lng": -121.29078,
+            "n": "Stockton",
+            "pid": 67,
+            "t": "Stockton, CA, USA"
+          },
+          "t": "Altamont Corridor Express GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://511.org/developers/list/data/"
+          }
+        },
+        "id": "altamont-corridor-express/823/20210201",
+        "size": 26221,
+        "ts": 1612180466,
+        "url": "https://transitfeeds.com/p/altamont-corridor-express/823/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210801",
+          "s": "20210201"
+        },
+        "f": {
+          "id": "valsts-sia-autotransporta-direkcija/1227",
+          "l": {
+            "id": 236,
+            "lat": 56.949649,
+            "lng": 24.105186,
+            "n": "Rīga",
+            "pid": 235,
+            "t": "Rīga, Latvia"
+          },
+          "t": "ATD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://data.gov.lv/dati/eng/dataset/atd-gtfs"
+          }
+        },
+        "id": "valsts-sia-autotransporta-direkcija/1227/20210201",
+        "size": 22468362,
+        "ts": 1612178732,
+        "url": "https://transitfeeds.com/p/valsts-sia-autotransporta-direkcija/1227/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210612",
+          "s": "20200614"
+        },
+        "f": {
+          "id": "karlsruher-verkehrsverbundes/896",
+          "l": {
+            "id": 622,
+            "lat": 49.00689,
+            "lng": 8.403653,
+            "n": "Karlsruhe",
+            "pid": 168,
+            "t": "Karlsruhe, Germany"
+          },
+          "t": "KVV GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://projekte.kvv-efa.de/GTFS/google_transit.zip",
+            "i": "https://www.kvv.de/fahrt-planen/fahrplaene/open-data.html"
+          }
+        },
+        "id": "karlsruher-verkehrsverbundes/896/20210201",
+        "size": 19494102,
+        "ts": 1612178726,
+        "url": "https://transitfeeds.com/p/karlsruher-verkehrsverbundes/896/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20090617"
+        },
+        "f": {
+          "id": "amb-mobilitat/994",
+          "l": {
+            "id": 669,
+            "lat": 41.385064,
+            "lng": 2.173404,
+            "n": "Barcelona",
+            "pid": 166,
+            "t": "Barcelona, Spain"
+          },
+          "t": "AMB Mobilitat GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ambmobilitat.cat/OpenData/google_transit.zip",
+            "i": "http://www.amb.cat/es/web/area-metropolitana/dades-obertes/cataleg/detall/-/dataset/informacion-de-companias--lineas-y-recorridos/1033377/11692"
+          }
+        },
+        "id": "amb-mobilitat/994/20210201",
+        "size": 5691557,
+        "ts": 1612176386,
+        "url": "https://transitfeeds.com/p/amb-mobilitat/994/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20991231",
+          "s": "20190804"
+        },
+        "f": {
+          "id": "association-of-train-operating-companies/284",
+          "l": {
+            "id": 177,
+            "lat": 55.378051,
+            "lng": -3.435973,
+            "n": "United Kingdom",
+            "pid": 60,
+            "t": "United Kingdom"
+          },
+          "t": "ATOC GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://s3.eu-west-2.amazonaws.com/feeds.planar.network/gb-rail-latest.zip",
+            "i": "https://feeds.planar.network/"
+          }
+        },
+        "id": "association-of-train-operating-companies/284/20210201",
+        "size": 13308609,
+        "ts": 1612176086,
+        "url": "https://transitfeeds.com/p/association-of-train-operating-companies/284/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210313",
+          "s": "20210115"
+        },
+        "f": {
+          "id": "pkp-szybka-kolej-miejska-w-trojmie-cie/1116",
+          "l": {
+            "id": 721,
+            "lat": 54.391958,
+            "lng": 18.540666,
+            "n": "Tricity, Poland",
+            "pid": 434,
+            "t": "Tricity, Poland, Poland"
+          },
+          "t": "SKM GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://przyjazdy.pl/gtfs"
+          }
+        },
+        "id": "pkp-szybka-kolej-miejska-w-trojmie-cie/1116/20210201",
+        "size": 15640426,
+        "ts": 1612175847,
+        "url": "https://transitfeeds.com/p/pkp-szybka-kolej-miejska-w-trojmie-cie/1116/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20220128",
+          "s": "20180625"
+        },
+        "f": {
+          "id": "norsk-reiseinformasjon-as/791",
+          "l": {
+            "id": 83,
+            "lat": 60.472024,
+            "lng": 8.468946,
+            "n": "Norway",
+            "pid": 60,
+            "t": "Norway"
+          },
+          "t": "Norway GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip",
+            "i": "http://www.entur.org/dev/rutedata/"
+          }
+        },
+        "id": "norsk-reiseinformasjon-as/791/20210201",
+        "size": 413210974,
+        "ts": 1612175486,
+        "url": "https://transitfeeds.com/p/norsk-reiseinformasjon-as/791/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210209",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "mpk-om-a/1110",
+          "l": {
+            "id": 717,
+            "lat": 53.17812,
+            "lng": 22.059032,
+            "n": "Lomza",
+            "pid": 434,
+            "t": "18-400 Lomza, Poland"
+          },
+          "t": "MPK Łomża GTFS`",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://mkuran.pl/feed/"
+          }
+        },
+        "id": "mpk-om-a/1110/20210201",
+        "size": 123752,
+        "ts": 1612173626,
+        "url": "https://transitfeeds.com/p/mpk-om-a/1110/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20300503",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "fertagus/1001",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Fertagus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/13/gtfs_13.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-sul-fertagus"
+          }
+        },
+        "id": "fertagus/1001/20210201",
+        "size": 28007,
+        "ts": 1612171526,
+        "url": "https://transitfeeds.com/p/fertagus/1001/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20210116",
+          "s": "20120103"
+        },
+        "f": {
+          "id": "merseylink/1221",
+          "l": {
+            "id": 221,
+            "lat": -41.365042,
+            "lng": 146.62849,
+            "n": "Tasmania",
+            "pid": 2,
+            "t": "Tasmania, Australia"
+          },
+          "t": "Merseylink_2019-01-23",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://www.merseylink.com.au/gtfs-feed/"
+          }
+        },
+        "id": "merseylink/1221/20210201",
+        "size": 233149,
+        "ts": 1612167986,
+        "url": "https://transitfeeds.com/p/merseylink/1221/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20210102"
+        },
+        "f": {
+          "id": "golden-empire-transit-district/340",
+          "l": {
+            "id": 246,
+            "lat": 35.373292,
+            "lng": -119.018713,
+            "n": "Bakersfield",
+            "pid": 67,
+            "t": "Bakersfield, CA, USA"
+          },
+          "t": "GET GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://eta.getbus.org/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.getbus.org/google-transit-data-download/"
+          }
+        },
+        "id": "golden-empire-transit-district/340/20210201",
+        "size": 596205,
+        "ts": 1612167086,
+        "url": "https://transitfeeds.com/p/golden-empire-transit-district/340/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20300531",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "metro-de-lisboa/1003",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Metro de Lisboa GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/2/gtfs_2.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-metropolitano-de-lisboa"
+          }
+        },
+        "id": "metro-de-lisboa/1003/20210201",
+        "size": 17271,
+        "ts": 1612166787,
+        "url": "https://transitfeeds.com/p/metro-de-lisboa/1003/20210201/download"
+      },
+      {
+        "d": {
+          "f": "20220109",
+          "s": "20201021"
+        },
+        "f": {
+          "id": "region-des-pays-de-la-loire/1071",
+          "l": {
+            "id": 441,
+            "lat": 47.218371,
+            "lng": -1.553621,
+            "n": "Nantes",
+            "pid": 161,
+            "t": "Nantes, France"
+          },
+          "t": "Pays de la Loire",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://opendatacommons.org/licenses/odbl/"
+          }
+        },
+        "id": "region-des-pays-de-la-loire/1071/20210131-2",
+        "size": 18579399,
+        "ts": 1612165166,
+        "url": "https://transitfeeds.com/p/region-des-pays-de-la-loire/1071/20210131-2/download"
+      },
+      {
+        "d": {
+          "f": "20210801",
+          "s": "20080101"
+        },
+        "f": {
+          "id": "sptrans/1049",
+          "l": {
+            "id": 666,
+            "lat": -23.55052,
+            "lng": -46.633309,
+            "n": "São Paulo",
+            "pid": 388,
+            "t": "São Paulo, State of São Paulo, Brazil"
+          },
+          "t": "SPTrans GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.sptrans.com.br/desenvolvedores/"
+          }
+        },
+        "id": "sptrans/1049/20210131-2",
+        "size": 13866698,
+        "ts": 1612161626,
+        "url": "https://transitfeeds.com/p/sptrans/1049/20210131-2/download"
+      },
+      {
+        "d": {
+          "f": "20210626",
+          "s": "20201108"
+        },
+        "f": {
+          "id": "mta/886",
+          "l": {
+            "id": 91,
+            "lat": 40.714353,
+            "lng": -74.005973,
+            "n": "New York",
+            "pid": 84,
+            "t": "New York, NY, USA"
+          },
+          "t": "NYC Subway Supplemented GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/files/google_transit_supplemented.zip"
+          }
+        },
+        "id": "mta/886/20210131",
+        "size": 12808860,
+        "ts": 1612156646,
+        "url": "https://transitfeeds.com/p/mta/886/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20300331",
+          "s": "20140301"
+        },
+        "f": {
+          "id": "maanteeamet/510",
+          "l": {
+            "id": 369,
+            "lat": 58.595272,
+            "lng": 25.013607,
+            "n": "Estonia",
+            "pid": 60,
+            "t": "Estonia"
+          },
+          "t": "Maanteeamet GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.peatus.ee/gtfs/gtfs.zip",
+            "i": "http://www.mnt.ee/index.php?id=23419"
+          }
+        },
+        "id": "maanteeamet/510/20210131",
+        "size": 19516676,
+        "ts": 1612156046,
+        "url": "https://transitfeeds.com/p/maanteeamet/510/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210626",
+          "s": "20210117"
+        },
+        "f": {
+          "id": "metrotas/313",
+          "l": {
+            "id": 224,
+            "lat": -41.052465,
+            "lng": 145.906851,
+            "n": "Burnie",
+            "pid": 221,
+            "t": "Burnie TAS 7320, Australia"
+          },
+          "t": "MetroTas Burnie GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.metrotas.com.au/wp-content/uploads/transit/Burnie/google_transit.zip",
+            "i": "http://www.metrotas.com.au/community/gtfs/"
+          }
+        },
+        "id": "metrotas/313/20210131",
+        "size": 757540,
+        "ts": 1612154247,
+        "url": "https://transitfeeds.com/p/metrotas/313/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20201122"
+        },
+        "f": {
+          "id": "koleje-wielkopolskie/1117",
+          "l": {
+            "id": 722,
+            "lat": 52.279986,
+            "lng": 17.352294,
+            "n": "Greater Poland Voivodeship",
+            "pid": 721,
+            "t": "Greater Poland Voivodeship, Poland"
+          },
+          "t": "Koleje Wielkopolskie",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://przyjazdy.pl/gtfs"
+          }
+        },
+        "id": "koleje-wielkopolskie/1117/20210131",
+        "size": 265879,
+        "ts": 1612153347,
+        "url": "https://transitfeeds.com/p/koleje-wielkopolskie/1117/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220101",
+          "s": "20150606"
+        },
+        "f": {
+          "id": "rigas-satiksme/333",
+          "l": {
+            "id": 236,
+            "lat": 56.949649,
+            "lng": 24.105186,
+            "n": "Rīga",
+            "pid": 235,
+            "t": "Rīga, Latvia"
+          },
+          "t": "Rīgas Satiksme GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://saraksti.rigassatiksme.lv/riga/gtfs.zip"
+          }
+        },
+        "id": "rigas-satiksme/333/20210131",
+        "size": 1804636,
+        "ts": 1612153347,
+        "url": "https://transitfeeds.com/p/rigas-satiksme/333/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210430",
+          "s": "20210121"
+        },
+        "f": {
+          "id": "compania-del-tranvia-de-san-sebastian/702",
+          "l": {
+            "id": 508,
+            "lat": 43.318334,
+            "lng": -1.981231,
+            "n": "San Sebastián",
+            "pid": 166,
+            "t": "San Sebastián, Gipuzkoa, Spain"
+          },
+          "t": "dBus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/dbus/google_transit.zip"
+          }
+        },
+        "id": "compania-del-tranvia-de-san-sebastian/702/20210131",
+        "size": 5178959,
+        "ts": 1612151126,
+        "url": "https://transitfeeds.com/p/compania-del-tranvia-de-san-sebastian/702/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "rabbit-transit/383",
+          "l": {
+            "id": 292,
+            "lat": 39.962598,
+            "lng": -76.727745,
+            "n": "York",
+            "pid": 105,
+            "t": "York, PA, USA"
+          },
+          "t": "Rabbit Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.rabbittransit.org/infopoint/gtfs/google_transit.zip",
+            "i": "http://www.rabbittransit.org/AboutUs/DeveloperResources.aspx"
+          }
+        },
+        "id": "rabbit-transit/383/20210131",
+        "size": 1468877,
+        "ts": 1612149566,
+        "url": "https://transitfeeds.com/p/rabbit-transit/383/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20180527"
+        },
+        "f": {
+          "id": "mks-krosno-przyjazdy-pl/1210",
+          "l": {
+            "id": 771,
+            "lat": 49.682476,
+            "lng": 21.766053,
+            "n": "Krosno",
+            "pid": 434,
+            "t": "Krosno, Poland"
+          },
+          "t": "Komunikacja Miejska - Krosno",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://gtfs.pl/gtfs/krosno"
+          }
+        },
+        "id": "mks-krosno-przyjazdy-pl/1210/20210131",
+        "size": 143250,
+        "ts": 1612147946,
+        "url": "https://transitfeeds.com/p/mks-krosno-przyjazdy-pl/1210/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210823",
+          "s": "20200624"
+        },
+        "f": {
+          "id": "idbus/519",
+          "l": {
+            "id": 162,
+            "lat": 48.856614,
+            "lng": 2.352222,
+            "n": "Paris",
+            "pid": 161,
+            "t": "Paris, France"
+          },
+          "t": "iDBUS GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://api.idbus.com/gtfs.zip"
+          }
+        },
+        "id": "idbus/519/20210131",
+        "size": 106305,
+        "ts": 1612147526,
+        "url": "https://transitfeeds.com/p/idbus/519/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220131",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "transport-for-nsw/236",
+          "l": {
+            "id": 114,
+            "lat": -33.867487,
+            "lng": 151.20699,
+            "n": "Sydney",
+            "pid": 113,
+            "t": "Sydney NSW, Australia"
+          },
+          "t": "Sydney Buses GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/236/20210131",
+        "size": 96675595,
+        "ts": 1612144166,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/236/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220128",
+          "s": "20180625"
+        },
+        "f": {
+          "id": "entur/970",
+          "l": {
+            "id": 83,
+            "lat": 60.472024,
+            "lng": 8.468946,
+            "n": "Norway",
+            "pid": 60,
+            "t": "Norway"
+          },
+          "t": "Norway GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://data.norge.no/data/entur/nasjonale-rutedata-norge"
+          }
+        },
+        "id": "entur/970/20210131",
+        "size": 68109058,
+        "ts": 1612143686,
+        "url": "https://transitfeeds.com/p/entur/970/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210730",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "ztz-rybnik/1114",
+          "l": {
+            "id": 719,
+            "lat": 50.102174,
+            "lng": 18.546285,
+            "n": "Rybnik",
+            "pid": 434,
+            "t": "Rybnik, Poland"
+          },
+          "t": "ZTZ Rybnik GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://mkuran.pl/feed/"
+          }
+        },
+        "id": "ztz-rybnik/1114/20210131",
+        "size": 256826,
+        "ts": 1612143207,
+        "url": "https://transitfeeds.com/p/ztz-rybnik/1114/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210327",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "societe-de-transport-de-loutaouais/828",
+          "l": {
+            "id": 596,
+            "lat": 45.476545,
+            "lng": -75.701272,
+            "n": "Gatineau",
+            "pid": 54,
+            "t": "Gatineau, QC, Canada"
+          },
+          "t": "STO GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.contenu.sto.ca/GTFS/GTFS.zip",
+            "i": "http://www.sto.ca/index.php?id=596&L=en"
+          }
+        },
+        "id": "societe-de-transport-de-loutaouais/828/20210131",
+        "size": 4734684,
+        "ts": 1612143206,
+        "url": "https://transitfeeds.com/p/societe-de-transport-de-loutaouais/828/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210327",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "barrie-transit/522",
+          "l": {
+            "id": 379,
+            "lat": 44.389356,
+            "lng": -79.690332,
+            "n": "Barrie",
+            "pid": 46,
+            "t": "Barrie, ON, Canada"
+          },
+          "t": "Barrie Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.myridebarrie.ca/gtfs/Google_transit.zip",
+            "i": "http://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx"
+          }
+        },
+        "id": "barrie-transit/522/20210131",
+        "size": 2065252,
+        "ts": 1612142426,
+        "url": "https://transitfeeds.com/p/barrie-transit/522/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210501",
+          "s": "20210102"
+        },
+        "f": {
+          "id": "virginia-railway-express/250",
+          "l": {
+            "id": 138,
+            "lat": 37.431573,
+            "lng": -78.656894,
+            "n": "Virginia",
+            "pid": 31,
+            "t": "Virginia, USA"
+          },
+          "t": "VRE GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.vre.org/gtfs/google_transit.zip",
+            "i": "http://www.vre.org/programs/developer.html"
+          }
+        },
+        "id": "virginia-railway-express/250/20210131",
+        "size": 21138,
+        "ts": 1612141946,
+        "url": "https://transitfeeds.com/p/virginia-railway-express/250/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210702",
+          "s": "20201202"
+        },
+        "f": {
+          "id": "region-des-pays-de-la-loire/1073",
+          "l": {
+            "id": 441,
+            "lat": 47.218371,
+            "lng": -1.553621,
+            "n": "Nantes",
+            "pid": 161,
+            "t": "Nantes, France"
+          },
+          "t": "Cars SNCF transports à la demande GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://opendatacommons.org/licenses/odbl/"
+          }
+        },
+        "id": "region-des-pays-de-la-loire/1073/20210131",
+        "size": 4138,
+        "ts": 1612141586,
+        "url": "https://transitfeeds.com/p/region-des-pays-de-la-loire/1073/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210213",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "prazska-integrovana-doprava/1106",
+          "l": {
+            "id": 588,
+            "lat": 50.075538,
+            "lng": 14.4378,
+            "n": "Prague",
+            "pid": 587,
+            "t": "Prague, Czechia"
+          },
+          "t": "PID GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://pid.cz/o-systemu/opendata/"
+          }
+        },
+        "id": "prazska-integrovana-doprava/1106/20210131",
+        "size": 20977346,
+        "ts": 1612138766,
+        "url": "https://transitfeeds.com/p/prazska-integrovana-doprava/1106/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210314",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "atp-esercizio-srl/1203",
+          "l": {
+            "id": 677,
+            "lat": 44.40565,
+            "lng": 8.946256,
+            "n": "Genoa",
+            "pid": 78,
+            "t": "Genoa, Metropolitan City of Genoa, Italy"
+          },
+          "t": "ATP Esercizio Srl GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://www.atpesercizio.it"
+          }
+        },
+        "id": "atp-esercizio-srl/1203/20210131",
+        "size": 4023744,
+        "ts": 1612138466,
+        "url": "https://transitfeeds.com/p/atp-esercizio-srl/1203/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20180527"
+        },
+        "f": {
+          "id": "um-przemy-l-mpk-przemy-l-przyjazdy-pl/1207",
+          "l": {
+            "id": 777,
+            "lat": 49.783862,
+            "lng": 22.767791,
+            "n": "Przemyśl",
+            "pid": 434,
+            "t": "Przemyśl, Poland"
+          },
+          "t": "Komunikacja Miejska - Przemyśl",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://gtfs.pl/gtfs/przemysl"
+          }
+        },
+        "id": "um-przemy-l-mpk-przemy-l-przyjazdy-pl/1207/20210131",
+        "size": 169981,
+        "ts": 1612137926,
+        "url": "https://transitfeeds.com/p/um-przemy-l-mpk-przemy-l-przyjazdy-pl/1207/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210415",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "vlaamse-vervoersmaatschappij-de-lijn/530",
+          "l": {
+            "id": 385,
+            "lat": 51.033855,
+            "lng": 4.190475,
+            "n": "Flanders",
+            "pid": 382,
+            "t": "Flanders, Belgium"
+          },
+          "t": "De Lijn GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://gtfs.irail.be/de-lijn/de_lijn-gtfs.zip"
+          }
+        },
+        "id": "vlaamse-vervoersmaatschappij-de-lijn/530/20210131",
+        "size": 58485306,
+        "ts": 1612137806,
+        "url": "https://transitfeeds.com/p/vlaamse-vervoersmaatschappij-de-lijn/530/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20210111"
+        },
+        "f": {
+          "id": "christchurch-metro/41",
+          "l": {
+            "id": 59,
+            "lat": -43.532054,
+            "lng": 172.636225,
+            "n": "Christchurch",
+            "pid": 28,
+            "t": "Christchurch, New Zealand"
+          },
+          "t": "Metro GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://rtt.metroinfo.org.nz/rtt/public/utility/gtfs.aspx"
+          }
+        },
+        "id": "christchurch-metro/41/20210131",
+        "size": 3575813,
+        "ts": 1612135646,
+        "url": "https://transitfeeds.com/p/christchurch-metro/41/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210228",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "euskotren/655",
+          "l": {
+            "id": 484,
+            "lat": 43.263013,
+            "lng": -2.934985,
+            "n": "Bilbao",
+            "pid": 166,
+            "t": "Bilbao, Biscay, Spain"
+          },
+          "t": "Euskotren GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/Euskotren/google_transit.zip"
+          }
+        },
+        "id": "euskotren/655/20210131",
+        "size": 2253480,
+        "ts": 1612130006,
+        "url": "https://transitfeeds.com/p/euskotren/655/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220125",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "transportes-sul-do-tejo/999",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Transportes Sul do Tejo GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/11/gtfs_11.zip",
+            "i": "http://dadosabertos.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-transportes-sul-do-tejo"
+          }
+        },
+        "id": "transportes-sul-do-tejo/999/20210131",
+        "size": 1124436,
+        "ts": 1612129406,
+        "url": "https://transitfeeds.com/p/transportes-sul-do-tejo/999/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210302",
+          "s": "20210201"
+        },
+        "f": {
+          "id": "transport-for-nsw/305",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "Sydney Trains GTFS",
+          "ty": "gtfs",
+          "u": []
+        },
+        "id": "transport-for-nsw/305/20210131",
+        "size": 9583763,
+        "ts": 1612129166,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/305/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210109",
+          "s": "20100227"
+        },
+        "f": {
+          "id": "saint-petersburg/826",
+          "l": {
+            "id": 594,
+            "lat": 59.93428,
+            "lng": 30.335099,
+            "n": "Saint Petersburg",
+            "pid": 593,
+            "t": "St Petersburg, Russia"
+          },
+          "t": "Saint Petersburg GTFS",
+          "ty": "gtfs",
+          "u": []
+        },
+        "id": "saint-petersburg/826/20210131",
+        "size": 27567565,
+        "ts": 1612128686,
+        "url": "https://transitfeeds.com/p/saint-petersburg/826/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220109",
+          "s": "20201221"
+        },
+        "f": {
+          "id": "region-des-pays-de-la-loire/1070",
+          "l": {
+            "id": 441,
+            "lat": 47.218371,
+            "lng": -1.553621,
+            "n": "Nantes",
+            "pid": 161,
+            "t": "Nantes, France"
+          },
+          "t": "Île d'Yeu GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://opendatacommons.org/licenses/odbl/"
+          }
+        },
+        "id": "region-des-pays-de-la-loire/1070/20210131",
+        "size": 15862,
+        "ts": 1612126178,
+        "url": "https://transitfeeds.com/p/region-des-pays-de-la-loire/1070/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210430",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "ztm-warszawa/720",
+          "l": {
+            "id": 518,
+            "lat": 52.229676,
+            "lng": 21.012229,
+            "n": "Warsaw",
+            "pid": 434,
+            "t": "Warsaw, Poland"
+          },
+          "t": "ZTM Warszawa GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://mkuran.pl/feed/ztm/ztm-latest.zip",
+            "i": "https://mkuran.pl/feed/"
+          }
+        },
+        "id": "ztm-warszawa/720/20210131",
+        "size": 49066304,
+        "ts": 1612126166,
+        "url": "https://transitfeeds.com/p/ztm-warszawa/720/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210228",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "metro-bilbao/656",
+          "l": {
+            "id": 484,
+            "lat": 43.263013,
+            "lng": -2.934985,
+            "n": "Bilbao",
+            "pid": 166,
+            "t": "Bilbao, Biscay, Spain"
+          },
+          "t": "Metro Bilbao",
+          "ty": "gtfs",
+          "u": {
+            "d": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/MetroBilbao/google_transit.zip"
+          }
+        },
+        "id": "metro-bilbao/656/20210131",
+        "size": 735426,
+        "ts": 1612122746,
+        "url": "https://transitfeeds.com/p/metro-bilbao/656/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210512",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "transport-for-nsw/1059",
+          "l": {
+            "id": 113,
+            "lat": -31.253218,
+            "lng": 146.921099,
+            "n": "New South Wales",
+            "pid": 2,
+            "t": "New South Wales, Australia"
+          },
+          "t": "NSW Trains GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://opendata.transport.nsw.gov.au/dataset/public-transport-timetables-realtime"
+          }
+        },
+        "id": "transport-for-nsw/1059/20210131",
+        "size": 15856814,
+        "ts": 1612122326,
+        "url": "https://transitfeeds.com/p/transport-for-nsw/1059/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210715",
+          "s": "20200101"
+        },
+        "f": {
+          "id": "empresa-malaguena-de-transportes/874",
+          "l": {
+            "id": 615,
+            "lat": 37.544271,
+            "lng": -4.727753,
+            "n": "Andalusia",
+            "pid": 166,
+            "t": "Andalusia, Spain"
+          },
+          "t": "EMT GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://datosabiertos.malaga.eu/recursos/transporte/EMT/lineasYHorarios/google_transit_txt.zip",
+            "i": "http://datosabiertos.malaga.eu/dataset/lineas-y-horarios-bus-google-transit"
+          }
+        },
+        "id": "empresa-malaguena-de-transportes/874/20210131",
+        "size": 2032106,
+        "ts": 1612122206,
+        "url": "https://transitfeeds.com/p/empresa-malaguena-de-transportes/874/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210211",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "praha/801",
+          "l": {
+            "id": 588,
+            "lat": 50.075538,
+            "lng": 14.4378,
+            "n": "Prague",
+            "pid": 587,
+            "t": "Prague, Czechia"
+          },
+          "t": "Praha GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opendata.iprpraha.cz/DPP/JR/jrdata.zip",
+            "i": "http://opendata.praha.eu/dataset/dpp-jizdni-rady"
+          }
+        },
+        "id": "praha/801/20210131",
+        "size": 16273201,
+        "ts": 1612121006,
+        "url": "https://transitfeeds.com/p/praha/801/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20200823"
+        },
+        "f": {
+          "id": "arlington-transit/149",
+          "l": {
+            "id": 139,
+            "lat": 38.87997,
+            "lng": -77.10677,
+            "n": "Arlington",
+            "pid": 138,
+            "t": "Arlington, VA, USA"
+          },
+          "t": "ART GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+            "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+          }
+        },
+        "id": "arlington-transit/149/20210131",
+        "size": 432510,
+        "ts": 1612120407,
+        "url": "https://transitfeeds.com/p/arlington-transit/149/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210301",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "bkk/42",
+          "l": {
+            "id": 62,
+            "lat": 47.497912,
+            "lng": 19.040235,
+            "n": "Budapest",
+            "pid": 617,
+            "t": "Budapest, Hungary"
+          },
+          "t": "BKK GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.bkk.hu/gtfs/budapest_gtfs.zip"
+          }
+        },
+        "id": "bkk/42/20210131",
+        "size": 34309462,
+        "ts": 1612118366,
+        "url": "https://transitfeeds.com/p/bkk/42/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20301214",
+          "s": "20140426"
+        },
+        "f": {
+          "id": "transtejo/1006",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Transtejo GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/4/gtfs_4.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-transtejo"
+          }
+        },
+        "id": "transtejo/1006/20210131",
+        "size": 36065,
+        "ts": 1612116806,
+        "url": "https://transitfeeds.com/p/transtejo/1006/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210313",
+          "s": "20210115"
+        },
+        "f": {
+          "id": "szybka-kolej-miejska-w-warszawie/790",
+          "l": {
+            "id": 518,
+            "lat": 52.229676,
+            "lng": 21.012229,
+            "n": "Warsaw",
+            "pid": 434,
+            "t": "Warsaw, Poland"
+          },
+          "t": "Szybka Kolej Miejska w Warszawie",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://przyjazdy.pl/latest/skmt.zip"
+          }
+        },
+        "id": "szybka-kolej-miejska-w-warszawie/790/20210131",
+        "size": 15640426,
+        "ts": 1612116266,
+        "url": "https://transitfeeds.com/p/szybka-kolej-miejska-w-warszawie/790/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20210125"
+        },
+        "f": {
+          "id": "societe-nationale-des-chemins-de-fer-belges/528",
+          "l": {
+            "id": 382,
+            "lat": 50.503887,
+            "lng": 4.469936,
+            "n": "Belgium",
+            "pid": 60,
+            "t": "Belgium"
+          },
+          "t": "NMBS-SNCB GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://gtfs.irail.be/nmbs/gtfs/latest.zip"
+          }
+        },
+        "id": "societe-nationale-des-chemins-de-fer-belges/528/20210131",
+        "size": 5586828,
+        "ts": 1612114766,
+        "url": "https://transitfeeds.com/p/societe-nationale-des-chemins-de-fer-belges/528/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20330927",
+          "s": "20130401"
+        },
+        "f": {
+          "id": "yamanashi/813",
+          "l": {
+            "id": 592,
+            "lat": 35.664158,
+            "lng": 138.568449,
+            "n": "Yamanashi Prefecture",
+            "pid": 256,
+            "t": "Yamanashi Prefecture, Japan"
+          },
+          "t": "Yamanashi GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://opendata.busmaps.jp/yamanashi.zip"
+          }
+        },
+        "id": "yamanashi/813/20210131",
+        "size": 2105190,
+        "ts": 1612110568,
+        "url": "https://transitfeeds.com/p/yamanashi/813/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210828",
+          "s": "20210125"
+        },
+        "f": {
+          "id": "mta/87",
+          "l": {
+            "id": 91,
+            "lat": 40.714353,
+            "lng": -74.005973,
+            "n": "New York",
+            "pid": 84,
+            "t": "New York, NY, USA"
+          },
+          "t": "Metro-North Railroad GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+            "i": "http://mta.info/developers/download.html"
+          }
+        },
+        "id": "mta/87/20210131",
+        "size": 979409,
+        "ts": 1612110567,
+        "url": "https://transitfeeds.com/p/mta/87/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20201219"
+        },
+        "f": {
+          "id": "pasadena-transit/1053",
+          "l": {
+            "id": 697,
+            "lat": 34.147785,
+            "lng": -118.144515,
+            "n": "Pasadena",
+            "pid": 67,
+            "t": "Pasadena, CA, USA"
+          },
+          "t": "Pasadena Transit GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://data-csslce.opendata.arcgis.com/datasets/32f42d5ce7024cff97efb70385e31615"
+          }
+        },
+        "id": "pasadena-transit/1053/20210131",
+        "size": 226158,
+        "ts": 1612109066,
+        "url": "https://transitfeeds.com/p/pasadena-transit/1053/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211231",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "carris/1000",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Carris GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/1/gtfs_1.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-carris"
+          }
+        },
+        "id": "carris/1000/20210131",
+        "size": 4932919,
+        "ts": 1612108586,
+        "url": "https://transitfeeds.com/p/carris/1000/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20211211",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "comboios-de-portugal/1004",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "Comboios de Portugal GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/3/gtfs_3.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-cp-comboios-de-portugal"
+          }
+        },
+        "id": "comboios-de-portugal/1004/20210131",
+        "size": 68789,
+        "ts": 1612107806,
+        "url": "https://transitfeeds.com/p/comboios-de-portugal/1004/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20220125",
+          "s": "20191005"
+        },
+        "f": {
+          "id": "sulfertagus/1005",
+          "l": {
+            "id": 671,
+            "lat": 38.722252,
+            "lng": -9.139337,
+            "n": "Lisbon",
+            "pid": 670,
+            "t": "Lisbon, Portugal"
+          },
+          "t": "SulFertagus GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "https://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/21/gtfs_21.zip",
+            "i": "http://dados.cm-lisboa.pt/dataset/informacao-sobre-transportes-publicos-da-cidade-de-lisboa-sul-fertagus"
+          }
+        },
+        "id": "sulfertagus/1005/20210131",
+        "size": 82692,
+        "ts": 1612105886,
+        "url": "https://transitfeeds.com/p/sulfertagus/1005/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210316",
+          "s": "20210130"
+        },
+        "f": {
+          "id": "ministry-of-transport-and-road-safety/820",
+          "l": {
+            "id": 529,
+            "lat": 31.046051,
+            "lng": 34.851612,
+            "n": "Israel",
+            "pid": 255,
+            "t": "Israel"
+          },
+          "t": "Israel GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://www.callkav.gov.il"
+          }
+        },
+        "id": "ministry-of-transport-and-road-safety/820/20210131",
+        "size": 117400824,
+        "ts": 1612105526,
+        "url": "https://transitfeeds.com/p/ministry-of-transport-and-road-safety/820/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210731",
+          "s": "20210131"
+        },
+        "f": {
+          "id": "valsts-sia-autotransporta-direkcija/1227",
+          "l": {
+            "id": 236,
+            "lat": 56.949649,
+            "lng": 24.105186,
+            "n": "Rīga",
+            "pid": 235,
+            "t": "Rīga, Latvia"
+          },
+          "t": "ATD GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "https://data.gov.lv/dati/eng/dataset/atd-gtfs"
+          }
+        },
+        "id": "valsts-sia-autotransporta-direkcija/1227/20210131",
+        "size": 22471296,
+        "ts": 1612100006,
+        "url": "https://transitfeeds.com/p/valsts-sia-autotransporta-direkcija/1227/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20221231",
+          "s": "20090617"
+        },
+        "f": {
+          "id": "amb-mobilitat/994",
+          "l": {
+            "id": 669,
+            "lat": 41.385064,
+            "lng": 2.173404,
+            "n": "Barcelona",
+            "pid": 166,
+            "t": "Barcelona, Spain"
+          },
+          "t": "AMB Mobilitat GTFS",
+          "ty": "gtfs",
+          "u": {
+            "d": "http://www.ambmobilitat.cat/OpenData/google_transit.zip",
+            "i": "http://www.amb.cat/es/web/area-metropolitana/dades-obertes/cataleg/detall/-/dataset/informacion-de-companias--lineas-y-recorridos/1033377/11692"
+          }
+        },
+        "id": "amb-mobilitat/994/20210131",
+        "size": 5683064,
+        "ts": 1612098569,
+        "url": "https://transitfeeds.com/p/amb-mobilitat/994/20210131/download"
+      },
+      {
+        "d": {
+          "f": "20210313",
+          "s": "20210115"
+        },
+        "f": {
+          "id": "pkp-szybka-kolej-miejska-w-trojmie-cie/1116",
+          "l": {
+            "id": 721,
+            "lat": 54.391958,
+            "lng": 18.540666,
+            "n": "Tricity, Poland",
+            "pid": 434,
+            "t": "Tricity, Poland, Poland"
+          },
+          "t": "SKM GTFS",
+          "ty": "gtfs",
+          "u": {
+            "i": "http://przyjazdy.pl/gtfs"
+          }
+        },
+        "id": "pkp-szybka-kolej-miejska-w-trojmie-cie/1116/20210131",
+        "size": 15640426,
+        "ts": 1612098566,
+        "url": "https://transitfeeds.com/p/pkp-szybka-kolej-miejska-w-trojmie-cie/1116/20210131/download"
+      }
+    ]
+  },
+  "status": "OK",
+  "ts": 1617078113
+}

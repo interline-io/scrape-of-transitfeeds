@@ -1,0 +1,1802 @@
+{
+  "results": {
+    "feeds": [
+      {
+        "id": "trimet/192",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "t": "TriMet Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "trimet/191",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "t": "TriMet Developer Portal",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "trimet/190",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "t": "TriMet Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://developer.trimet.org/GTFS.shtml"
+        }
+      },
+      {
+        "id": "trimet/189",
+        "l": {
+          "id": 64,
+          "lat": 45.523452,
+          "lng": -122.676207,
+          "n": "Portland",
+          "pid": 63,
+          "t": "Portland, OR, USA"
+        },
+        "t": "TriMet Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "http://developer.trimet.org/GTFS.shtml"
+        }
+      },
+      {
+        "id": "rtd-denver/188",
+        "l": {
+          "id": 108,
+          "lat": 39.737567,
+          "lng": -104.984718,
+          "n": "Denver",
+          "pid": 107,
+          "t": "Denver, CO, USA"
+        },
+        "latest": {
+          "ts": 1616913626
+        },
+        "t": "RTD Denver GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://rtd-denver.com/files/gtfs/google_transit.zip",
+          "i": "https://www.rtd-denver.com/business-center/open-data/gtfs-developer-guide"
+        }
+      },
+      {
+        "id": "winnipeg-transit/187",
+        "l": {
+          "id": 34,
+          "lat": 49.899754,
+          "lng": -97.137494,
+          "n": "Winnipeg",
+          "pid": 33,
+          "t": "Winnipeg, MB, Canada"
+        },
+        "t": "Winnipeg Transit Alerts",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "winnipeg-transit/186",
+        "l": {
+          "id": 34,
+          "lat": 49.899754,
+          "lng": -97.137494,
+          "n": "Winnipeg",
+          "pid": 33,
+          "t": "Winnipeg, MB, Canada"
+        },
+        "t": "Winnipeg Transit Open Data Web Service",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "metlink/185",
+        "l": {
+          "id": 29,
+          "lat": -41.28646,
+          "lng": 174.776236,
+          "n": "Wellington",
+          "pid": 28,
+          "t": "Wellington, New Zealand"
+        },
+        "t": "Metlink Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "la-metro/184",
+        "l": {
+          "id": 154,
+          "lat": 34.052234,
+          "lng": -118.243685,
+          "n": "Los Angeles",
+          "pid": 67,
+          "t": "Los Angeles, CA, USA"
+        },
+        "latest": {
+          "ts": 1607859806
+        },
+        "t": "LA Metro Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip",
+          "i": "http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/"
+        }
+      },
+      {
+        "id": "la-metro/183",
+        "l": {
+          "id": 154,
+          "lat": 34.052234,
+          "lng": -118.243685,
+          "n": "Los Angeles",
+          "pid": 67,
+          "t": "Los Angeles, CA, USA"
+        },
+        "t": "Metro Developers",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "milwaukee-county-transit-system/182",
+        "l": {
+          "id": 153,
+          "lat": 43.038902,
+          "lng": -87.906474,
+          "n": "Milwaukee",
+          "pid": 151,
+          "t": "Milwaukee, WI, USA"
+        },
+        "latest": {
+          "ts": 1616755949
+        },
+        "t": "MCTS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://kamino.mcts.org/gtfs/google_transit.zip",
+          "i": "http://kamino.mcts.org/gtfs/"
+        }
+      },
+      {
+        "id": "metro-transit-madison/181",
+        "l": {
+          "id": 152,
+          "lat": 43.073052,
+          "lng": -89.40123,
+          "n": "Madison",
+          "pid": 151,
+          "t": "Madison, WI, USA"
+        },
+        "latest": {
+          "ts": 1611747086
+        },
+        "t": "Metro Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip",
+          "i": "http://www.cityofmadison.com/metro/Apps/developers.cfm"
+        }
+      },
+      {
+        "id": "metro-transit-madison/180",
+        "l": {
+          "id": 152,
+          "lat": 43.073052,
+          "lng": -89.40123,
+          "n": "Madison",
+          "pid": 151,
+          "t": "Madison, WI, USA"
+        },
+        "t": "Metro Transit App Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "metro-transit/179",
+        "l": {
+          "id": 150,
+          "lat": 44.983334,
+          "lng": -93.26667,
+          "n": "Minneapolis",
+          "pid": 148,
+          "t": "Minneapolis, MN, USA"
+        },
+        "latest": {
+          "ts": 1616837487
+        },
+        "t": "Metro Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://svc.metrotransit.org/mtgtfs/gtfs.zip",
+          "i": "https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-schedule-google-fd"
+        }
+      },
+      {
+        "id": "metro-transit/178",
+        "l": {
+          "id": 150,
+          "lat": 44.983334,
+          "lng": -93.26667,
+          "n": "Minneapolis",
+          "pid": 148,
+          "t": "Minneapolis, MN, USA"
+        },
+        "t": "Metro Transit Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "minnesota-valley-transit-authority/177",
+        "l": {
+          "id": 150,
+          "lat": 44.983334,
+          "lng": -93.26667,
+          "n": "Minneapolis",
+          "pid": 148,
+          "t": "Minneapolis, MN, USA"
+        },
+        "latest": {
+          "ts": 1616453009
+        },
+        "t": "MVTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://wiki.mvta.com/files/Home/google_transit.zip",
+          "i": "http://wiki.mvta.com/"
+        }
+      },
+      {
+        "id": "duluth-transit/176",
+        "l": {
+          "id": 149,
+          "lat": 46.786672,
+          "lng": -92.100485,
+          "n": "Duluth",
+          "pid": 148,
+          "t": "Duluth, MN, USA"
+        },
+        "t": "Duluth Transit News",
+        "ty": "rss",
+        "u": []
+      },
+      {
+        "id": "duluth-transit/175",
+        "l": {
+          "id": 149,
+          "lat": 46.786672,
+          "lng": -92.100485,
+          "n": "Duluth",
+          "pid": 148,
+          "t": "Duluth, MN, USA"
+        },
+        "t": "Duluth Transit Detours & Service Changes",
+        "ty": "rss",
+        "u": []
+      },
+      {
+        "id": "duluth-transit/174",
+        "l": {
+          "id": 149,
+          "lat": 46.786672,
+          "lng": -92.100485,
+          "n": "Duluth",
+          "pid": 148,
+          "t": "Duluth, MN, USA"
+        },
+        "latest": {
+          "ts": 1615835248
+        },
+        "t": "Duluth Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://duluthtransit.com/gtf/google_transit.zip",
+          "i": "http://dev.duluthtransit.com/gtfs"
+        }
+      },
+      {
+        "id": "duluth-transit/173",
+        "l": {
+          "id": 149,
+          "lat": 46.786672,
+          "lng": -92.100485,
+          "n": "Duluth",
+          "pid": 148,
+          "t": "Duluth, MN, USA"
+        },
+        "t": "Duluth Transit Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "pace/172",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "t": "Pace Suburban Bus Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "pace/171",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "latest": {
+          "ts": 1615827747
+        },
+        "t": "Pace Bus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.pacebus.com/gtfs/gtfs.zip",
+          "i": "http://www.pacebus.com/sub/about/data_services.asp"
+        }
+      },
+      {
+        "id": "metra/170",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "t": "Metra Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "metra/169",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "latest": {
+          "ts": 1616688026
+        },
+        "t": "Metra GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://gtfsapi.metrarail.com/gtfs/raw/schedule.zip",
+          "i": "https://metrarail.com/developers"
+        }
+      },
+      {
+        "id": "chicago-transit-authority/168",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "t": "CTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "chicago-transit-authority/167",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "t": "CTA App Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "chicago-transit-authority/166",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "t": "CTA Developer Center",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "chicago-transit-authority/165",
+        "l": {
+          "id": 146,
+          "lat": 41.878114,
+          "lng": -87.629798,
+          "n": "Chicago",
+          "pid": 145,
+          "t": "Chicago, IL, USA"
+        },
+        "latest": {
+          "ts": 1616757207
+        },
+        "t": "CTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.transitchicago.com/downloads/sch_data/google_transit.zip",
+          "i": "http://www.transitchicago.com/developers/gtfs.aspx"
+        }
+      },
+      {
+        "id": "champaign-urbana-mass-transit-district/164",
+        "l": {
+          "id": 147,
+          "lat": 40.11642,
+          "lng": -88.243383,
+          "n": "Champaign",
+          "pid": 145,
+          "t": "Champaign, IL, USA"
+        },
+        "t": "Champaign-Urbana MTD Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "champaign-urbana-mass-transit-district/163",
+        "l": {
+          "id": 147,
+          "lat": 40.11642,
+          "lng": -88.243383,
+          "n": "Champaign",
+          "pid": 145,
+          "t": "Champaign, IL, USA"
+        },
+        "t": "Champaign-Urbana MTD App Garage",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "champaign-urbana-mass-transit-district/162",
+        "l": {
+          "id": 147,
+          "lat": 40.11642,
+          "lng": -88.243383,
+          "n": "Champaign",
+          "pid": 145,
+          "t": "Champaign, IL, USA"
+        },
+        "latest": {
+          "ts": 1611123867
+        },
+        "t": "Champaign-Urbana MTD GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://developer.cumtd.com/gtfs/google_transit.zip",
+          "i": "http://developer.cumtd.com/"
+        }
+      },
+      {
+        "id": "sacramento-regional-transit/161",
+        "l": {
+          "id": 96,
+          "lat": 38.581572,
+          "lng": -121.4944,
+          "n": "Sacramento",
+          "pid": 67,
+          "t": "Sacramento, CA, USA"
+        },
+        "latest": {
+          "ts": 1611929846
+        },
+        "t": "Yolobus GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.yolobus.com/GTFS/google_transit.zip"
+        }
+      },
+      {
+        "id": "york-regional-transit/160",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "t": "YRT/Viva Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://rtu.york.ca/gtfsrealtime/VehiclePositions",
+          "i": "http://www.yrt.ca/en/aboutus/gtfsdownload.asp"
+        }
+      },
+      {
+        "id": "york-regional-transit/159",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "t": "YRT/Viva Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://rtu.york.ca/gtfsrealtime/TripUpdates",
+          "i": "http://www.yrt.ca/en/aboutus/gtfsdownload.asp"
+        }
+      },
+      {
+        "id": "york-regional-transit/158",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "t": "YRT/Viva App Centre",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "york-regional-transit/157",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "t": "YRT/Viva Developer Centre",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "york-regional-transit/156",
+        "l": {
+          "id": 50,
+          "lat": 43.695679,
+          "lng": -79.450354,
+          "n": "York",
+          "pid": 46,
+          "t": "York, Toronto, ON, Canada"
+        },
+        "t": "YRT/Viva Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "yosemite-area-regional-transportation-system/155",
+        "l": {
+          "id": 144,
+          "lat": 37.74557,
+          "lng": -119.593604,
+          "n": "Yosemite Valley",
+          "pid": 67,
+          "t": "Yosemite Valley, CA, USA"
+        },
+        "latest": {
+          "ts": 1616141430
+        },
+        "t": "YARTS GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip"
+        }
+      },
+      {
+        "id": "yuba-sutter-transit/154",
+        "l": {
+          "id": 143,
+          "lat": 39.140448,
+          "lng": -121.616911,
+          "n": "Yuba City",
+          "pid": 67,
+          "t": "Yuba City, CA, USA"
+        },
+        "latest": {
+          "ts": 1608387086
+        },
+        "t": "Yuba-Sutter Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/yubasutter-ca-us/yubasutter-ca-us.zip"
+        }
+      },
+      {
+        "id": "yakima-transit/153",
+        "l": {
+          "id": 142,
+          "lat": 46.602071,
+          "lng": -120.505899,
+          "n": "Yakima",
+          "pid": 65,
+          "t": "Yakima, WA, USA"
+        },
+        "latest": {
+          "ts": 1539234326
+        },
+        "t": "Yakima Transit",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://mjcaction.com/MJC_GTFS_Public/yakima_google_transit.zip"
+        }
+      },
+      {
+        "id": "asheville-transit-service/152",
+        "l": {
+          "id": 141,
+          "lat": 35.595058,
+          "lng": -82.551487,
+          "n": "Asheville",
+          "pid": 140,
+          "t": "Asheville, NC, USA"
+        },
+        "latest": {
+          "ts": 1611273146
+        },
+        "t": "Asheville Transit Service GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.trilliumtransit.com/transit_feeds/asheville-nc-us/asheville-nc-us.zip",
+          "i": "http://opendatacatalog.ashevillenc.gov/opendata/resource/26/google-transit-for-asheville/"
+        }
+      },
+      {
+        "id": "arlington-transit/151",
+        "l": {
+          "id": 139,
+          "lat": 38.87997,
+          "lng": -77.10677,
+          "n": "Arlington",
+          "pid": 138,
+          "t": "Arlington, VA, USA"
+        },
+        "t": "ART Alerts",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "arlington-transit/150",
+        "l": {
+          "id": 139,
+          "lat": 38.87997,
+          "lng": -77.10677,
+          "n": "Arlington",
+          "pid": 138,
+          "t": "Arlington, VA, USA"
+        },
+        "t": "ART Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+          "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+        }
+      },
+      {
+        "id": "arlington-transit/149",
+        "l": {
+          "id": 139,
+          "lat": 38.87997,
+          "lng": -77.10677,
+          "n": "Arlington",
+          "pid": 138,
+          "t": "Arlington, VA, USA"
+        },
+        "latest": {
+          "ts": 1617072207
+        },
+        "t": "ART GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx",
+          "i": "http://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/"
+        }
+      },
+      {
+        "id": "arcata-mad-river-transit-system/148",
+        "l": {
+          "id": 137,
+          "lat": 40.745005,
+          "lng": -123.869509,
+          "n": "Humboldt County",
+          "pid": 67,
+          "t": "Humboldt County, CA, USA"
+        },
+        "latest": {
+          "ts": 1615829733
+        },
+        "t": "Humboldt County GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/humboldtcounty-ca-us/humboldtcounty-ca-us.zip"
+        }
+      },
+      {
+        "id": "ann-arbor-transportation-authority/147",
+        "l": {
+          "id": 136,
+          "lat": 42.280826,
+          "lng": -83.743038,
+          "n": "Ann Arbor",
+          "pid": 135,
+          "t": "Ann Arbor, MI, USA"
+        },
+        "latest": {
+          "ts": 1587077127
+        },
+        "t": "TheRide GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.theride.org/google/google_transit.zip",
+          "i": "http://www.theride.org/aboutus/for-developers/developer-files"
+        }
+      },
+      {
+        "id": "allegany-county-transit/146",
+        "l": {
+          "id": 134,
+          "lat": 39.625525,
+          "lng": -78.6115,
+          "n": "Allegany",
+          "pid": 133,
+          "t": "Allegany, MD, USA"
+        },
+        "latest": {
+          "ts": 1572046046
+        },
+        "t": "Allegany County Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Allegany_GTFS.zip",
+          "i": "https://github.com/mobilityequity/maryland-local-gtfs"
+        }
+      },
+      {
+        "id": "samtrans/145",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "t": "SamTrans Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "samtrans/144",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1611904887
+        },
+        "t": "SamTrans GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.samtrans.com/Developer.html"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/143",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615825530
+        },
+        "t": "Ville de Sainte-Julie GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/omitsju/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/142",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1611346406
+        },
+        "t": "MRC les Moulins GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/mrclm/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/141",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1543357408
+        },
+        "t": "MRC de Deux-Montagnes GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/mrc2m/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/140",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615824566
+        },
+        "t": "MRC de L'Assomption GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/mrclasso/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/139",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615825950
+        },
+        "t": "CIT Vallée-du-Richelieu GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citvr/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/138",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1611357806
+        },
+        "t": "CIT Sud-ouest GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citso/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/137",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1613624683
+        },
+        "t": "CIT Sorel-Varennes GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citsv/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/136",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615831948
+        },
+        "t": "CIT Roussillon GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citrous/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/135",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615833206
+        },
+        "t": "CIT Le Richelain GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citlr/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/134",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1543346426
+        },
+        "t": "CRT Lanaudière GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/crtl/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/133",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1607700326
+        },
+        "t": "CIT La Presqu'île GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citpi/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/132",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616686408
+        },
+        "t": "CIT des Laurentides GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://exo.quebec/xdata/citla/google_transit.zip",
+          "i": "https://exo.quebec/fr/a-propos/donnees-ouvertes"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/131",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1616217086
+        },
+        "t": "CIT du Haut-Saint-Laurent GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/cithsl/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/130",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1615826909
+        },
+        "t": "CIT Chambly-Richelieu-Carignan GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/citcrc/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/129",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1498183467
+        },
+        "t": "AMT Express GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/express/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/128",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "latest": {
+          "ts": 1613625556
+        },
+        "t": "AMT Trains GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.amt.qc.ca/xdata/trains/google_transit.zip",
+          "i": "http://amt.qc.ca/developers/"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/127",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "t": "AMT Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://exo.quebec/en/about/open-data"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/126",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "t": "AMT Alerts",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://exo.quebec/en/about/open-data"
+        }
+      },
+      {
+        "id": "agence-metropolitaine-de-transport/125",
+        "l": {
+          "id": 56,
+          "lat": 45.50867,
+          "lng": -73.553992,
+          "n": "Montreal",
+          "pid": 54,
+          "t": "Montreal, QC, Canada"
+        },
+        "t": "AMT Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "i": "https://exo.quebec/en/about/open-data"
+        }
+      },
+      {
+        "id": "auckland-transport/124",
+        "l": {
+          "id": 132,
+          "lat": -36.84846,
+          "lng": 174.763331,
+          "n": "Auckland",
+          "pid": 28,
+          "t": "Auckland, New Zealand"
+        },
+        "latest": {
+          "ts": 1616678006
+        },
+        "t": "Auckland Transport GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://cdn01.at.govt.nz/data/gtfs.zip",
+          "i": "https://api.at.govt.nz"
+        }
+      },
+      {
+        "id": "caltrain/123",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "t": "Caltrain News",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "caltrain/122",
+        "l": {
+          "id": 68,
+          "lat": 37.774929,
+          "lng": -122.419415,
+          "n": "San Francisco",
+          "pid": 67,
+          "t": "San Francisco, CA, USA"
+        },
+        "latest": {
+          "ts": 1616446406
+        },
+        "t": "Caltrain GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/caltrain-ca-us/caltrain-ca-us.zip",
+          "i": "http://www.caltrain.com/developer/Developer_License_Agreement_and_Privacy_Policy.html"
+        }
+      },
+      {
+        "id": "ac-transit/121",
+        "l": {
+          "id": 69,
+          "lat": 37.804364,
+          "lng": -122.271114,
+          "n": "Oakland",
+          "pid": 67,
+          "t": "Oakland, CA, USA"
+        },
+        "latest": {
+          "ts": 1565350406
+        },
+        "t": "AC Transit GTFS",
+        "ty": "gtfs",
+        "u": {
+          "i": "http://www.actransit.org/planning-focus/data-resource-center/"
+        }
+      },
+      {
+        "id": "marta/120",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "t": "MARTA Alerts",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "marta/119",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "t": "MARTA Vehicle Positions",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://onebusaway.gatech.edu:8080/vehicle-positions",
+          "i": "http://www.itsmarta.com/app-developer-resources.aspx"
+        }
+      },
+      {
+        "id": "marta/118",
+        "l": {
+          "id": 95,
+          "lat": 33.748995,
+          "lng": -84.387982,
+          "n": "Atlanta",
+          "pid": 94,
+          "t": "Atlanta, GA, USA"
+        },
+        "t": "MARTA Trip Updates",
+        "ty": "gtfsrealtime",
+        "u": {
+          "d": "http://onebusaway.gatech.edu:8080/trip-updates",
+          "i": "http://www.itsmarta.com/app-developer-resources.aspx"
+        }
+      },
+      {
+        "id": "mbta/117",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Twitter",
+        "ty": "twitter",
+        "u": []
+      },
+      {
+        "id": "mbta/116",
+        "l": {
+          "id": 93,
+          "lat": 42.358431,
+          "lng": -71.059773,
+          "n": "Boston",
+          "pid": 92,
+          "t": "Boston, MA, USA"
+        },
+        "t": "MBTA Developer Group",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "massdot/115",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1611741686
+        },
+        "t": "Yankee Line GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/yankeeline-ma-us/yankeeline-ma-us.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/114",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1608873206
+        },
+        "t": "Plymouth & Brockton Street Railway Co GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/plymouthbrockton-ma-us/plymouthbrockton-ma-us.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/113",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1613625457
+        },
+        "t": "Peter Pan GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/peterpan-ma-us/peterpan-ma-us.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/112",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1611754826
+        },
+        "t": "DATTCO Motorcoach GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/dattco-ma-us/dattco-ma-us.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/111",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1435281984
+        },
+        "t": "Coach Bus Lines GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.mass.gov/doc/coach-bus-lines-zip-file-6242015/download",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/110",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1435276801
+        },
+        "t": "Bloom Tours GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.mass.gov/doc/bloom-tours-zip-file-6242015/download",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/109",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1383138014
+        },
+        "t": "Massachusetts Ferry Service GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.massdot.state.ma.us/Portals/0/docs/developers/ferries_google_transit.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers#massachusetts-ferry-service-"
+        }
+      },
+      {
+        "id": "massdot/108",
+        "l": {
+          "id": 131,
+          "lat": 42.262593,
+          "lng": -71.802293,
+          "n": "Worcester",
+          "pid": 92,
+          "t": "Worcester, MA, USA"
+        },
+        "latest": {
+          "ts": 1607758886
+        },
+        "t": "WRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/wrta-ma-us/wrta-ma-us.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/107",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1616844266
+        },
+        "t": "VTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/106",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1615825951
+        },
+        "t": "SRTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/105",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "t": "massDOT Developer Data",
+        "ty": "url",
+        "u": []
+      },
+      {
+        "id": "massdot/104",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1615839327
+        },
+        "t": "PVTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://www.pvta.com/g_trans/google_transit.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/103",
+        "l": {
+          "id": 128,
+          "lat": 41.28347,
+          "lng": -70.099451,
+          "n": "Nantucket",
+          "pid": 92,
+          "t": "Nantucket, MA, USA"
+        },
+        "latest": {
+          "ts": 1615984527
+        },
+        "t": "Nantucket RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/nantucket-ma-us/nantucket-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/102",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1615827694
+        },
+        "t": "Montachusett RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/montachusett-ma-us/montachusett-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/101",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1615835067
+        },
+        "t": "Metrowest RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://vc.mwrta.com/gtfs/google_transit.zip",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/100",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1616836289
+        },
+        "t": "Merrimack Valley RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip",
+          "i": "Merrimack Valley RTA GTFS"
+        }
+      },
+      {
+        "id": "massdot/99",
+        "l": {
+          "id": 127,
+          "lat": 42.633425,
+          "lng": -71.316172,
+          "n": "Lowell",
+          "pid": 92,
+          "t": "Lowell, MA, USA"
+        },
+        "latest": {
+          "ts": 1615845697
+        },
+        "t": "Lowell RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/98",
+        "l": {
+          "id": 126,
+          "lat": 41.944544,
+          "lng": -71.285608,
+          "n": "Attleboro",
+          "pid": 92,
+          "t": "Attleboro, MA, USA"
+        },
+        "latest": {
+          "ts": 1615835249
+        },
+        "t": "GATRA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/gatra-ma-us/gatra-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/97",
+        "l": {
+          "id": 125,
+          "lat": 42.083431,
+          "lng": -71.396725,
+          "n": "Franklin",
+          "pid": 92,
+          "t": "Franklin, MA, USA"
+        },
+        "latest": {
+          "ts": 1419908703
+        },
+        "t": "Franklin RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "https://www.mass.gov/doc/franklin-rta-gtfs-files-zip-file-12292014/download",
+          "i": "https://www.mass.gov/lists/mbta-and-transit-data-for-developers"
+        }
+      },
+      {
+        "id": "massdot/96",
+        "l": {
+          "id": 124,
+          "lat": 41.672928,
+          "lng": -70.339087,
+          "n": "Cape Cod",
+          "pid": 92,
+          "t": "Cape Cod, MA, USA"
+        },
+        "latest": {
+          "ts": 1611308306
+        },
+        "t": "Cape Cod RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/95",
+        "l": {
+          "id": 92,
+          "lat": 42.407211,
+          "lng": -71.382437,
+          "n": "Massachusetts",
+          "pid": 31,
+          "t": "Massachusetts, USA"
+        },
+        "latest": {
+          "ts": 1615825948
+        },
+        "t": "Cape Ann RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/94",
+        "l": {
+          "id": 122,
+          "lat": 42.083433,
+          "lng": -71.018379,
+          "n": "Brockton",
+          "pid": 92,
+          "t": "Brockton, MA, USA"
+        },
+        "latest": {
+          "ts": 1615836686
+        },
+        "t": "Brockton Area Transit Authority RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      },
+      {
+        "id": "massdot/93",
+        "l": {
+          "id": 121,
+          "lat": 42.311782,
+          "lng": -73.182162,
+          "n": "Berkshire",
+          "pid": 92,
+          "t": "Berkshire, MA, USA"
+        },
+        "latest": {
+          "ts": 1615834406
+        },
+        "t": "Berkshire RTA GTFS",
+        "ty": "gtfs",
+        "u": {
+          "d": "http://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip",
+          "i": "http://www.massdot.state.ma.us/DevelopersData.aspx"
+        }
+      }
+    ],
+    "limit": 100,
+    "numPages": 13,
+    "page": 12,
+    "total": 1289
+  },
+  "status": "OK",
+  "ts": 1617078102
+}
