@@ -1,8 +1,11 @@
 import requests
+import hashlib
+import pathlib
 import json
 import os
 import sys
 import glob
+from urllib.parse import urlparse
 
 
 def loopThroughRequests(endpoint):
@@ -45,6 +48,30 @@ def getS3Urls():
                     fw.write(r.headers["Location"])
                     fw.write("\n")
 
+def downloadAllFeedVersions():
+    with open("json-scrape/feedVersionS3Urls.csv", "r") as f:
+        for raw_url in f:
+            parsed_url = urlparse(raw_url)
+            # provider and feed subdirectories
+            provider_feed_subpath = os.path.join('feed-versions', *parsed_url.path.split('/')[3:-2])
+            pathlib.Path(provider_feed_subpath).mkdir(parents=True, exist_ok=True)
+            # fv file
+            fv_id = parsed_url.path.split('/')[5]
+            write_file_name = os.path.join(provider_feed_subpath, f"{fv_id}.zip")
+            # prepare to hash
+            sha1 = hashlib.sha1()
+            # streaming download
+            r = requests.get(raw_url, allow_redirects=True, stream = True)
+            with open(write_file_name,"wb") as fv_file:
+                for chunk in r.iter_content(chunk_size=1024):
+                    # writing one chunk at a time to pdf file
+                    if chunk:
+                        sha1.update(chunk)
+                        fv_file.write(chunk)
+                print(f"Downloaded {write_file_name}")
+            write_file_name_with_hash = write_file_name.replace(".zip", f"-{sha1.hexdigest()}.zip")
+            os.rename(write_file_name, write_file_name_with_hash)
+            print(f"Moved to {write_file_name_with_hash}")
 
 if __name__ == "__main__":
     args = sys.argv[1:]
@@ -56,6 +83,8 @@ if __name__ == "__main__":
         mergeJsonFiles("getFeedVersions", "versions")
     elif args[0] == "s3urls":
         getS3Urls()
+    elif args[0] == 'download':
+        downloadAllFeedVersions()
     else:
         print("subcommands:")
         print("\n\t get")
